@@ -32,6 +32,9 @@ end
 function onUpdate()
 	
 	if getPropertyFromClass('flixel.FlxG', 'mouse.visible') and confirmed == 0 then
+		setProperty('key_shift.visible', true)
+                setProperty('key_space.visible', false)
+		
 		allowCountdown = true
 		startCountdown();
 		doTweenAlpha('nomorewarningimage', 'warningimage', 0, 1, sineOut);
@@ -42,6 +45,10 @@ function onUpdate()
 	end
 	
 	if getPropertyFromClass('flixel.FlxG', 'mouse.visible') and confirmed == 0 then
+		setProperty('key_shift.visible', true)
+                setProperty('key_space.visible', false)
+		
+		
 		allowCountdown = true
 		confirmed = 1
 		playSound('cancelMenu');
