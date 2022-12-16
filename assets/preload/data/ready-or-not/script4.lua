@@ -31,9 +31,6 @@ end
 
 function onUpdate()
 	
-	setProperty('key_shift.visible', true)
-        setProperty('key_space.visible', false)
-	
 	if getPropertyFromClass('flixel.FlxG', 'mouse.visible') and confirmed == 0 then
 		allowCountdown = true
 		startCountdown();
