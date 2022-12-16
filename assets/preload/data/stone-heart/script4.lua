@@ -1,6 +1,6 @@
 function onCreate()
 	precacheImage('stages/bedrock/charcbarbera');
-	precacheImage('stages/bedrock/barney_idle');
+	precacheImage('stages/bedrock/Barney_idle');
 	precacheImage('stages/bedrock/dino');
 	precacheImage('stages/bedrock/dino_fall');
 
