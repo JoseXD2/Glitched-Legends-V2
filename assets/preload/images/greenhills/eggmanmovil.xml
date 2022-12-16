@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eggmanmovil.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eggmanmovil instancia 10000" x="0" y="0" width="625" height="420" frameX="0" frameY="-24" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10001" x="0" y="0" width="625" height="420" frameX="0" frameY="-24" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10002" x="625" y="0" width="605" height="435" frameX="-10" frameY="-8" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10003" x="625" y="0" width="605" height="435" frameX="-10" frameY="-8" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10004" x="1230" y="0" width="579" height="443" frameX="-23" frameY="0" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10005" x="1230" y="0" width="579" height="443" frameX="-23" frameY="0" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10006" x="0" y="443" width="579" height="443" frameX="-23" frameY="0" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10007" x="0" y="443" width="579" height="443" frameX="-23" frameY="0" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10008" x="579" y="443" width="579" height="443" frameX="-23" frameY="0" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10009" x="579" y="443" width="579" height="443" frameX="-23" frameY="0" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10010" x="579" y="443" width="579" height="443" frameX="-23" frameY="0" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10011" x="579" y="443" width="579" height="443" frameX="-23" frameY="0" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10012" x="579" y="443" width="579" height="443" frameX="-23" frameY="0" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10013" x="579" y="443" width="579" height="443" frameX="-23" frameY="0" frameWidth="625" frameHeight="444"/>
+	<SubTexture name="eggmanmovil instancia 10014" x="579" y="443" width="579" height="443" frameX="-23" frameY="0" frameWidth="625" frameHeight="444"/>
+</TextureAtlas>

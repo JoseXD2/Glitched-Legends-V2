@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goldanimatedicons.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="seiya l instancia 10000" x="0" y="0" width="203" height="149" pivotX="15.6" pivotY="46.55" frameX="0" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10001" x="203" y="0" width="196" height="149" frameX="-4" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10002" x="203" y="0" width="196" height="149" frameX="-4" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10003" x="399" y="0" width="191" height="149" frameX="-4" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10004" x="399" y="0" width="191" height="149" frameX="-4" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10005" x="590" y="0" width="221" height="149" frameX="0" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10006" x="0" y="0" width="203" height="149" frameX="0" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10007" x="811" y="0" width="154" height="204" frameX="-10" frameY="0" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10008" x="203" y="0" width="196" height="149" frameX="-4" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10009" x="399" y="0" width="191" height="149" frameX="-4" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10010" x="399" y="0" width="191" height="149" frameX="-4" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10011" x="0" y="0" width="203" height="149" frameX="0" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10012" x="0" y="0" width="203" height="149" frameX="0" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10013" x="203" y="0" width="196" height="149" frameX="-4" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya l instancia 10014" x="203" y="0" width="196" height="149" frameX="-4" frameY="-32" frameWidth="221" frameHeight="204"/>
+	<SubTexture name="seiya n instancia 10000" x="0" y="204" width="208" height="141" pivotX="81.7" pivotY="44.6" frameX="-50" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya n instancia 10001" x="208" y="204" width="198" height="141" frameX="-61" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya n instancia 10002" x="406" y="204" width="282" height="181"/>
+	<SubTexture name="seiya n instancia 10003" x="688" y="204" width="193" height="141" frameX="-66" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya n instancia 10004" x="688" y="204" width="193" height="141" frameX="-66" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya n instancia 10005" x="0" y="204" width="208" height="141" frameX="-50" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya n instancia 10006" x="0" y="385" width="213" height="142" frameX="-50" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya n instancia 10007" x="208" y="204" width="198" height="141" frameX="-61" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya n instancia 10008" x="208" y="204" width="198" height="141" frameX="-61" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya n instancia 10009" x="688" y="204" width="193" height="141" frameX="-66" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya n instancia 10010" x="688" y="204" width="193" height="141" frameX="-66" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya n instancia 10011" x="0" y="204" width="208" height="141" frameX="-50" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya n instancia 10012" x="0" y="204" width="208" height="141" frameX="-50" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya n instancia 10013" x="208" y="204" width="198" height="141" frameX="-61" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya n instancia 10014" x="208" y="204" width="198" height="141" frameX="-61" frameY="-30" frameWidth="282" frameHeight="181"/>
+	<SubTexture name="seiya w instancia 10000" x="213" y="385" width="200" height="158" pivotX="21.25" pivotY="27.35" frameX="-6" frameY="0" frameWidth="209" frameHeight="158"/>
+	<SubTexture name="seiya w instancia 10001" x="413" y="385" width="200" height="158" frameX="-9" frameY="0" frameWidth="209" frameHeight="158"/>
+	<SubTexture name="seiya w instancia 10002" x="613" y="385" width="201" height="158" frameX="-1" frameY="0" frameWidth="209" frameHeight="158"/>
+	<SubTexture name="seiya w instancia 10003" x="814" y="385" width="200" height="158" frameX="-6" frameY="0" frameWidth="209" frameHeight="158"/>
+	<SubTexture name="seiya w instancia 10004" x="0" y="543" width="201" height="158" frameX="-1" frameY="0" frameWidth="209" frameHeight="158"/>
+	<SubTexture name="seiya w instancia 10005" x="814" y="385" width="200" height="158" frameX="-6" frameY="0" frameWidth="209" frameHeight="158"/>
+	<SubTexture name="seiya w instancia 10006" x="201" y="543" width="200" height="158" frameX="0" frameY="0" frameWidth="209" frameHeight="158"/>
+	<SubTexture name="seiya w instancia 10007" x="401" y="543" width="200" height="158" frameX="-8" frameY="0" frameWidth="209" frameHeight="158"/>
+	<SubTexture name="seiya w instancia 10008" x="601" y="543" width="200" height="158" frameX="0" frameY="0" frameWidth="209" frameHeight="158"/>
+</TextureAtlas>

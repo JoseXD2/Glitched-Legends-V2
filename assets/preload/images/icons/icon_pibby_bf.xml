@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon_pibby_bf.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfp_l instancia 10000" x="0" y="0" width="218" height="169" frameX="-14" frameY="0" frameWidth="245" frameHeight="171"/>
+	<SubTexture name="bfp_l instancia 10001" x="218" y="0" width="215" height="168" frameX="0" frameY="0" frameWidth="245" frameHeight="171"/>
+	<SubTexture name="bfp_l instancia 10002" x="433" y="0" width="213" height="168" frameX="-19" frameY="0" frameWidth="245" frameHeight="171"/>
+	<SubTexture name="bfp_l instancia 10003" x="646" y="0" width="215" height="171" frameX="-30" frameY="0" frameWidth="245" frameHeight="171"/>
+	<SubTexture name="bfp_l instancia 10004" x="0" y="171" width="223" height="171" frameX="-18" frameY="0" frameWidth="245" frameHeight="171"/>
+	<SubTexture name="bfp_l instancia 10005" x="223" y="171" width="212" height="169" frameX="-10" frameY="0" frameWidth="245" frameHeight="171"/>
+	<SubTexture name="bfp_l instancia 10006" x="435" y="171" width="215" height="169" frameX="-17" frameY="0" frameWidth="245" frameHeight="171"/>
+	<SubTexture name="bfp_l instancia 10007" x="650" y="171" width="231" height="168" frameX="-7" frameY="0" frameWidth="245" frameHeight="171"/>
+	<SubTexture name="bfp_l instancia 10008" x="0" y="342" width="228" height="168" frameX="-7" frameY="0" frameWidth="245" frameHeight="171"/>
+	<SubTexture name="bfp_l instancia 10009" x="228" y="342" width="228" height="171" frameX="-7" frameY="0" frameWidth="245" frameHeight="171"/>
+	<SubTexture name="bfp_n instancia 10000" x="456" y="342" width="212" height="139"/>
+	<SubTexture name="bfp_ww instancia 10000" x="668" y="342" width="203" height="145"/>
+</TextureAtlas>

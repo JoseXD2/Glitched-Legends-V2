@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sunflower_survivor.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sunflower instancia 10000" x="0" y="0" width="346" height="417" frameX="-21" frameY="-1" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10001" x="0" y="0" width="346" height="417" frameX="-21" frameY="-1" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10002" x="346" y="0" width="345" height="414" frameX="-39" frameY="-4" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10003" x="346" y="0" width="345" height="414" frameX="-39" frameY="-4" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10004" x="691" y="0" width="344" height="408" frameX="-57" frameY="-10" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10005" x="691" y="0" width="344" height="408" frameX="-57" frameY="-10" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10006" x="1035" y="0" width="349" height="402" frameX="-64" frameY="-16" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10007" x="1035" y="0" width="349" height="402" frameX="-64" frameY="-16" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10008" x="1384" y="0" width="348" height="401" frameX="-63" frameY="-17" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10009" x="1384" y="0" width="348" height="401" frameX="-63" frameY="-17" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10010" x="0" y="417" width="345" height="411" frameX="-51" frameY="-7" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10011" x="0" y="417" width="345" height="411" frameX="-51" frameY="-7" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10012" x="345" y="417" width="344" height="416" frameX="-32" frameY="-2" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10013" x="345" y="417" width="344" height="416" frameX="-32" frameY="-2" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10014" x="689" y="417" width="345" height="416" frameX="-24" frameY="-2" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10015" x="689" y="417" width="345" height="416" frameX="-24" frameY="-2" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10016" x="1034" y="417" width="344" height="418" frameX="-24" frameY="0" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10017" x="1034" y="417" width="344" height="418" frameX="-24" frameY="0" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10018" x="1378" y="417" width="342" height="410" frameX="-3" frameY="-8" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10019" x="1378" y="417" width="342" height="410" frameX="-3" frameY="-8" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10020" x="0" y="835" width="341" height="401" frameX="0" frameY="-17" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10021" x="0" y="835" width="341" height="401" frameX="0" frameY="-17" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10022" x="341" y="835" width="343" height="400" frameX="-10" frameY="-18" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10023" x="341" y="835" width="343" height="400" frameX="-10" frameY="-18" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10024" x="684" y="835" width="345" height="404" frameX="-25" frameY="-14" frameWidth="413" frameHeight="418"/>
+	<SubTexture name="sunflower instancia 10025" x="684" y="835" width="345" height="404" frameX="-25" frameY="-14" frameWidth="413" frameHeight="418"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "peashooter_pibby_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				230,
+				30
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "peashooter_pibby_left"
+		},
+		{
+			"offsets": [
+				200,
+				-240
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "peashooter_pibby_down"
+		},
+		{
+			"offsets": [
+				410,
+				280
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singUP",
+			"loop": false,
+			"name": "peashooter_pibby_up"
+		},
+		{
+			"offsets": [
+				100,
+				-60
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "peashooter_pibby_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/peashooter_pibby",
+	"position": [
+		-90,
+		260
+	],
+	"healthicon": "pea_icon_pibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		104,
+		255,
+		37
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sansandre_pibby_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				160,
+				30
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sansandre_pibby_left"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sansandre_pibby_down"
+		},
+		{
+			"offsets": [
+				-120,
+				260
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sansandre_pibby_up"
+		},
+		{
+			"offsets": [
+				-80,
+				-30
+			],
+			"indices": [],
+			"fps": 33,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sansandre_pibby_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Inline_sans_pibby",
+	"position": [
+		-130,
+		270
+	],
+	"healthicon": "inline_sans-pibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		186,
+		0,
+		238
+	],
+	"camera_position": [
+		-140,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="raven_idle.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="characrobin instancia 10000" x="0" y="0" width="1032" height="624" frameX="-62" frameY="-254" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10001" x="1032" y="0" width="1032" height="624" frameX="-62" frameY="-254" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10002" x="2064" y="0" width="1082" height="620" frameX="0" frameY="-209" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10003" x="0" y="624" width="1082" height="620" frameX="0" frameY="-209" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10004" x="1082" y="624" width="1068" height="702" frameX="-48" frameY="-87" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10005" x="2150" y="624" width="1068" height="702" frameX="-48" frameY="-87" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10006" x="3218" y="624" width="821" height="770" frameX="-131" frameY="0" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10007" x="0" y="1394" width="821" height="770" frameX="-131" frameY="0" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10008" x="821" y="1394" width="933" height="651" frameX="-90" frameY="-109" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10009" x="1754" y="1394" width="933" height="651" frameX="-90" frameY="-109" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10010" x="2687" y="1394" width="1056" height="622" frameX="-45" frameY="-141" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10011" x="0" y="2164" width="1056" height="622" frameX="-45" frameY="-141" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10012" x="1056" y="2164" width="977" height="550" frameX="-79" frameY="-219" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10013" x="2033" y="2164" width="977" height="550" frameX="-79" frameY="-219" frameWidth="1116" frameHeight="878"/>
+	<SubTexture name="characrobin instancia 10014" x="3010" y="2164" width="977" height="548" frameX="-79" frameY="-219" frameWidth="1116" frameHeight="878"/>
+</TextureAtlas>

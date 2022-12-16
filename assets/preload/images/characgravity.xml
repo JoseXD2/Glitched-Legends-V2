@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="characgravity.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="charctfallsf instancia 10000" x="804" y="0" width="774" height="356" pivotX="383.2" pivotY="11.1" frameX="-6" frameY="-10" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10001" x="804" y="0" width="774" height="356" frameX="-6" frameY="-10" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10002" x="0" y="0" width="804" height="362" frameX="0" frameY="-8" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10003" x="0" y="0" width="804" height="362" frameX="0" frameY="-8" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10004" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10005" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10006" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10007" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10008" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10009" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10010" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10011" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10012" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10013" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10014" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10015" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10016" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10017" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10018" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10019" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10020" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10021" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10022" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10023" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+	<SubTexture name="charctfallsf instancia 10024" x="1578" y="0" width="756" height="363" frameX="0" frameY="0" frameWidth="804" frameHeight="370"/>
+</TextureAtlas>

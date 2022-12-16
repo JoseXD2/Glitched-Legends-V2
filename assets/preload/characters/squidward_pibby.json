@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Squid_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Squid_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-210
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Squid_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				140
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Squid_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				80
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Squid_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/squidward_pibby",
+	"position": [
+		-140,
+		110
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-470,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

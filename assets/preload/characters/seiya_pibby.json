@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "seiya_pibby_idle"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "seiya_pibby_left"
+		},
+		{
+			"offsets": [
+				150,
+				-90
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "seiya_pibby_down"
+		},
+		{
+			"offsets": [
+				0,
+				160
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "seiya_pibby_up"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "seiya_pibby_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/seiya_pibby",
+	"position": [
+		-50,
+		190
+	],
+	"healthicon": "seiya-icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		1,
+		43
+	],
+	"camera_position": [
+		-310,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

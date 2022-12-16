@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vickyanimatedicon.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vicky_l instancia 10000" x="0" y="0" width="189" height="142" frameX="-8" frameY="-15" frameWidth="208" frameHeight="195"/>
+	<SubTexture name="vicky_l instancia 10001" x="189" y="0" width="189" height="133" frameX="-15" frameY="-24" frameWidth="208" frameHeight="195"/>
+	<SubTexture name="vicky_l instancia 10002" x="378" y="0" width="132" height="195" frameX="-40" frameY="0" frameWidth="208" frameHeight="195"/>
+	<SubTexture name="vicky_l instancia 10003" x="510" y="0" width="188" height="146" frameX="-11" frameY="-11" frameWidth="208" frameHeight="195"/>
+	<SubTexture name="vicky_l instancia 10004" x="510" y="0" width="188" height="146" frameX="-6" frameY="-11" frameWidth="208" frameHeight="195"/>
+	<SubTexture name="vicky_l instancia 10005" x="698" y="0" width="189" height="138" frameX="0" frameY="-19" frameWidth="208" frameHeight="195"/>
+	<SubTexture name="vicky_l instancia 10006" x="698" y="0" width="189" height="138" frameX="-14" frameY="-19" frameWidth="208" frameHeight="195"/>
+	<SubTexture name="vicky_l instancia 10007" x="0" y="195" width="189" height="141" frameX="-17" frameY="-16" frameWidth="208" frameHeight="195"/>
+	<SubTexture name="vicky_l instancia 10008" x="0" y="195" width="189" height="141" frameX="-12" frameY="-17" frameWidth="208" frameHeight="195"/>
+	<SubTexture name="vicky_l instancia 10009" x="0" y="0" width="189" height="142" frameX="-19" frameY="-15" frameWidth="208" frameHeight="195"/>
+	<SubTexture name="vicky_n instancia 10000" x="189" y="195" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10001" x="377" y="195" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10002" x="565" y="195" width="196" height="150" frameX="0" frameY="0" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10003" x="761" y="195" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10004" x="761" y="195" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10005" x="0" y="345" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10006" x="0" y="345" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10007" x="189" y="195" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10008" x="189" y="195" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10009" x="377" y="195" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10010" x="377" y="195" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10011" x="761" y="195" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10012" x="761" y="195" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10013" x="0" y="345" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_n instancia 10014" x="0" y="345" width="188" height="145" frameX="-6" frameY="-7" frameWidth="196" frameHeight="152"/>
+	<SubTexture name="vicky_w instancia 10000" x="188" y="345" width="186" height="141" frameX="-4" frameY="0" frameWidth="200" frameHeight="141"/>
+	<SubTexture name="vicky_w instancia 10001" x="374" y="345" width="186" height="141" frameX="-10" frameY="-1" frameWidth="200" frameHeight="141"/>
+	<SubTexture name="vicky_w instancia 10002" x="560" y="345" width="196" height="142" frameX="0" frameY="0" frameWidth="200" frameHeight="141"/>
+	<SubTexture name="vicky_w instancia 10003" x="756" y="345" width="189" height="142" frameX="-7" frameY="0" frameWidth="200" frameHeight="141"/>
+	<SubTexture name="vicky_w instancia 10004" x="0" y="490" width="187" height="141" frameX="0" frameY="0" frameWidth="200" frameHeight="141"/>
+	<SubTexture name="vicky_w instancia 10005" x="187" y="490" width="187" height="142" frameX="-7" frameY="0" frameWidth="200" frameHeight="141"/>
+	<SubTexture name="vicky_w instancia 10006" x="187" y="490" width="187" height="142" frameX="0" frameY="0" frameWidth="200" frameHeight="141"/>
+	<SubTexture name="vicky_w instancia 10007" x="374" y="490" width="187" height="141" frameX="-13" frameY="-1" frameWidth="200" frameHeight="141"/>
+	<SubTexture name="vicky_w instancia 10008" x="374" y="490" width="187" height="141" frameX="-5" frameY="0" frameWidth="200" frameHeight="141"/>
+	<SubTexture name="vicky_w instancia 10009" x="0" y="490" width="187" height="141" frameX="-13" frameY="-1" frameWidth="200" frameHeight="141"/>
+</TextureAtlas>

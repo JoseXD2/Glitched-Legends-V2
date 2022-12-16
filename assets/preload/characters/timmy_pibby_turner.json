@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "timmy_pibby_idle"
+		},
+		{
+			"offsets": [
+				50,
+				-190
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "timmy_pibby_left"
+		},
+		{
+			"offsets": [
+				100,
+				0
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "timmy_pibby_down"
+		},
+		{
+			"offsets": [
+				0,
+				160
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singUP",
+			"loop": false,
+			"name": "timmy_pibby_up"
+		},
+		{
+			"offsets": [
+				-40,
+				0
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "timmy_pibby_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/timmy_pibby_turner",
+	"position": [
+		-220,
+		-20
+	],
+	"healthicon": "tymmy",
+	"flip_x": false,
+	"healthbar_colors": [
+		190,
+		60,
+		175
+	],
+	"camera_position": [
+		-120,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

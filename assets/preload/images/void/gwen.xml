@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gwen.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gwen?idle instancia 10000" x="0" y="0" width="333" height="513" frameX="0" frameY="-17" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10001" x="0" y="0" width="333" height="513" frameX="0" frameY="-17" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10002" x="333" y="0" width="315" height="515" frameX="-9" frameY="-15" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10003" x="333" y="0" width="315" height="515" frameX="-9" frameY="-15" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10004" x="648" y="0" width="301" height="524" frameX="-16" frameY="-6" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10005" x="648" y="0" width="301" height="524" frameX="-16" frameY="-6" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10006" x="949" y="0" width="301" height="527" frameX="-16" frameY="-3" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10007" x="949" y="0" width="301" height="527" frameX="-16" frameY="-3" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10008" x="1250" y="0" width="301" height="530" frameX="-16" frameY="0" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10009" x="1250" y="0" width="301" height="530" frameX="-16" frameY="0" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10010" x="1250" y="0" width="301" height="530" frameX="-16" frameY="0" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10011" x="1250" y="0" width="301" height="530" frameX="-16" frameY="0" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10012" x="1250" y="0" width="301" height="530" frameX="-16" frameY="0" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10013" x="1250" y="0" width="301" height="530" frameX="-16" frameY="0" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="gwen?idle instancia 10014" x="1250" y="0" width="301" height="530" frameX="-16" frameY="0" frameWidth="333" frameHeight="530"/>
+</TextureAtlas>

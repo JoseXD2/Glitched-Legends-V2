@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="batman.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="batman_idle instancia 10000" x="0" y="0" width="669" height="742" frameX="0" frameY="-33" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10001" x="0" y="0" width="669" height="742" frameX="0" frameY="-33" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10002" x="669" y="0" width="671" height="755" frameX="-12" frameY="-20" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10003" x="669" y="0" width="671" height="755" frameX="-12" frameY="-20" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10004" x="1340" y="0" width="689" height="765" frameX="-12" frameY="-10" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10005" x="1340" y="0" width="689" height="765" frameX="-12" frameY="-10" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10006" x="0" y="765" width="689" height="775" frameX="-12" frameY="0" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10007" x="0" y="765" width="689" height="775" frameX="-12" frameY="0" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10008" x="689" y="765" width="689" height="775" frameX="-12" frameY="0" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10009" x="689" y="765" width="689" height="775" frameX="-12" frameY="0" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10010" x="689" y="765" width="689" height="775" frameX="-12" frameY="0" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10011" x="689" y="765" width="689" height="775" frameX="-12" frameY="0" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10012" x="689" y="765" width="689" height="775" frameX="-12" frameY="0" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10013" x="689" y="765" width="689" height="775" frameX="-12" frameY="0" frameWidth="701" frameHeight="775"/>
+	<SubTexture name="batman_idle instancia 10014" x="689" y="765" width="689" height="775" frameX="-12" frameY="0" frameWidth="701" frameHeight="775"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_reload_old.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf_reload instancia 10000" x="0" y="0" width="674" height="456" frameX="0" frameY="-3" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10001" x="0" y="0" width="674" height="456" frameX="0" frameY="-3" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10002" x="674" y="0" width="547" height="454" frameX="-127" frameY="-5" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10003" x="1221" y="0" width="564" height="448" frameX="-110" frameY="-11" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10004" x="1221" y="0" width="564" height="448" frameX="-110" frameY="-11" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10005" x="0" y="456" width="559" height="453" frameX="-107" frameY="-6" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10006" x="0" y="456" width="559" height="453" frameX="-107" frameY="-6" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10007" x="559" y="456" width="557" height="459" frameX="-109" frameY="0" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10008" x="559" y="456" width="557" height="459" frameX="-109" frameY="0" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10009" x="1116" y="456" width="566" height="455" frameX="-108" frameY="-4" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10010" x="1116" y="456" width="566" height="455" frameX="-108" frameY="-4" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10011" x="0" y="915" width="575" height="451" frameX="-106" frameY="-8" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10012" x="0" y="915" width="575" height="451" frameX="-106" frameY="-8" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10013" x="0" y="915" width="575" height="451" frameX="-106" frameY="-8" frameWidth="681" frameHeight="459"/>
+	<SubTexture name="bf_reload instancia 10014" x="0" y="915" width="575" height="451" frameX="-106" frameY="-8" frameWidth="681" frameHeight="459"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portal.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="monika_portals instancia 10000" x="0" y="0" width="485" height="370"/>
+	<SubTexture name="monika_portals instancia 10001" x="0" y="0" width="485" height="370"/>
+	<SubTexture name="monika_portals instancia 10002" x="485" y="0" width="474" height="358" frameX="0" frameY="0" frameWidth="485" frameHeight="370"/>
+	<SubTexture name="monika_portals instancia 10003" x="485" y="0" width="474" height="358" frameX="0" frameY="0" frameWidth="485" frameHeight="370"/>
+	<SubTexture name="monika_portals instancia 10004" x="0" y="370" width="465" height="346" frameX="0" frameY="0" frameWidth="485" frameHeight="370"/>
+	<SubTexture name="monika_portals instancia 10005" x="0" y="370" width="465" height="346" frameX="0" frameY="0" frameWidth="485" frameHeight="370"/>
+	<SubTexture name="monika_portals instancia 10006" x="465" y="370" width="456" height="346" frameX="0" frameY="0" frameWidth="485" frameHeight="370"/>
+	<SubTexture name="monika_portals instancia 10007" x="465" y="370" width="456" height="346" frameX="0" frameY="0" frameWidth="485" frameHeight="370"/>
+	<SubTexture name="monika_portals instancia 10008" x="465" y="370" width="456" height="346" frameX="0" frameY="0" frameWidth="485" frameHeight="370"/>
+	<SubTexture name="monika_portals instancia 10009" x="465" y="370" width="456" height="346" frameX="0" frameY="0" frameWidth="485" frameHeight="370"/>
+	<SubTexture name="monika_portals instancia 10010" x="465" y="370" width="456" height="346" frameX="0" frameY="0" frameWidth="485" frameHeight="370"/>
+	<SubTexture name="monika_portals instancia 10011" x="465" y="370" width="456" height="346" frameX="0" frameY="0" frameWidth="485" frameHeight="370"/>
+	<SubTexture name="monika_portals instancia 10012" x="465" y="370" width="456" height="346" frameX="0" frameY="0" frameWidth="485" frameHeight="370"/>
+	<SubTexture name="monika_portals instancia 10013" x="465" y="370" width="456" height="346" frameX="0" frameY="0" frameWidth="485" frameHeight="370"/>
+	<SubTexture name="monika_portals instancia 10014" x="465" y="370" width="456" height="346" frameX="0" frameY="0" frameWidth="485" frameHeight="370"/>
+</TextureAtlas>

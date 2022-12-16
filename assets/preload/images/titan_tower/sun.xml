@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sun.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="soll instancia 10000" x="0" y="0" width="1526" height="1319" frameX="-11" frameY="-85" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10001" x="0" y="0" width="1526" height="1319" frameX="-11" frameY="-85" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10002" x="1526" y="0" width="1475" height="1296" frameX="-19" frameY="-93" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10003" x="1526" y="0" width="1475" height="1296" frameX="-19" frameY="-93" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10004" x="3001" y="0" width="1500" height="1345" frameX="0" frameY="-54" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10005" x="3001" y="0" width="1500" height="1345" frameX="0" frameY="-54" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10006" x="4501" y="0" width="1375" height="1309" frameX="-38" frameY="-67" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10007" x="4501" y="0" width="1375" height="1309" frameX="-38" frameY="-67" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10008" x="5876" y="0" width="1414" height="1386" frameX="-18" frameY="-18" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10009" x="5876" y="0" width="1414" height="1386" frameX="-18" frameY="-18" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10010" x="0" y="1386" width="1437" height="1383" frameX="-9" frameY="-2" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10011" x="0" y="1386" width="1437" height="1383" frameX="-9" frameY="-2" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10012" x="1437" y="1386" width="1443" height="1337" frameX="-18" frameY="0" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10013" x="1437" y="1386" width="1443" height="1337" frameX="-18" frameY="0" frameWidth="1537" frameHeight="1404"/>
+	<SubTexture name="soll instancia 10014" x="2880" y="1386" width="1452" height="1233" frameX="-26" frameY="-41" frameWidth="1537" frameHeight="1404"/>
+</TextureAtlas>

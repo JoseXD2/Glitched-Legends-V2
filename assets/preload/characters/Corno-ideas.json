@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Corno_idle"
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Corno_left"
+		},
+		{
+			"offsets": [
+				-20,
+				-20
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Corno_down"
+		},
+		{
+			"offsets": [
+				-10,
+				20
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Corno_up"
+		},
+		{
+			"offsets": [
+				50,
+				-10
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Corno_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corno",
+	"position": [
+		-10,
+		360
+	],
+	"healthicon": "icon-corno",
+	"flip_x": true,
+	"healthbar_colors": [
+		27,
+		0,
+		56
+	],
+	"camera_position": [
+		-100,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

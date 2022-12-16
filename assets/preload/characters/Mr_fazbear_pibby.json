@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-90,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Mr_fazbear_idle"
+		},
+		{
+			"offsets": [
+				170,
+				0
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mr_fazbear_left"
+		},
+		{
+			"offsets": [
+				-20,
+				-30
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mr_fazbear_down"
+		},
+		{
+			"offsets": [
+				80,
+				180
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mr_fazbear_up"
+		},
+		{
+			"offsets": [
+				-70,
+				0
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mr_fazbear_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mr_fazbear_pibby",
+	"position": [
+		-300,
+		90
+	],
+	"healthicon": "Mr Faz_glitch",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		102,
+		0
+	],
+	"camera_position": [
+		-140,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

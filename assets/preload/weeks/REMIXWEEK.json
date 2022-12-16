@@ -1,0 +1,59 @@
+{
+	"songs": [
+                     [
+			"glitched-falls-remix",
+			"icon_pibby_twins",
+			[
+				0,
+				0,
+				13
+			]
+		],
+		[
+			"birds-and-botany-remix",
+			"botanybirdsicon",
+			[
+				0,
+				0,
+				13
+			]
+		],
+		[
+			"controlization-remix",
+			"robin_icon",
+			[
+				206,
+				0,
+				0
+			]
+		],
+		[
+			"fallen-knight-remix",
+			"seiya-icons",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "remix",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

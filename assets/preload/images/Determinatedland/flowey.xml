@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flowey.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idleflowey instancia 10000" x="0" y="0" width="225" height="210" frameX="0" frameY="-8" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10001" x="0" y="0" width="225" height="210" frameX="0" frameY="-8" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10002" x="225" y="0" width="225" height="216" frameX="0" frameY="-2" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10003" x="225" y="0" width="225" height="216" frameX="0" frameY="-2" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10004" x="450" y="0" width="230" height="217" frameX="0" frameY="0" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10005" x="450" y="0" width="230" height="217" frameX="0" frameY="0" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10006" x="680" y="0" width="229" height="217" frameX="0" frameY="0" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10007" x="680" y="0" width="229" height="217" frameX="0" frameY="0" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10008" x="0" y="217" width="238" height="217" frameX="0" frameY="0" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10009" x="0" y="217" width="238" height="217" frameX="0" frameY="0" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10010" x="0" y="217" width="238" height="217" frameX="0" frameY="0" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10011" x="0" y="217" width="238" height="217" frameX="0" frameY="0" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10012" x="0" y="217" width="238" height="217" frameX="0" frameY="0" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10013" x="0" y="217" width="238" height="217" frameX="0" frameY="0" frameWidth="238" frameHeight="218"/>
+	<SubTexture name="idleflowey instancia 10014" x="0" y="217" width="238" height="217" frameX="0" frameY="0" frameWidth="238" frameHeight="218"/>
+</TextureAtlas>

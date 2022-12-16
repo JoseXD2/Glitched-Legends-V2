@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_pibby.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf_pibby instancia 10000" x="0" y="0" width="366" height="528" frameX="-8" frameY="-18" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10001" x="0" y="0" width="366" height="528" frameX="-8" frameY="-18" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10002" x="366" y="0" width="369" height="531" frameX="-3" frameY="-15" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10003" x="366" y="0" width="369" height="531" frameX="-3" frameY="-15" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10004" x="735" y="0" width="367" height="535" frameX="-5" frameY="-10" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10005" x="735" y="0" width="367" height="535" frameX="-5" frameY="-10" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10006" x="1102" y="0" width="368" height="544" frameX="-2" frameY="-1" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10007" x="1102" y="0" width="368" height="544" frameX="-2" frameY="-1" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10008" x="1470" y="0" width="370" height="545" frameX="0" frameY="0" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10009" x="1470" y="0" width="370" height="545" frameX="0" frameY="0" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10010" x="1470" y="0" width="370" height="545" frameX="0" frameY="0" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10011" x="1470" y="0" width="370" height="545" frameX="0" frameY="0" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10012" x="1470" y="0" width="370" height="545" frameX="0" frameY="0" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10013" x="1470" y="0" width="370" height="545" frameX="0" frameY="0" frameWidth="374" frameHeight="546"/>
+	<SubTexture name="gf_pibby instancia 10014" x="1470" y="0" width="370" height="545" frameX="0" frameY="0" frameWidth="374" frameHeight="546"/>
+</TextureAtlas>

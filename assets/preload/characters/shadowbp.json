@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "shadow_idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "shadow_left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "shadow_down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "shadow_up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "shadow_rigth"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shadowb_pibby",
+	"position": [
+		-270,
+		-140
+	],
+	"healthicon": "shadow_bonnie_fnaf",
+	"flip_x": false,
+	"healthbar_colors": [
+		229,
+		0,
+		255
+	],
+	"camera_position": [
+		-100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

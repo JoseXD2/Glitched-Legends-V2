@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				210,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Oswald_ntm_idle"
+		},
+		{
+			"offsets": [
+				150,
+				-50
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "attack",
+			"indices": [],
+			"name": "Oswald_ntm_attack"
+		},
+		{
+			"offsets": [
+				220,
+				50
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Oswald_ntm_left"
+		},
+		{
+			"offsets": [
+				60,
+				-340
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Oswald_ntm_down"
+		},
+		{
+			"offsets": [
+				170,
+				-40
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Oswald_ntm_up"
+		},
+		{
+			"offsets": [
+				70,
+				-10
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Oswald_ntm_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oswald_ntm_pibby",
+	"position": [
+		-10,
+		-170
+	],
+	"healthicon": "icon_oswald_ntm",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-580,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

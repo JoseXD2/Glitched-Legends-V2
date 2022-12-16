@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dt_sayori_survivor.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dt_sayori_durvivor instancia 10000" x="0" y="0" width="343" height="546" frameX="0" frameY="-31" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10001" x="0" y="0" width="343" height="546" frameX="0" frameY="-31" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10002" x="343" y="0" width="298" height="557" frameX="-23" frameY="-20" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10003" x="343" y="0" width="298" height="557" frameX="-23" frameY="-20" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10004" x="641" y="0" width="287" height="562" frameX="-31" frameY="-14" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10005" x="641" y="0" width="287" height="562" frameX="-31" frameY="-14" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10006" x="928" y="0" width="281" height="572" frameX="-37" frameY="-4" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10007" x="928" y="0" width="281" height="572" frameX="-37" frameY="-4" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10008" x="1209" y="0" width="283" height="576" frameX="-37" frameY="0" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10009" x="1209" y="0" width="283" height="576" frameX="-37" frameY="0" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10010" x="1492" y="0" width="285" height="576" frameX="-37" frameY="0" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10011" x="1492" y="0" width="285" height="576" frameX="-37" frameY="0" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10012" x="1492" y="0" width="285" height="576" frameX="-37" frameY="0" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10013" x="1492" y="0" width="285" height="576" frameX="-37" frameY="0" frameWidth="343" frameHeight="577"/>
+	<SubTexture name="dt_sayori_durvivor instancia 10014" x="1492" y="0" width="285" height="576" frameX="-37" frameY="0" frameWidth="343" frameHeight="577"/>
+</TextureAtlas>

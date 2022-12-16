@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="starfire.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="intro_star instancia 10000" x="0" y="0" width="8" height="8" frameX="-965" frameY="-156" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10001" x="0" y="0" width="8" height="8" frameX="-965" frameY="-156" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10002" x="8" y="0" width="40" height="35" frameX="-915" frameY="-127" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10003" x="8" y="0" width="40" height="35" frameX="-915" frameY="-127" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10004" x="48" y="0" width="67" height="50" frameX="-804" frameY="-95" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10005" x="48" y="0" width="67" height="50" frameX="-804" frameY="-95" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10006" x="115" y="0" width="122" height="85" frameX="-647" frameY="-40" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10007" x="115" y="0" width="122" height="85" frameX="-647" frameY="-40" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10008" x="237" y="0" width="170" height="113" frameX="-366" frameY="-6" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10009" x="237" y="0" width="170" height="113" frameX="-366" frameY="-6" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10010" x="407" y="0" width="256" height="160" frameX="0" frameY="-25" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10011" x="407" y="0" width="256" height="160" frameX="0" frameY="-25" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10012" x="663" y="0" width="264" height="196" frameX="-67" frameY="-122" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10013" x="663" y="0" width="264" height="196" frameX="-67" frameY="-122" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10014" x="927" y="0" width="286" height="318" frameX="-375" frameY="-50" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10015" x="927" y="0" width="286" height="318" frameX="-375" frameY="-50" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10016" x="1213" y="0" width="322" height="396" frameX="-387" frameY="-11" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10017" x="1213" y="0" width="322" height="396" frameX="-387" frameY="-11" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10018" x="1535" y="0" width="319" height="392" frameX="-503" frameY="0" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10019" x="1535" y="0" width="319" height="392" frameX="-503" frameY="0" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="intro_star instancia 10020" x="1535" y="0" width="319" height="392" frameX="-503" frameY="0" frameWidth="973" frameHeight="407"/>
+	<SubTexture name="star_idle instancia 10000" x="0" y="396" width="310" height="424" frameX="-1" frameY="-46" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10001" x="0" y="396" width="310" height="424" frameX="-1" frameY="-46" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10002" x="310" y="396" width="310" height="422" frameX="-1" frameY="-38" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10003" x="310" y="396" width="310" height="422" frameX="-1" frameY="-38" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10004" x="620" y="396" width="311" height="409" frameX="0" frameY="-35" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10005" x="620" y="396" width="311" height="409" frameX="0" frameY="-35" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10006" x="931" y="396" width="311" height="423" frameX="0" frameY="-11" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10007" x="931" y="396" width="311" height="423" frameX="0" frameY="-11" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10008" x="1242" y="396" width="311" height="434" frameX="0" frameY="0" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10009" x="1242" y="396" width="311" height="434" frameX="0" frameY="0" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10010" x="1553" y="396" width="311" height="434" frameX="0" frameY="0" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10011" x="1553" y="396" width="311" height="434" frameX="0" frameY="0" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10012" x="0" y="830" width="311" height="434" frameX="0" frameY="0" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10013" x="0" y="830" width="311" height="434" frameX="0" frameY="0" frameWidth="311" frameHeight="470"/>
+	<SubTexture name="star_idle instancia 10014" x="0" y="830" width="311" height="434" frameX="0" frameY="0" frameWidth="311" frameHeight="470"/>
+</TextureAtlas>

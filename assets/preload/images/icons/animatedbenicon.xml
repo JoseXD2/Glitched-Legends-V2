@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animatedbenicon.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ben_l instancia 10000" x="0" y="0" width="193" height="150" pivotX="41.15" pivotY="10.05" frameX="0" frameY="-8" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10001" x="193" y="0" width="187" height="152" frameX="-4" frameY="-8" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10002" x="380" y="0" width="184" height="158" frameX="-8" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10003" x="564" y="0" width="184" height="152" frameX="-8" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10004" x="748" y="0" width="176" height="152" frameX="-16" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10005" x="748" y="0" width="176" height="152" frameX="-16" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10006" x="0" y="158" width="191" height="152" frameX="-1" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10007" x="0" y="158" width="191" height="152" frameX="-1" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10008" x="564" y="0" width="184" height="152" frameX="-8" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10009" x="564" y="0" width="184" height="152" frameX="-8" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10010" x="748" y="0" width="176" height="152" frameX="-16" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10011" x="748" y="0" width="176" height="152" frameX="-16" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10012" x="0" y="158" width="191" height="152" frameX="-1" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10013" x="0" y="158" width="191" height="152" frameX="-1" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10014" x="564" y="0" width="184" height="152" frameX="-8" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10015" x="564" y="0" width="184" height="152" frameX="-8" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10016" x="748" y="0" width="176" height="152" frameX="-16" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10017" x="748" y="0" width="176" height="152" frameX="-16" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10018" x="0" y="158" width="191" height="152" frameX="-1" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_l instancia 10019" x="0" y="158" width="191" height="152" frameX="-1" frameY="0" frameWidth="193" frameHeight="160"/>
+	<SubTexture name="ben_n instancia 10000" x="191" y="158" width="157" height="136" pivotX="54.35" pivotY="-1.55" frameX="-19" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10001" x="348" y="158" width="160" height="142" frameX="-21" frameY="-2" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10002" x="508" y="158" width="160" height="146" frameX="-11" frameY="0" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10003" x="668" y="158" width="176" height="143" frameX="-13" frameY="-3" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10004" x="844" y="158" width="170" height="139" frameX="-14" frameY="-6" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10005" x="0" y="310" width="162" height="136" frameX="-14" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10006" x="162" y="310" width="167" height="136" frameX="-9" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10007" x="329" y="310" width="163" height="136" frameX="-13" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10008" x="329" y="310" width="163" height="136" frameX="-13" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10009" x="492" y="310" width="176" height="136" frameX="0" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10010" x="492" y="310" width="176" height="136" frameX="0" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10011" x="162" y="310" width="167" height="136" frameX="-9" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10012" x="162" y="310" width="167" height="136" frameX="-9" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10013" x="329" y="310" width="163" height="136" frameX="-13" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10014" x="329" y="310" width="163" height="136" frameX="-13" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10015" x="492" y="310" width="176" height="136" frameX="0" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10016" x="492" y="310" width="176" height="136" frameX="0" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10017" x="162" y="310" width="167" height="136" frameX="-9" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10018" x="162" y="310" width="167" height="136" frameX="-9" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10019" x="329" y="310" width="163" height="136" frameX="-13" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10020" x="329" y="310" width="163" height="136" frameX="-13" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10021" x="492" y="310" width="176" height="136" frameX="0" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10022" x="492" y="310" width="176" height="136" frameX="0" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10023" x="162" y="310" width="167" height="136" frameX="-9" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_n instancia 10024" x="162" y="310" width="167" height="136" frameX="-9" frameY="-9" frameWidth="189" frameHeight="146"/>
+	<SubTexture name="ben_w instancia 10000" x="668" y="310" width="194" height="142" pivotX="27.25" pivotY="6" frameX="0" frameY="0" frameWidth="194" frameHeight="144"/>
+	<SubTexture name="ben_w instancia 10001" x="0" y="452" width="179" height="144" frameX="-8" frameY="0" frameWidth="194" frameHeight="144"/>
+	<SubTexture name="ben_w instancia 10002" x="179" y="452" width="170" height="144" frameX="-12" frameY="0" frameWidth="194" frameHeight="144"/>
+	<SubTexture name="ben_w instancia 10003" x="349" y="452" width="172" height="142" frameX="-15" frameY="0" frameWidth="194" frameHeight="144"/>
+	<SubTexture name="ben_w instancia 10004" x="521" y="452" width="178" height="142" frameX="-13" frameY="0" frameWidth="194" frameHeight="144"/>
+	<SubTexture name="ben_w instancia 10005" x="699" y="452" width="178" height="142" frameX="-12" frameY="0" frameWidth="194" frameHeight="144"/>
+	<SubTexture name="ben_w instancia 10006" x="0" y="596" width="170" height="142" frameX="-17" frameY="0" frameWidth="194" frameHeight="144"/>
+	<SubTexture name="ben_w instancia 10007" x="170" y="596" width="170" height="144" frameX="-12" frameY="0" frameWidth="194" frameHeight="144"/>
+	<SubTexture name="ben_w instancia 10008" x="170" y="596" width="170" height="144" frameX="-19" frameY="0" frameWidth="194" frameHeight="144"/>
+	<SubTexture name="ben_w instancia 10009" x="340" y="596" width="170" height="142" frameX="-10" frameY="0" frameWidth="194" frameHeight="144"/>
+</TextureAtlas>

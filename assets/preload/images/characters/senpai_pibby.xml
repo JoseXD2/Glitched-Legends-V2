@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="senpai_pibby.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="senpai_píbby_down instancia 10000" x="0" y="0" width="496" height="609" frameX="-13" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10001" x="496" y="0" width="509" height="609" frameX="0" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10002" x="1005" y="0" width="509" height="611" frameX="-6" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10003" x="1005" y="0" width="509" height="611" frameX="-6" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10004" x="1514" y="0" width="520" height="607" frameX="-2" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10005" x="1514" y="0" width="520" height="607" frameX="-2" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10006" x="2034" y="0" width="470" height="597" frameX="-19" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10007" x="2504" y="0" width="470" height="597" frameX="-19" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10008" x="2974" y="0" width="471" height="598" frameX="-21" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10009" x="2974" y="0" width="471" height="598" frameX="-21" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10010" x="3445" y="0" width="496" height="609" frameX="-13" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10011" x="3445" y="0" width="496" height="609" frameX="-13" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10012" x="3941" y="0" width="509" height="611" frameX="-6" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10013" x="3941" y="0" width="509" height="611" frameX="-6" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_down instancia 10014" x="4450" y="0" width="520" height="607" frameX="-2" frameY="0" frameWidth="522" frameHeight="611"/>
+	<SubTexture name="senpai_píbby_idle instancia 10000" x="4970" y="0" width="413" height="575" frameX="-40" frameY="-27" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10001" x="5383" y="0" width="424" height="575" frameX="-40" frameY="-27" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10002" x="5807" y="0" width="446" height="579" frameX="-21" frameY="-24" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10003" x="6253" y="0" width="460" height="579" frameX="-21" frameY="-24" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10004" x="6713" y="0" width="421" height="599" frameX="-16" frameY="-4" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10005" x="6713" y="0" width="421" height="599" frameX="-16" frameY="-4" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10006" x="7134" y="0" width="421" height="603" frameX="-6" frameY="0" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10007" x="7134" y="0" width="421" height="603" frameX="-6" frameY="0" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10008" x="7555" y="0" width="414" height="603" frameX="-6" frameY="0" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10009" x="7555" y="0" width="414" height="603" frameX="-6" frameY="0" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10010" x="0" y="611" width="401" height="603" frameX="-6" frameY="0" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10011" x="401" y="611" width="401" height="603" frameX="-6" frameY="0" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10012" x="401" y="611" width="401" height="603" frameX="-6" frameY="0" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10013" x="802" y="611" width="401" height="603" frameX="-6" frameY="0" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_idle instancia 10014" x="802" y="611" width="401" height="603" frameX="-6" frameY="0" frameWidth="481" frameHeight="603"/>
+	<SubTexture name="senpai_píbby_left instancia 10000" x="1203" y="611" width="674" height="604" frameX="-36" frameY="0" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10001" x="1877" y="611" width="674" height="566" frameX="-36" frameY="-38" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10002" x="2551" y="611" width="611" height="604" frameX="-15" frameY="0" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10003" x="3162" y="611" width="626" height="604" frameX="0" frameY="0" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10004" x="3788" y="611" width="514" height="600" frameX="-7" frameY="-5" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10005" x="3788" y="611" width="514" height="600" frameX="-7" frameY="-5" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10006" x="4302" y="611" width="500" height="597" frameX="-21" frameY="-8" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10007" x="4302" y="611" width="500" height="597" frameX="-21" frameY="-8" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10008" x="4802" y="611" width="500" height="597" frameX="-21" frameY="-8" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10009" x="4802" y="611" width="500" height="597" frameX="-21" frameY="-8" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10010" x="4802" y="611" width="500" height="597" frameX="-21" frameY="-8" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10011" x="4802" y="611" width="500" height="597" frameX="-21" frameY="-8" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10012" x="4802" y="611" width="500" height="597" frameX="-21" frameY="-8" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10013" x="4802" y="611" width="500" height="597" frameX="-21" frameY="-8" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_left instancia 10014" x="4802" y="611" width="500" height="597" frameX="-21" frameY="-8" frameWidth="710" frameHeight="605"/>
+	<SubTexture name="senpai_píbby_right instancia 10000" x="5302" y="611" width="605" height="610" frameX="0" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10001" x="5302" y="611" width="605" height="610" frameX="0" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10002" x="5907" y="611" width="615" height="636" frameX="-24" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10003" x="5907" y="611" width="615" height="636" frameX="-24" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10004" x="6522" y="611" width="631" height="639" frameX="-19" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10005" x="6522" y="611" width="631" height="639" frameX="-19" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10006" x="7153" y="611" width="620" height="631" frameX="-52" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10007" x="7153" y="611" width="620" height="631" frameX="-52" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10008" x="0" y="1250" width="655" height="630" frameX="-33" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10009" x="0" y="1250" width="655" height="630" frameX="-33" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10010" x="655" y="1250" width="655" height="630" frameX="-33" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10011" x="1310" y="1250" width="612" height="596" frameX="-76" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10012" x="1310" y="1250" width="612" height="596" frameX="-76" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10013" x="1922" y="1250" width="656" height="600" frameX="-32" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_right instancia 10014" x="1922" y="1250" width="656" height="600" frameX="-32" frameY="0" frameWidth="688" frameHeight="639"/>
+	<SubTexture name="senpai_píbby_up instancia 10000" x="2578" y="1250" width="432" height="617" frameX="-33" frameY="-15" frameWidth="485" frameHeight="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10001" x="3010" y="1250" width="474" height="592" frameX="-10" frameY="-40" frameWidth="485" frameHeight="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10002" x="3484" y="1250" width="459" height="625" frameX="-14" frameY="-8" frameWidth="485" frameHeight="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10003" x="3484" y="1250" width="459" height="625" frameX="-14" frameY="-8" frameWidth="485" frameHeight="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10004" x="3943" y="1250" width="474" height="634" frameX="0" frameY="0" frameWidth="485" frameHeight="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10005" x="3943" y="1250" width="474" height="634" frameX="0" frameY="0" frameWidth="485" frameHeight="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10006" x="4417" y="1250" width="485" height="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10007" x="4417" y="1250" width="485" height="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10008" x="4417" y="1250" width="485" height="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10009" x="4417" y="1250" width="485" height="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10010" x="4417" y="1250" width="485" height="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10011" x="4417" y="1250" width="485" height="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10012" x="4417" y="1250" width="485" height="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10013" x="4417" y="1250" width="485" height="634"/>
+	<SubTexture name="senpai_píbby_up instancia 10014" x="4417" y="1250" width="485" height="634"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10000" x="4902" y="1250" width="538" height="803" frameX="-11" frameY="0" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10001" x="4902" y="1250" width="538" height="803" frameX="-11" frameY="0" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10002" x="5440" y="1250" width="563" height="636" frameX="-4" frameY="-169" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10003" x="5440" y="1250" width="563" height="636" frameX="-4" frameY="-169" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10004" x="6003" y="1250" width="568" height="607" frameX="0" frameY="-194" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10005" x="6003" y="1250" width="568" height="607" frameX="0" frameY="-194" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10006" x="6571" y="1250" width="552" height="729" frameX="-16" frameY="-62" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10007" x="6571" y="1250" width="552" height="729" frameX="-16" frameY="-62" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10008" x="7123" y="1250" width="551" height="610" frameX="-16" frameY="-181" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10009" x="7123" y="1250" width="551" height="610" frameX="-16" frameY="-181" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10010" x="0" y="2053" width="552" height="597" frameX="-16" frameY="-194" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10011" x="0" y="2053" width="552" height="597" frameX="-16" frameY="-194" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10012" x="6571" y="1250" width="552" height="729" frameX="-16" frameY="-62" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10013" x="6571" y="1250" width="552" height="729" frameX="-16" frameY="-62" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_down_alt instancia 10014" x="7123" y="1250" width="551" height="610" frameX="-16" frameY="-181" frameWidth="568" frameHeight="805"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10000" x="552" y="2053" width="771" height="757" frameX="-103" frameY="0" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10001" x="552" y="2053" width="771" height="757" frameX="-103" frameY="0" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10002" x="1323" y="2053" width="738" height="641" frameX="-52" frameY="-116" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10003" x="1323" y="2053" width="738" height="641" frameX="-52" frameY="-116" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10004" x="2061" y="2053" width="670" height="620" frameX="-15" frameY="-137" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10005" x="2061" y="2053" width="670" height="620" frameX="-15" frameY="-137" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10006" x="2731" y="2053" width="665" height="757" frameX="-20" frameY="0" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10007" x="2731" y="2053" width="665" height="757" frameX="-20" frameY="0" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10008" x="3396" y="2053" width="668" height="641" frameX="-17" frameY="-116" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10009" x="3396" y="2053" width="668" height="641" frameX="-17" frameY="-116" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10010" x="4064" y="2053" width="685" height="620" frameX="0" frameY="-137" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10011" x="4064" y="2053" width="685" height="620" frameX="0" frameY="-137" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10012" x="2731" y="2053" width="665" height="757" frameX="-20" frameY="0" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10013" x="2731" y="2053" width="665" height="757" frameX="-20" frameY="0" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_left_alt instancia 10014" x="3396" y="2053" width="668" height="641" frameX="-17" frameY="-116" frameWidth="874" frameHeight="757"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10000" x="4749" y="2053" width="702" height="774" frameX="0" frameY="0" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10001" x="4749" y="2053" width="702" height="774" frameX="0" frameY="0" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10002" x="5451" y="2053" width="734" height="706" frameX="-23" frameY="-94" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10003" x="5451" y="2053" width="734" height="706" frameX="-23" frameY="-94" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10004" x="6185" y="2053" width="787" height="638" frameX="-18" frameY="-164" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10005" x="6185" y="2053" width="787" height="638" frameX="-18" frameY="-164" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10006" x="6972" y="2053" width="763" height="733" frameX="-51" frameY="-62" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10007" x="6972" y="2053" width="763" height="733" frameX="-51" frameY="-62" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10008" x="0" y="2827" width="786" height="630" frameX="-32" frameY="-164" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10009" x="0" y="2827" width="786" height="630" frameX="-32" frameY="-164" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10010" x="786" y="2827" width="800" height="630" frameX="-32" frameY="-164" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10011" x="786" y="2827" width="800" height="630" frameX="-32" frameY="-164" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10012" x="1586" y="2827" width="787" height="732" frameX="-32" frameY="-62" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10013" x="1586" y="2827" width="787" height="732" frameX="-32" frameY="-62" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_right_alt instancia 10014" x="0" y="2827" width="786" height="630" frameX="-32" frameY="-164" frameWidth="832" frameHeight="802"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10000" x="2373" y="2827" width="444" height="813" frameX="-66" frameY="-152" frameWidth="518" frameHeight="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10001" x="2373" y="2827" width="444" height="813" frameX="-66" frameY="-152" frameWidth="518" frameHeight="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10002" x="2817" y="2827" width="467" height="906" frameX="-47" frameY="-60" frameWidth="518" frameHeight="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10003" x="2817" y="2827" width="467" height="906" frameX="-47" frameY="-60" frameWidth="518" frameHeight="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10004" x="3284" y="2827" width="473" height="916" frameX="-33" frameY="-51" frameWidth="518" frameHeight="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10005" x="3284" y="2827" width="473" height="916" frameX="-33" frameY="-51" frameWidth="518" frameHeight="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10006" x="3757" y="2827" width="514" height="916" frameX="-4" frameY="-51" frameWidth="518" frameHeight="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10007" x="3757" y="2827" width="514" height="916" frameX="-4" frameY="-51" frameWidth="518" frameHeight="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10008" x="4271" y="2827" width="518" height="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10009" x="4271" y="2827" width="518" height="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10010" x="4789" y="2827" width="485" height="940" frameX="-33" frameY="-27" frameWidth="518" frameHeight="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10011" x="4789" y="2827" width="485" height="940" frameX="-33" frameY="-27" frameWidth="518" frameHeight="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10012" x="3757" y="2827" width="514" height="916" frameX="-4" frameY="-51" frameWidth="518" frameHeight="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10013" x="3757" y="2827" width="514" height="916" frameX="-4" frameY="-51" frameWidth="518" frameHeight="967"/>
+	<SubTexture name="spirit_píbby_up_alt instancia 10014" x="4271" y="2827" width="518" height="967"/>
+</TextureAtlas>

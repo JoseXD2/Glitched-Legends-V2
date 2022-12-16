@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="iconanimatedbfp.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfp_l copia instancia 10000" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10001" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10002" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10003" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10004" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10005" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10006" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10007" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10008" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10009" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10010" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10011" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10012" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10013" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_l copia instancia 10014" x="0" y="0" width="277" height="164"/>
+	<SubTexture name="bfp_n copia instancia 10000" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10001" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10002" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10003" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10004" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10005" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10006" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10007" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10008" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10009" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10010" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10011" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10012" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10013" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_n copia instancia 10014" x="277" y="0" width="255" height="152"/>
+	<SubTexture name="bfp_w instancia 10000" x="532" y="0" width="247" height="175" frameX="-14" frameY="-18" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10001" x="0" y="175" width="256" height="175" frameX="-8" frameY="-18" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10002" x="256" y="175" width="254" height="173" frameX="-13" frameY="-18" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10003" x="510" y="175" width="257" height="173" frameX="-5" frameY="-18" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10004" x="767" y="175" width="253" height="175" frameX="-5" frameY="-18" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10005" x="0" y="350" width="247" height="179" frameX="-5" frameY="-18" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10006" x="247" y="350" width="249" height="184" frameX="-11" frameY="-18" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10007" x="496" y="350" width="264" height="203" frameX="0" frameY="0" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10008" x="760" y="350" width="253" height="196" frameX="-14" frameY="-2" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10009" x="0" y="553" width="239" height="191" frameX="-23" frameY="-9" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10010" x="239" y="553" width="244" height="203" frameX="-14" frameY="-3" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10011" x="483" y="553" width="261" height="205" frameX="-8" frameY="-1" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10012" x="744" y="553" width="248" height="175" frameX="-13" frameY="-18" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10013" x="0" y="758" width="259" height="175" frameX="-5" frameY="-18" frameWidth="269" frameHeight="206"/>
+	<SubTexture name="bfp_w instancia 10014" x="259" y="758" width="262" height="173" frameX="-5" frameY="-18" frameWidth="269" frameHeight="206"/>
+</TextureAtlas>

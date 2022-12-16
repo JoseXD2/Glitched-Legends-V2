@@ -1,0 +1,44 @@
+{
+	"storyName": "PICO?",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "pico",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"blammted",
+			"pico_pibby",
+			[
+				168,
+				255,
+				20
+			]
+		],
+		[
+			"blammed-pibby",
+			"pico_pibby",
+			[
+				168,
+				255,
+				20
+			]
+		],
+		[
+			"double-whammy",
+			"pico_pibby",
+			[
+				168,
+				255,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": ". . ."
+}

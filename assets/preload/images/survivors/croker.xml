@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="croker.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="croker instancia 10000" x="0" y="0" width="301" height="541" frameX="0" frameY="-23" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10001" x="0" y="0" width="301" height="541" frameX="0" frameY="-23" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10002" x="301" y="0" width="280" height="551" frameX="-21" frameY="-13" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10003" x="301" y="0" width="280" height="551" frameX="-21" frameY="-13" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10004" x="581" y="0" width="281" height="552" frameX="-21" frameY="-12" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10005" x="581" y="0" width="281" height="552" frameX="-21" frameY="-12" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10006" x="862" y="0" width="281" height="562" frameX="-22" frameY="-1" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10007" x="862" y="0" width="281" height="562" frameX="-22" frameY="-1" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10008" x="1143" y="0" width="282" height="563" frameX="-22" frameY="0" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10009" x="1143" y="0" width="282" height="563" frameX="-22" frameY="0" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10010" x="1143" y="0" width="282" height="563" frameX="-22" frameY="0" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10011" x="1143" y="0" width="282" height="563" frameX="-22" frameY="0" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10012" x="1143" y="0" width="282" height="563" frameX="-22" frameY="0" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10013" x="1143" y="0" width="282" height="563" frameX="-22" frameY="0" frameWidth="304" frameHeight="564"/>
+	<SubTexture name="croker instancia 10014" x="1143" y="0" width="282" height="563" frameX="-22" frameY="0" frameWidth="304" frameHeight="564"/>
+</TextureAtlas>

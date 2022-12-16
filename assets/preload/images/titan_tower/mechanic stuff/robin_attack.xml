@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="robin_attack.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="robin_pibby_attack_long instancia 10000" x="0" y="0" width="598" height="575" frameX="-16" frameY="0" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10001" x="0" y="0" width="598" height="575" frameX="-16" frameY="0" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10002" x="598" y="0" width="606" height="569" frameX="-7" frameY="-6" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10003" x="598" y="0" width="606" height="569" frameX="-7" frameY="-6" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10004" x="1204" y="0" width="594" height="561" frameX="0" frameY="-13" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10005" x="1204" y="0" width="594" height="561" frameX="0" frameY="-13" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10006" x="0" y="575" width="585" height="566" frameX="-3" frameY="-8" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10007" x="0" y="575" width="585" height="566" frameX="-3" frameY="-8" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10008" x="585" y="575" width="568" height="572" frameX="-18" frameY="-2" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10009" x="585" y="575" width="568" height="572" frameX="-18" frameY="-2" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10010" x="1153" y="575" width="568" height="572" frameX="-18" frameY="-2" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10011" x="1153" y="575" width="568" height="572" frameX="-18" frameY="-2" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10012" x="0" y="1147" width="609" height="572" frameX="-18" frameY="-2" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10013" x="0" y="1147" width="609" height="572" frameX="-18" frameY="-2" frameWidth="627" frameHeight="575"/>
+	<SubTexture name="robin_pibby_attack_long instancia 10014" x="0" y="1147" width="609" height="572" frameX="-18" frameY="-2" frameWidth="627" frameHeight="575"/>
+</TextureAtlas>

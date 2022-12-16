@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bunbun_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 32,
+			"name": "bunbun_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-190
+			],
+			"anim": "singDOWN",
+			"fps": 32,
+			"name": "bunbun_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-40
+			],
+			"anim": "singUP",
+			"fps": 33,
+			"name": "bunbun_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-70
+			],
+			"anim": "singRIGHT",
+			"fps": 32,
+			"name": "bunbun_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bunbun_dark",
+	"position": [
+		-120,
+		150
+	],
+	"healthicon": "icon_bunbun_dark",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-250,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

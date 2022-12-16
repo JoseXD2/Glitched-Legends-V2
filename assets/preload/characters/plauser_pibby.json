@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "plauser_idle"
+		},
+		{
+			"offsets": [
+				20,
+				20
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "plauser_left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "plauser_down"
+		},
+		{
+			"offsets": [
+				-30,
+				60
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singUP",
+			"loop": false,
+			"name": "plauser_up"
+		},
+		{
+			"offsets": [
+				-220,
+				20
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "plauser_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/plauser_pibby",
+	"position": [
+		-50,
+		280
+	],
+	"healthicon": "plauser_icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-80,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonic_survivor.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic instancia 10000" x="0" y="0" width="327" height="541" frameX="0" frameY="-31" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10001" x="0" y="0" width="327" height="541" frameX="0" frameY="-31" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10002" x="327" y="0" width="314" height="551" frameX="-7" frameY="-21" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10003" x="327" y="0" width="314" height="551" frameX="-7" frameY="-21" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10004" x="641" y="0" width="326" height="560" frameX="-14" frameY="-12" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10005" x="641" y="0" width="326" height="560" frameX="-14" frameY="-12" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10006" x="967" y="0" width="329" height="569" frameX="-16" frameY="-3" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10007" x="967" y="0" width="329" height="569" frameX="-16" frameY="-3" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10008" x="1296" y="0" width="329" height="572" frameX="-16" frameY="0" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10009" x="1296" y="0" width="329" height="572" frameX="-16" frameY="0" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10010" x="1296" y="0" width="329" height="572" frameX="-16" frameY="0" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10011" x="1296" y="0" width="329" height="572" frameX="-16" frameY="0" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10012" x="1296" y="0" width="329" height="572" frameX="-16" frameY="0" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10013" x="1296" y="0" width="329" height="572" frameX="-16" frameY="0" frameWidth="345" frameHeight="572"/>
+	<SubTexture name="sonic instancia 10014" x="1296" y="0" width="329" height="572" frameX="-16" frameY="0" frameWidth="345" frameHeight="572"/>
+</TextureAtlas>

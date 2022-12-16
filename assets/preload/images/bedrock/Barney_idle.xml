@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Barney_idle.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pablo_idle instancia 10000" x="0" y="0" width="396" height="652" frameX="0" frameY="-37" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10001" x="0" y="0" width="396" height="652" frameX="0" frameY="-37" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10002" x="396" y="0" width="409" height="668" frameX="-10" frameY="-21" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10003" x="396" y="0" width="409" height="668" frameX="-10" frameY="-21" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10004" x="805" y="0" width="431" height="689" frameX="-10" frameY="0" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10005" x="805" y="0" width="431" height="689" frameX="-10" frameY="0" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10006" x="805" y="0" width="431" height="689" frameX="-10" frameY="0" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10007" x="805" y="0" width="431" height="689" frameX="-10" frameY="0" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10008" x="805" y="0" width="431" height="689" frameX="-10" frameY="0" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10009" x="805" y="0" width="431" height="689" frameX="-10" frameY="0" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10010" x="805" y="0" width="431" height="689" frameX="-10" frameY="0" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10011" x="805" y="0" width="431" height="689" frameX="-10" frameY="0" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10012" x="805" y="0" width="431" height="689" frameX="-10" frameY="0" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10013" x="805" y="0" width="431" height="689" frameX="-10" frameY="0" frameWidth="441" frameHeight="689"/>
+	<SubTexture name="pablo_idle instancia 10014" x="805" y="0" width="431" height="689" frameX="-10" frameY="0" frameWidth="441" frameHeight="689"/>
+</TextureAtlas>

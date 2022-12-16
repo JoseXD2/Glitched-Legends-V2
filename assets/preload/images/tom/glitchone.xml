@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glitchone.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sifglasf instancia 10000" x="0" y="0" width="120" height="101" frameX="-2" frameY="-7" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10001" x="0" y="0" width="120" height="101" frameX="-2" frameY="-7" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10002" x="120" y="0" width="125" height="100" frameX="-1" frameY="-7" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10003" x="120" y="0" width="125" height="100" frameX="-1" frameY="-7" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10004" x="245" y="0" width="119" height="95" frameX="-3" frameY="-4" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10005" x="245" y="0" width="119" height="95" frameX="-3" frameY="-4" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10006" x="364" y="0" width="117" height="89" frameX="-4" frameY="-3" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10007" x="364" y="0" width="117" height="89" frameX="-4" frameY="-3" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10008" x="0" y="101" width="124" height="94" frameX="0" frameY="-1" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10009" x="0" y="101" width="124" height="94" frameX="0" frameY="-1" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10010" x="124" y="101" width="124" height="103" frameX="-2" frameY="0" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10011" x="124" y="101" width="124" height="103" frameX="-2" frameY="0" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10012" x="248" y="101" width="127" height="109" frameX="0" frameY="-1" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10013" x="248" y="101" width="127" height="109" frameX="0" frameY="-1" frameWidth="127" frameHeight="110"/>
+	<SubTexture name="sifglasf instancia 10014" x="248" y="101" width="127" height="109" frameX="0" frameY="-1" frameWidth="127" frameHeight="110"/>
+</TextureAtlas>

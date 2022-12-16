@@ -1,0 +1,95 @@
+{
+	"storyName": "",
+	"difficulties": "rgb",
+	"hideFreeplay": false,
+	"weekBackground": "rgb",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"leader-rgb",
+			"robin_icon",
+			[
+				120,
+				0,
+				0
+			]
+		],
+		[
+			"blammed-pibby-rgb",
+			"pico_pibby",
+			[
+				86,
+				173,
+				0
+			]
+		],
+		[
+			"mystery-twins-RGB",
+			"icon_pibby_twins",
+			[
+				120,
+				0,
+				0
+			]
+		],
+		[
+			"freakshow-RGB",
+			"icon_pibby_twins",
+			[
+				26,
+				0,
+				53
+			]
+        ],
+		[
+			"my-doll-RGB",
+			"icon-gumballl",
+			[
+				86,
+				173,
+				0
+			]
+		],
+		[
+			"dead-sky-RGB",
+			"icon-gumballl",
+			[
+				86,
+				173,
+				0
+			]
+		],
+		[
+			"worth-wishing-for-rgb",
+			"tymmy",
+			[
+				166,
+				33,
+				253
+			]
+        ],
+		[
+			"last-flight-rgb",
+			"seiya-icons",
+			[
+				166,
+				33,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

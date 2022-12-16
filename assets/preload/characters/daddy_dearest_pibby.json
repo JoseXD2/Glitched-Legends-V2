@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "daddy_dearest_pibby_idle"
+		},
+		{
+			"offsets": [
+				180,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "daddy_dearest_pibby_left"
+		},
+		{
+			"offsets": [
+				-70,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "daddy_dearest_pibby_down"
+		},
+		{
+			"offsets": [
+				80,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "daddy_dearest_pibby_up"
+		},
+		{
+			"offsets": [
+				-140,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "daddy_dearest_pibby_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DADDY_DEAREST_pibby",
+	"position": [
+		-210,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-90,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

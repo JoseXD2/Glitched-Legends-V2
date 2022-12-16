@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mony_gf.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="monika_idle_beat_judge_water instancia 10000" x="0" y="0" width="343" height="386" frameX="0" frameY="-16" frameWidth="343" frameHeight="402"/>
+	<SubTexture name="monika_idle_beat_judge_water instancia 10001" x="0" y="0" width="343" height="386" frameX="0" frameY="-16" frameWidth="343" frameHeight="402"/>
+	<SubTexture name="monika_idle_beat_judge_water instancia 10002" x="343" y="0" width="339" height="384" frameX="0" frameY="-12" frameWidth="343" frameHeight="402"/>
+	<SubTexture name="monika_idle_beat_judge_water instancia 10003" x="343" y="0" width="339" height="384" frameX="0" frameY="-12" frameWidth="343" frameHeight="402"/>
+	<SubTexture name="monika_idle_beat_judge_water instancia 10004" x="682" y="0" width="314" height="380" frameX="0" frameY="-6" frameWidth="343" frameHeight="402"/>
+	<SubTexture name="monika_idle_beat_judge_water instancia 10005" x="682" y="0" width="314" height="380" frameX="0" frameY="-6" frameWidth="343" frameHeight="402"/>
+	<SubTexture name="monika_idle_beat_judge_water instancia 10006" x="0" y="386" width="310" height="367" frameX="0" frameY="0" frameWidth="343" frameHeight="402"/>
+	<SubTexture name="monika_idle_beat_judge_water instancia 10007" x="0" y="386" width="310" height="367" frameX="0" frameY="0" frameWidth="343" frameHeight="402"/>
+	<SubTexture name="monika_idle_beat_judge_water instancia 10008" x="310" y="386" width="307" height="367" frameX="0" frameY="0" frameWidth="343" frameHeight="402"/>
+	<SubTexture name="monika_idle_beat_judge_water instancia 10009" x="310" y="386" width="307" height="367" frameX="0" frameY="0" frameWidth="343" frameHeight="402"/>
+	<SubTexture name="monika_idle_beat_judge_water instancia 10010" x="310" y="386" width="307" height="367" frameX="0" frameY="0" frameWidth="343" frameHeight="402"/>
+	<SubTexture name="monika_idle_beat_judge_water instancia 10011" x="310" y="386" width="307" height="367" frameX="0" frameY="0" frameWidth="343" frameHeight="402"/>
+	<SubTexture name="monika_idle_beat_judge_water instancia 10012" x="310" y="386" width="307" height="367" frameX="0" frameY="0" frameWidth="343" frameHeight="402"/>
+	<SubTexture name="monika_idle_beat_judge_water instancia 10013" x="310" y="386" width="307" height="367" frameX="0" frameY="0" frameWidth="343" frameHeight="402"/>
+</TextureAtlas>

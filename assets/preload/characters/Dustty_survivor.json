@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dustty_survivor_idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				140
+			],
+			"anim": "singLEFT",
+			"fps": 32,
+			"name": "dustty_survivor_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 32,
+			"name": "dustty_survivor_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				10
+			],
+			"anim": "singUP",
+			"fps": 32,
+			"name": "dustty_survivor_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 32,
+			"name": "dustty_survivor_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dustty_survivor",
+	"position": [
+		10,
+		230
+	],
+	"healthicon": "dusty_corrupted",
+	"flip_x": true,
+	"healthbar_colors": [
+		52,
+		170,
+		231
+	],
+	"camera_position": [
+		0,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

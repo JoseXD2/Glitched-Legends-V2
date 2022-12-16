@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dustyanimatedicons.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dusts_l instancia 10000" x="0" y="0" width="242" height="179" frameX="-16" frameY="-4" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10001" x="242" y="0" width="242" height="179" frameX="-27" frameY="-4" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10002" x="484" y="0" width="242" height="181" frameX="-20" frameY="-4" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10003" x="726" y="0" width="242" height="181" frameX="-27" frameY="-1" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10004" x="0" y="181" width="242" height="174" frameX="-13" frameY="-3" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10005" x="242" y="181" width="241" height="179" frameX="-31" frameY="0" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10006" x="483" y="181" width="243" height="177" frameX="0" frameY="-6" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10007" x="726" y="181" width="242" height="183" frameX="-30" frameY="-4" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10008" x="0" y="364" width="242" height="176" frameX="-12" frameY="-7" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10009" x="242" y="364" width="242" height="183" frameX="-26" frameY="-4" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10010" x="0" y="0" width="242" height="179" frameX="-16" frameY="-4" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10011" x="242" y="0" width="242" height="179" frameX="-27" frameY="-4" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10012" x="484" y="0" width="242" height="181" frameX="-20" frameY="-4" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10013" x="726" y="0" width="242" height="181" frameX="-27" frameY="-1" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_l instancia 10014" x="0" y="181" width="242" height="174" frameX="-13" frameY="-3" frameWidth="272" frameHeight="187"/>
+	<SubTexture name="dusts_n instancia 10000" x="484" y="364" width="173" height="135"/>
+	<SubTexture name="dusts_w instancia 10000" x="657" y="364" width="181" height="140"/>
+</TextureAtlas>

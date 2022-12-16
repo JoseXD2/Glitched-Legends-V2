@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bubbles.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bubbles instancia 10000" x="0" y="0" width="0" height="0" frameX="2532" frameY="-3557" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10001" x="0" y="0" width="1093" height="181" frameX="-132" frameY="-875" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10002" x="1093" y="0" width="1236" height="366" frameX="0" frameY="-691" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10003" x="2329" y="0" width="1260" height="543" frameX="-9" frameY="-518" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10004" x="0" y="543" width="1281" height="685" frameX="-9" frameY="-376" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10005" x="1281" y="543" width="1281" height="814" frameX="-9" frameY="-251" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10006" x="2562" y="543" width="1281" height="917" frameX="-9" frameY="-144" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10007" x="0" y="1460" width="1281" height="1052" frameX="-9" frameY="-9" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10008" x="1281" y="1460" width="1281" height="912" frameX="-9" frameY="0" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10009" x="2562" y="1460" width="1281" height="784" frameX="-9" frameY="-13" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10010" x="0" y="2512" width="1279" height="603" frameX="-11" frameY="-13" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10011" x="1279" y="2512" width="1194" height="418" frameX="-96" frameY="-5" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10012" x="2473" y="2512" width="1092" height="289" frameX="-125" frameY="-5" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10013" x="0" y="3115" width="949" height="161" frameX="-199" frameY="-13" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10014" x="0" y="0" width="0" height="0" frameX="2532" frameY="-3557" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10015" x="0" y="0" width="0" height="0" frameX="2532" frameY="-3557" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10016" x="0" y="0" width="0" height="0" frameX="2532" frameY="-3557" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10017" x="0" y="0" width="0" height="0" frameX="2532" frameY="-3557" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10018" x="0" y="0" width="0" height="0" frameX="2532" frameY="-3557" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10019" x="0" y="0" width="0" height="0" frameX="2532" frameY="-3557" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10020" x="0" y="0" width="0" height="0" frameX="2532" frameY="-3557" frameWidth="1290" frameHeight="1065"/>
+	<SubTexture name="bubbles instancia 10021" x="0" y="0" width="0" height="0" frameX="2532" frameY="-3557" frameWidth="1290" frameHeight="1065"/>
+</TextureAtlas>

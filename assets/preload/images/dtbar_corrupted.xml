@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dtbar_corrupted.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dtbarcorrupted instancia 10000" x="0" y="0" width="684" height="147" frameX="-8" frameY="0" frameWidth="692" frameHeight="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10001" x="684" y="0" width="684" height="147" frameX="-8" frameY="0" frameWidth="692" frameHeight="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10002" x="0" y="147" width="684" height="147" frameX="-8" frameY="0" frameWidth="692" frameHeight="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10003" x="684" y="147" width="692" height="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10004" x="0" y="294" width="692" height="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10005" x="692" y="294" width="688" height="147" frameX="-4" frameY="0" frameWidth="692" frameHeight="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10006" x="692" y="294" width="688" height="147" frameX="-4" frameY="0" frameWidth="692" frameHeight="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10007" x="0" y="441" width="682" height="147" frameX="-10" frameY="0" frameWidth="692" frameHeight="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10008" x="0" y="441" width="682" height="147" frameX="-10" frameY="0" frameWidth="692" frameHeight="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10009" x="682" y="441" width="684" height="147" frameX="-8" frameY="0" frameWidth="692" frameHeight="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10010" x="682" y="441" width="684" height="147" frameX="-8" frameY="0" frameWidth="692" frameHeight="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10011" x="0" y="588" width="684" height="147" frameX="-8" frameY="0" frameWidth="692" frameHeight="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10012" x="0" y="588" width="684" height="147" frameX="-8" frameY="0" frameWidth="692" frameHeight="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10013" x="0" y="294" width="692" height="147"/>
+	<SubTexture name="dtbarcorrupted instancia 10014" x="684" y="588" width="692" height="147"/>
+</TextureAtlas>

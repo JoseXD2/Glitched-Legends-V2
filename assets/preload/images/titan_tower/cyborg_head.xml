@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cyborg_head.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cybotg_head_idle instancia 10000" x="0" y="0" width="267" height="297" frameX="0" frameY="-23" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10001" x="0" y="0" width="267" height="297" frameX="0" frameY="-23" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10002" x="267" y="0" width="268" height="304" frameX="-2" frameY="-15" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10003" x="267" y="0" width="268" height="304" frameX="-2" frameY="-15" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10004" x="535" y="0" width="270" height="313" frameX="-3" frameY="-5" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10005" x="535" y="0" width="270" height="313" frameX="-3" frameY="-5" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10006" x="805" y="0" width="272" height="318" frameX="-6" frameY="0" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10007" x="805" y="0" width="272" height="318" frameX="-6" frameY="0" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10008" x="805" y="0" width="272" height="318" frameX="-6" frameY="0" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10009" x="805" y="0" width="272" height="318" frameX="-6" frameY="0" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10010" x="805" y="0" width="272" height="318" frameX="-6" frameY="0" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10011" x="805" y="0" width="272" height="318" frameX="-6" frameY="0" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10012" x="805" y="0" width="272" height="318" frameX="-6" frameY="0" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10013" x="805" y="0" width="272" height="318" frameX="-6" frameY="0" frameWidth="278" frameHeight="320"/>
+	<SubTexture name="cybotg_head_idle instancia 10014" x="805" y="0" width="272" height="318" frameX="-6" frameY="0" frameWidth="278" frameHeight="320"/>
+</TextureAtlas>

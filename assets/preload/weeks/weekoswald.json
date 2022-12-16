@@ -1,0 +1,33 @@
+{
+	"storyName": "rabbit's luck",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "oswald",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+	
+		[
+			"rabbits-glitch",
+			"icon_oswald",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

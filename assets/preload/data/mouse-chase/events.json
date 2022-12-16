@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "tom",
+		"player1": "bf_pibby_smal",
+		"player2": "tom",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				87.719298245614,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "missingcharacter",
+		"bpm": 171,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "mouse-chase"
+	}
+}

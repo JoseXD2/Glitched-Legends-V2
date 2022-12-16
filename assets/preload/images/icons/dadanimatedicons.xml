@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dadanimatedicons.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dad_l instancia 10000" x="0" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10001" x="122" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10002" x="122" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10003" x="244" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10004" x="244" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10005" x="366" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10006" x="366" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10007" x="488" y="0" width="145" height="131" frameX="0" frameY="0" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10008" x="633" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10009" x="0" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10010" x="0" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10011" x="122" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10012" x="122" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10013" x="244" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_l instancia 10014" x="244" y="0" width="122" height="135" frameX="-4" frameY="-4" frameWidth="145" frameHeight="138"/>
+	<SubTexture name="dad_n instancia 10000" x="755" y="0" width="133" height="135" frameX="-12" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10001" x="888" y="0" width="132" height="135" frameX="-13" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10002" x="0" y="135" width="132" height="135" frameX="-13" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10003" x="132" y="135" width="159" height="135" frameX="0" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10004" x="291" y="135" width="139" height="135" frameX="-6" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10005" x="430" y="135" width="132" height="135" frameX="-13" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10006" x="562" y="135" width="136" height="135" frameX="-9" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10007" x="698" y="135" width="139" height="135" frameX="-6" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10008" x="837" y="135" width="132" height="135" frameX="-13" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10009" x="0" y="270" width="139" height="146" frameX="-2" frameY="0" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10010" x="755" y="0" width="133" height="135" frameX="-12" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10011" x="888" y="0" width="132" height="135" frameX="-13" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10012" x="139" y="270" width="132" height="135" frameX="-13" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10013" x="271" y="270" width="133" height="135" frameX="-12" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_n instancia 10014" x="291" y="135" width="139" height="135" frameX="-6" frameY="-11" frameWidth="159" frameHeight="146"/>
+	<SubTexture name="dad_w instancia 10000" x="404" y="270" width="128" height="163" frameX="-16" frameY="0" frameWidth="154" frameHeight="163"/>
+	<SubTexture name="dad_w instancia 10001" x="532" y="270" width="134" height="163" frameX="-20" frameY="0" frameWidth="154" frameHeight="163"/>
+	<SubTexture name="dad_w instancia 10002" x="666" y="270" width="134" height="160" frameX="-13" frameY="0" frameWidth="154" frameHeight="163"/>
+	<SubTexture name="dad_w instancia 10003" x="800" y="270" width="132" height="160" frameX="-7" frameY="0" frameWidth="154" frameHeight="163"/>
+	<SubTexture name="dad_w instancia 10004" x="0" y="433" width="130" height="162" frameX="-18" frameY="0" frameWidth="154" frameHeight="163"/>
+	<SubTexture name="dad_w instancia 10005" x="130" y="433" width="131" height="162" frameX="0" frameY="0" frameWidth="154" frameHeight="163"/>
+	<SubTexture name="dad_w instancia 10006" x="261" y="433" width="130" height="162" frameX="-12" frameY="0" frameWidth="154" frameHeight="163"/>
+	<SubTexture name="dad_w instancia 10007" x="391" y="433" width="130" height="162" frameX="-18" frameY="0" frameWidth="154" frameHeight="163"/>
+	<SubTexture name="dad_w instancia 10008" x="521" y="433" width="131" height="163" frameX="-6" frameY="0" frameWidth="154" frameHeight="163"/>
+	<SubTexture name="dad_w instancia 10009" x="652" y="433" width="131" height="163" frameX="-10" frameY="0" frameWidth="154" frameHeight="163"/>
+</TextureAtlas>

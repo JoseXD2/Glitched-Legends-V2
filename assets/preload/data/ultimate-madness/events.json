@@ -1,0 +1,539 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "looney forest",
+		"player1": "bf_pibby",
+		"player2": "Bugs_bunny_pibby",
+		"player3": null,
+		"events": [
+			[
+				27281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				27375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				33281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				33375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				36281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				36375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				39281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				39375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				42281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				42375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				45281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				45375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				51281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				51375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				54281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				54375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				54656.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				54750,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				57281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				57375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				63281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				63375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				69281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				69375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				75281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				75375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				81281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				81375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				87281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				87375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				93281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				93375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				99281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				99375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				105281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				105375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				117281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				117375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				123281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				123375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				126281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				126375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				129281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				129375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				135281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				135375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				138281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				138375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				141281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				141375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				144281.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				144375,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "ultimate-madness"
+	}
+}

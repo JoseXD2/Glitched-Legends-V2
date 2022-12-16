@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "void_house",
+		"player1": "bf_pibby",
+		"player2": "missingcharacter",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115.384615384615,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				7384.61538461538,
+				[
+					[
+						"Black flash",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				7500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nicole_pibby"
+					]
+				]
+			],
+			[
+				7615.38461538462,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nicole_pibby"
+					]
+				]
+			],
+			[
+				87692.3076923076,
+				[
+					[
+						"Black flash",
+						"",
+						"6"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "mothers-day"
+	}
+}

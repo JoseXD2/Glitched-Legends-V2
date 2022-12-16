@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jerryanimatedicon}.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jerry_l instancia 10000" x="0" y="0" width="124" height="73" frameX="-27" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10001" x="124" y="0" width="124" height="73" frameX="-27" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10002" x="124" y="0" width="124" height="73" frameX="-27" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10003" x="248" y="0" width="124" height="73" frameX="-27" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10004" x="372" y="0" width="83" height="117" frameX="-49" frameY="0" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10005" x="455" y="0" width="124" height="73" frameX="-27" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10006" x="579" y="0" width="151" height="73" frameX="0" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10007" x="0" y="0" width="124" height="73" frameX="-27" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10008" x="0" y="0" width="124" height="73" frameX="-27" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10009" x="124" y="0" width="124" height="73" frameX="-27" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10010" x="124" y="0" width="124" height="73" frameX="-27" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10011" x="248" y="0" width="124" height="73" frameX="-27" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10012" x="248" y="0" width="124" height="73" frameX="-27" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10013" x="455" y="0" width="124" height="73" frameX="-27" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_l instancia 10014" x="455" y="0" width="124" height="73" frameX="-27" frameY="-26" frameWidth="151" frameHeight="117"/>
+	<SubTexture name="jerry_n instancia 10000" x="730" y="0" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10001" x="845" y="0" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10002" x="845" y="0" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10003" x="0" y="117" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10004" x="0" y="117" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10005" x="115" y="117" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10006" x="115" y="117" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10007" x="230" y="117" width="84" height="100" frameX="-16" frameY="0" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10008" x="314" y="117" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10009" x="730" y="0" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10010" x="730" y="0" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10011" x="845" y="0" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10012" x="845" y="0" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10013" x="0" y="117" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_n instancia 10014" x="0" y="117" width="115" height="70" frameX="0" frameY="-16" frameWidth="115" frameHeight="100"/>
+	<SubTexture name="jerry_w instancia 10000" x="429" y="117" width="136" height="77" frameX="-22" frameY="-1" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10001" x="565" y="117" width="136" height="72" frameX="-25" frameY="-4" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10002" x="701" y="117" width="136" height="72" frameX="-16" frameY="-4" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10003" x="837" y="117" width="145" height="81" frameX="-13" frameY="0" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10004" x="0" y="217" width="145" height="81" frameX="-5" frameY="0" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10005" x="145" y="217" width="140" height="77" frameX="-16" frameY="-2" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10006" x="285" y="217" width="141" height="77" frameX="-8" frameY="-2" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10007" x="426" y="217" width="134" height="75" frameX="-19" frameY="-1" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10008" x="560" y="217" width="134" height="75" frameX="-13" frameY="-1" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10009" x="694" y="217" width="135" height="77" frameX="-18" frameY="-1" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10010" x="829" y="217" width="136" height="77" frameX="-9" frameY="-1" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10011" x="701" y="117" width="136" height="72" frameX="-18" frameY="-4" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10012" x="0" y="298" width="135" height="72" frameX="-24" frameY="-4" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10013" x="135" y="298" width="145" height="81" frameX="0" frameY="0" frameWidth="161" frameHeight="81"/>
+	<SubTexture name="jerry_w instancia 10014" x="280" y="298" width="146" height="81" frameX="-3" frameY="0" frameWidth="161" frameHeight="81"/>
+</TextureAtlas>

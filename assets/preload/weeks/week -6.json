@@ -1,0 +1,60 @@
+{
+	"songs": [
+                 [
+			"glitched-roses",
+			"icon_data_not_found",
+			[
+				255,
+				0,
+				115
+			]
+		],
+		[
+			"senpai.data not found",
+			"icon_data_not_found",
+			[
+				255,
+				153,
+				115
+			]
+		],
+		[
+			"roses.data not found",
+			"icon_data_not_found",
+			[
+				255,
+				-2147483648,
+				115
+			]
+		],
+		
+		[
+			"remember",
+			"icon_data_not_found",
+			[
+				2,
+				1,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "senpai",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

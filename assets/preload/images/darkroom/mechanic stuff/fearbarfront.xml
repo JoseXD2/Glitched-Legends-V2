@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fearbarfront.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="darkfear instancia 10000" x="0" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10001" x="106" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10002" x="212" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10003" x="318" y="0" width="149" height="534"/>
+	<SubTexture name="darkfear instancia 10004" x="467" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10005" x="0" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10006" x="573" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10007" x="679" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10008" x="785" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10009" x="891" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10010" x="997" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10011" x="573" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10012" x="679" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10013" x="1103" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10014" x="1209" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10015" x="1315" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10016" x="1421" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10017" x="1527" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10018" x="1103" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+	<SubTexture name="darkfear instancia 10019" x="1209" y="0" width="106" height="534" frameX="-13" frameY="0" frameWidth="149" frameHeight="534"/>
+</TextureAtlas>

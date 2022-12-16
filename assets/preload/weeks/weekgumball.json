@@ -1,0 +1,68 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "gumball",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"mydoll",
+			"icon-gumballl",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"the-corruptfun",
+			"icon-gumballl",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dead-sky",
+			"icon-gumballl",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"mothers-day",
+			"icon-nicole",
+			[
+				146,
+				0,
+				73
+			]
+		],
+		[
+			"good-mother",
+			"icon-nicole",
+			[
+				146,
+				0,
+				73
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

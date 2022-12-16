@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="monyanimatedicons.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="monyy_l instancia 10000" x="0" y="0" width="179" height="123"/>
+	<SubTexture name="monyy_l instancia 10001" x="179" y="0" width="179" height="117" frameX="0" frameY="0" frameWidth="179" frameHeight="123"/>
+	<SubTexture name="monyy_l instancia 10002" x="179" y="0" width="179" height="117" frameX="0" frameY="0" frameWidth="179" frameHeight="123"/>
+	<SubTexture name="monyy_l instancia 10003" x="358" y="0" width="179" height="117" frameX="0" frameY="0" frameWidth="179" frameHeight="123"/>
+	<SubTexture name="monyy_l instancia 10004" x="537" y="0" width="153" height="117" frameX="-11" frameY="0" frameWidth="179" frameHeight="123"/>
+	<SubTexture name="monyy_l instancia 10005" x="690" y="0" width="179" height="117" frameX="0" frameY="0" frameWidth="179" frameHeight="123"/>
+	<SubTexture name="monyy_l instancia 10006" x="690" y="0" width="179" height="117" frameX="0" frameY="0" frameWidth="179" frameHeight="123"/>
+	<SubTexture name="monyy_l instancia 10007" x="0" y="123" width="179" height="119" frameX="0" frameY="0" frameWidth="179" frameHeight="123"/>
+	<SubTexture name="monyy_l instancia 10008" x="0" y="123" width="179" height="119" frameX="0" frameY="0" frameWidth="179" frameHeight="123"/>
+	<SubTexture name="monyy_l instancia 10009" x="0" y="0" width="179" height="123"/>
+	<SubTexture name="monyy_n instancia 10000" x="179" y="123" width="180" height="117" frameX="-14" frameY="-21" frameWidth="194" frameHeight="158"/>
+	<SubTexture name="monyy_n instancia 10001" x="359" y="123" width="180" height="117" frameX="-14" frameY="-21" frameWidth="194" frameHeight="158"/>
+	<SubTexture name="monyy_n instancia 10002" x="359" y="123" width="180" height="117" frameX="-14" frameY="-21" frameWidth="194" frameHeight="158"/>
+	<SubTexture name="monyy_n instancia 10003" x="539" y="123" width="180" height="117" frameX="-14" frameY="-21" frameWidth="194" frameHeight="158"/>
+	<SubTexture name="monyy_n instancia 10004" x="719" y="123" width="177" height="158" frameX="0" frameY="0" frameWidth="194" frameHeight="158"/>
+	<SubTexture name="monyy_n instancia 10005" x="179" y="123" width="180" height="117" frameX="-14" frameY="-21" frameWidth="194" frameHeight="158"/>
+	<SubTexture name="monyy_n instancia 10006" x="179" y="123" width="180" height="117" frameX="-14" frameY="-21" frameWidth="194" frameHeight="158"/>
+	<SubTexture name="monyy_n instancia 10007" x="359" y="123" width="180" height="117" frameX="-14" frameY="-21" frameWidth="194" frameHeight="158"/>
+	<SubTexture name="monyy_n instancia 10008" x="359" y="123" width="180" height="117" frameX="-14" frameY="-21" frameWidth="194" frameHeight="158"/>
+	<SubTexture name="monyy_n instancia 10009" x="539" y="123" width="180" height="117" frameX="-14" frameY="-21" frameWidth="194" frameHeight="158"/>
+	<SubTexture name="monyy_w instancia 10000" x="0" y="281" width="161" height="119" frameX="-5" frameY="0" frameWidth="177" frameHeight="119"/>
+	<SubTexture name="monyy_w instancia 10001" x="161" y="281" width="161" height="119" frameX="-13" frameY="0" frameWidth="177" frameHeight="119"/>
+	<SubTexture name="monyy_w instancia 10002" x="322" y="281" width="161" height="119" frameX="-4" frameY="0" frameWidth="177" frameHeight="119"/>
+	<SubTexture name="monyy_w instancia 10003" x="483" y="281" width="161" height="119" frameX="-11" frameY="0" frameWidth="177" frameHeight="119"/>
+	<SubTexture name="monyy_w instancia 10004" x="644" y="281" width="161" height="119" frameX="-5" frameY="0" frameWidth="177" frameHeight="119"/>
+	<SubTexture name="monyy_w instancia 10005" x="805" y="281" width="161" height="119" frameX="-11" frameY="0" frameWidth="177" frameHeight="119"/>
+	<SubTexture name="monyy_w instancia 10006" x="0" y="400" width="160" height="119" frameX="-5" frameY="0" frameWidth="177" frameHeight="119"/>
+	<SubTexture name="monyy_w instancia 10007" x="160" y="400" width="161" height="119" frameX="-11" frameY="0" frameWidth="177" frameHeight="119"/>
+	<SubTexture name="monyy_w instancia 10008" x="321" y="400" width="161" height="119" frameX="0" frameY="0" frameWidth="177" frameHeight="119"/>
+	<SubTexture name="monyy_w instancia 10009" x="482" y="400" width="161" height="119" frameX="-16" frameY="0" frameWidth="177" frameHeight="119"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fire_tower.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="firett instancia 10000" x="0" y="0" width="953" height="903" frameX="-66" frameY="0" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10001" x="0" y="0" width="953" height="903" frameX="-66" frameY="0" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10002" x="953" y="0" width="879" height="806" frameX="-101" frameY="-51" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10003" x="953" y="0" width="879" height="806" frameX="-101" frameY="-51" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10004" x="1832" y="0" width="1004" height="790" frameX="0" frameY="-49" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10005" x="1832" y="0" width="1004" height="790" frameX="0" frameY="-49" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10006" x="2836" y="0" width="920" height="770" frameX="-95" frameY="-75" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10007" x="2836" y="0" width="920" height="770" frameX="-95" frameY="-75" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10008" x="0" y="903" width="933" height="732" frameX="-46" frameY="-119" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10009" x="0" y="903" width="933" height="732" frameX="-46" frameY="-119" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10010" x="933" y="903" width="930" height="804" frameX="-39" frameY="-33" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10011" x="933" y="903" width="930" height="804" frameX="-39" frameY="-33" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10012" x="1863" y="903" width="891" height="763" frameX="-80" frameY="-106" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10013" x="1863" y="903" width="891" height="763" frameX="-80" frameY="-106" frameWidth="1019" frameHeight="903"/>
+	<SubTexture name="firett instancia 10014" x="1863" y="903" width="891" height="763" frameX="-80" frameY="-106" frameWidth="1019" frameHeight="903"/>
+</TextureAtlas>

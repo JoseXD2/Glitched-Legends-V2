@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spongebob_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				36,
+				-137
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spongebob_left"
+		},
+		{
+			"offsets": [
+				-170,
+				-290
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spongebob_down"
+		},
+		{
+			"offsets": [
+				-290,
+				-120
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spongebob_right"
+		},
+		{
+			"offsets": [
+				-230,
+				20
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spongebob_up"
+		},
+		{
+			"offsets": [
+				30,
+				-20
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "attack",
+			"loop": false,
+			"name": "spongebob_attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spongebob_pibby",
+	"position": [
+		-490,
+		0
+	],
+	"healthicon": "sponge_boy",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		177,
+		30
+	],
+	"camera_position": [
+		-90,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "pegasus",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "seiya",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"fallen-knight",
+			"seiya-icons",
+			[
+				246,
+				253,
+				253
+			]
+		],
+		[
+			"forgotten-knight",
+			"seiya-icons",
+			[
+				246,
+				253,
+				253
+			]
+		],
+		[
+			"last-flight",
+			"seiya-icons",
+			[
+				246,
+				253,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "atenea"
+}

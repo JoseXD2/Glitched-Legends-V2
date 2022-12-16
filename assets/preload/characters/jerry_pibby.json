@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jerry_idle"
+		},
+		{
+			"offsets": [
+				-100,
+				-90
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "jerry_left"
+		},
+		{
+			"offsets": [
+				-150,
+				-140
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "jerry_down"
+		},
+		{
+			"offsets": [
+				-120,
+				-60
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singUP",
+			"loop": false,
+			"name": "jerry_up"
+		},
+		{
+			"offsets": [
+				-140,
+				-100
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "jerry_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jerry_pibby",
+	"position": [
+		-50,
+		480
+	],
+	"healthicon": "icon-jerry",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

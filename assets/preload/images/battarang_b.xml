@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="battarang.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="battarang_go instancia 10000" x="0" y="0" width="117" height="127" frameX="-33" frameY="0" frameWidth="159" frameHeight="156"/>
+	<SubTexture name="battarang_go instancia 10001" x="117" y="0" width="81" height="147" frameX="-39" frameY="-4" frameWidth="159" frameHeight="156"/>
+	<SubTexture name="battarang_go instancia 10002" x="198" y="0" width="141" height="116" frameX="-18" frameY="-21" frameWidth="159" frameHeight="156"/>
+	<SubTexture name="battarang_go instancia 10003" x="339" y="0" width="127" height="126" frameX="0" frameY="-18" frameWidth="159" frameHeight="156"/>
+	<SubTexture name="battarang_go instancia 10004" x="0" y="147" width="91" height="148" frameX="-35" frameY="-8" frameWidth="159" frameHeight="156"/>
+	<SubTexture name="battarang_go instancia 10005" x="91" y="147" width="100" height="147" frameX="-36" frameY="-1" frameWidth="159" frameHeight="156"/>
+</TextureAtlas>

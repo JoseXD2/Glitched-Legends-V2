@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icontwinsanimated.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dipma_l instancia 10000" x="0" y="0" width="216" height="149" frameX="-13" frameY="-8" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10001" x="216" y="0" width="225" height="162" frameX="-8" frameY="0" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10002" x="441" y="0" width="211" height="151" frameX="-19" frameY="-8" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10003" x="652" y="0" width="228" height="153" frameX="-8" frameY="-7" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10004" x="880" y="0" width="217" height="155" frameX="-15" frameY="-8" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10005" x="1097" y="0" width="219" height="155" frameX="-13" frameY="-8" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10006" x="1316" y="0" width="226" height="167" frameX="-6" frameY="-6" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10007" x="1542" y="0" width="228" height="166" frameX="-4" frameY="-7" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10008" x="1770" y="0" width="223" height="168" frameX="-9" frameY="-5" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10009" x="0" y="168" width="232" height="168" frameX="0" frameY="-5" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10010" x="232" y="168" width="226" height="173" frameX="-6" frameY="-7" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10011" x="458" y="168" width="211" height="172" frameX="-21" frameY="-8" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10012" x="669" y="168" width="223" height="172" frameX="-9" frameY="-3" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10013" x="892" y="168" width="206" height="165" frameX="-26" frameY="-5" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10014" x="1098" y="168" width="219" height="162" frameX="-13" frameY="-5" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10015" x="1317" y="168" width="218" height="163" frameX="-11" frameY="-5" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10016" x="1535" y="168" width="222" height="171" frameX="-11" frameY="0" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10017" x="1757" y="168" width="219" height="166" frameX="-11" frameY="-5" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10018" x="0" y="341" width="225" height="157" frameX="-11" frameY="-5" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10019" x="225" y="341" width="221" height="157" frameX="-11" frameY="-5" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10020" x="446" y="341" width="221" height="157" frameX="-11" frameY="-5" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10021" x="667" y="341" width="221" height="157" frameX="-11" frameY="-5" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10022" x="888" y="341" width="221" height="157" frameX="-11" frameY="-5" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10023" x="225" y="341" width="221" height="157" frameX="-11" frameY="-5" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_l instancia 10024" x="446" y="341" width="221" height="157" frameX="-11" frameY="-5" frameWidth="236" frameHeight="180"/>
+	<SubTexture name="dipma_n instancia 10000" x="1109" y="341" width="247" height="170" frameX="0" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10001" x="1356" y="341" width="251" height="170" frameX="0" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10002" x="1607" y="341" width="218" height="171" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10003" x="0" y="512" width="224" height="171" frameX="-23" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10004" x="224" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10005" x="442" y="512" width="219" height="170" frameX="-27" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10006" x="661" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10007" x="661" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10008" x="879" y="512" width="218" height="171" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10009" x="879" y="512" width="218" height="171" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10010" x="1097" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10011" x="1097" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10012" x="1315" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10013" x="1315" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10014" x="879" y="512" width="218" height="171" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10015" x="879" y="512" width="218" height="171" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10016" x="1097" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10017" x="1097" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10018" x="1315" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10019" x="1315" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10020" x="879" y="512" width="218" height="171" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10021" x="879" y="512" width="218" height="171" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10022" x="1097" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10023" x="1097" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_n instancia 10024" x="1097" y="512" width="218" height="170" frameX="-29" frameY="0" frameWidth="251" frameHeight="171"/>
+	<SubTexture name="dipma_w instancia 10000" x="1533" y="512" width="205" height="161" frameX="-6" frameY="-1" frameWidth="216" frameHeight="167"/>
+	<SubTexture name="dipma_w instancia 10001" x="1738" y="512" width="207" height="160" frameX="0" frameY="-1" frameWidth="216" frameHeight="167"/>
+	<SubTexture name="dipma_w instancia 10002" x="0" y="683" width="204" height="164" frameX="-5" frameY="0" frameWidth="216" frameHeight="167"/>
+	<SubTexture name="dipma_w instancia 10003" x="204" y="683" width="211" height="164" frameX="-5" frameY="0" frameWidth="216" frameHeight="167"/>
+	<SubTexture name="dipma_w instancia 10004" x="415" y="683" width="212" height="167" frameX="0" frameY="0" frameWidth="216" frameHeight="167"/>
+	<SubTexture name="dipma_w instancia 10005" x="627" y="683" width="203" height="166" frameX="-2" frameY="0" frameWidth="216" frameHeight="167"/>
+</TextureAtlas>

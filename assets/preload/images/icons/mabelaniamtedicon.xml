@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mabelaniamtedicon.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mabel_l instancia 10000" x="0" y="0" width="153" height="134" frameX="-9" frameY="-10" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10001" x="153" y="0" width="157" height="148" frameX="-9" frameY="0" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10002" x="310" y="0" width="154" height="136" frameX="-10" frameY="-9" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10003" x="464" y="0" width="169" height="141" frameX="0" frameY="-6" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10004" x="633" y="0" width="159" height="138" frameX="-7" frameY="-7" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10005" x="792" y="0" width="159" height="138" frameX="-7" frameY="-7" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10006" x="792" y="0" width="159" height="138" frameX="-7" frameY="-7" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10007" x="633" y="0" width="159" height="138" frameX="-7" frameY="-7" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10008" x="633" y="0" width="159" height="138" frameX="-7" frameY="-7" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10009" x="792" y="0" width="159" height="138" frameX="-7" frameY="-7" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10010" x="792" y="0" width="159" height="138" frameX="-7" frameY="-7" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10011" x="633" y="0" width="159" height="138" frameX="-7" frameY="-7" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10012" x="633" y="0" width="159" height="138" frameX="-7" frameY="-7" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10013" x="792" y="0" width="159" height="138" frameX="-7" frameY="-7" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_l instancia 10014" x="792" y="0" width="159" height="138" frameX="-7" frameY="-7" frameWidth="169" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10000" x="0" y="148" width="139" height="142" frameX="-9" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10001" x="139" y="148" width="144" height="146" frameX="-7" frameY="-2" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10002" x="283" y="148" width="148" height="142" frameX="0" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10003" x="431" y="148" width="148" height="148" frameX="0" frameY="0" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10004" x="579" y="148" width="143" height="142" frameX="-5" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10005" x="579" y="148" width="143" height="142" frameX="-5" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10006" x="0" y="148" width="139" height="142" frameX="-9" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10007" x="0" y="148" width="139" height="142" frameX="-9" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10008" x="283" y="148" width="148" height="142" frameX="0" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10009" x="283" y="148" width="148" height="142" frameX="0" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10010" x="579" y="148" width="143" height="142" frameX="-5" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10011" x="579" y="148" width="143" height="142" frameX="-5" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10012" x="0" y="148" width="139" height="142" frameX="-9" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10013" x="0" y="148" width="139" height="142" frameX="-9" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10014" x="283" y="148" width="148" height="142" frameX="0" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10015" x="283" y="148" width="148" height="142" frameX="0" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10016" x="579" y="148" width="143" height="142" frameX="-5" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10017" x="579" y="148" width="143" height="142" frameX="-5" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10018" x="0" y="148" width="139" height="142" frameX="-9" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10019" x="0" y="148" width="139" height="142" frameX="-9" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10020" x="283" y="148" width="148" height="142" frameX="0" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10021" x="283" y="148" width="148" height="142" frameX="0" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10022" x="579" y="148" width="143" height="142" frameX="-5" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10023" x="579" y="148" width="143" height="142" frameX="-5" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_n instancia 10024" x="579" y="148" width="143" height="142" frameX="-5" frameY="-6" frameWidth="151" frameHeight="148"/>
+	<SubTexture name="mabel_w instancia 10000" x="722" y="148" width="153" height="134" frameX="-15" frameY="-14" frameWidth="178" frameHeight="153"/>
+	<SubTexture name="mabel_w instancia 10001" x="0" y="296" width="151" height="144" frameX="-12" frameY="-4" frameWidth="178" frameHeight="153"/>
+	<SubTexture name="mabel_w instancia 10002" x="151" y="296" width="154" height="149" frameX="-12" frameY="-1" frameWidth="178" frameHeight="153"/>
+	<SubTexture name="mabel_w instancia 10003" x="305" y="296" width="160" height="148" frameX="-12" frameY="-2" frameWidth="178" frameHeight="153"/>
+	<SubTexture name="mabel_w instancia 10004" x="465" y="296" width="156" height="151" frameX="-12" frameY="-2" frameWidth="178" frameHeight="153"/>
+	<SubTexture name="mabel_w instancia 10005" x="621" y="296" width="148" height="152" frameX="-11" frameY="0" frameWidth="178" frameHeight="153"/>
+	<SubTexture name="mabel_w instancia 10006" x="769" y="296" width="178" height="143" frameX="0" frameY="-5" frameWidth="178" frameHeight="153"/>
+	<SubTexture name="mabel_w instancia 10007" x="0" y="448" width="159" height="148" frameX="-4" frameY="-1" frameWidth="178" frameHeight="153"/>
+	<SubTexture name="mabel_w instancia 10008" x="159" y="448" width="164" height="150" frameX="-7" frameY="-2" frameWidth="178" frameHeight="153"/>
+	<SubTexture name="mabel_w instancia 10009" x="323" y="448" width="165" height="150" frameX="-7" frameY="-2" frameWidth="178" frameHeight="153"/>
+</TextureAtlas>

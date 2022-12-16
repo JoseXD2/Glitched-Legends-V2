@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bill_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				610
+			],
+			"anim": "a",
+			"fps": 24,
+			"name": "bill_a",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				70
+			],
+			"anim": "singUP",
+			"fps": 32,
+			"name": "bill_up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 32,
+			"name": "bill_right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				70,
+				-40
+			],
+			"anim": "singLEFT",
+			"fps": 32,
+			"name": "bill_left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				-220
+			],
+			"anim": "singDOWN",
+			"fps": 32,
+			"name": "bill_down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bill_normal",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bill_gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		36,
+		36
+	],
+	"camera_position": [
+		-550,
+		-450
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

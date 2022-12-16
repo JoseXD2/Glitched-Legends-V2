@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mony_survivor.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mony_survivor instancia 10000" x="0" y="0" width="324" height="607" frameX="0" frameY="-23" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10001" x="0" y="0" width="324" height="607" frameX="0" frameY="-23" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10002" x="324" y="0" width="307" height="605" frameX="-8" frameY="-24" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10003" x="324" y="0" width="307" height="605" frameX="-8" frameY="-24" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10004" x="631" y="0" width="295" height="624" frameX="-14" frameY="-5" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10005" x="631" y="0" width="295" height="624" frameX="-14" frameY="-5" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10006" x="926" y="0" width="295" height="629" frameX="-14" frameY="0" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10007" x="926" y="0" width="295" height="629" frameX="-14" frameY="0" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10008" x="1221" y="0" width="295" height="629" frameX="-14" frameY="0" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10009" x="1221" y="0" width="295" height="629" frameX="-14" frameY="0" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10010" x="1221" y="0" width="295" height="629" frameX="-14" frameY="0" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10011" x="1221" y="0" width="295" height="629" frameX="-14" frameY="0" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10012" x="1221" y="0" width="295" height="629" frameX="-14" frameY="0" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10013" x="1221" y="0" width="295" height="629" frameX="-14" frameY="0" frameWidth="324" frameHeight="630"/>
+	<SubTexture name="mony_survivor instancia 10014" x="1221" y="0" width="295" height="629" frameX="-14" frameY="0" frameWidth="324" frameHeight="630"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="attackthing.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shootbroken instancia 10000" x="0" y="0" width="319" height="154"/>
+	<SubTexture name="shootcolddown instancia 10000" x="0" y="154" width="271" height="129"/>
+	<SubTexture name="shootnormal instancia 10000" x="0" y="283" width="272" height="152"/>
+</TextureAtlas>

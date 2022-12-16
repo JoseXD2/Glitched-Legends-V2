@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mickeyiconanimated.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mickey_l instancia 10000" x="0" y="0" width="192" height="164" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10001" x="192" y="0" width="192" height="158" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10002" x="384" y="0" width="192" height="158" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10003" x="576" y="0" width="187" height="154" frameX="-26" frameY="-1" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10004" x="763" y="0" width="192" height="160" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10005" x="0" y="164" width="192" height="163" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10006" x="192" y="164" width="192" height="159" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10007" x="384" y="164" width="192" height="155" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10008" x="576" y="164" width="192" height="158" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10009" x="768" y="164" width="192" height="163" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10010" x="0" y="0" width="192" height="164" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10011" x="192" y="0" width="192" height="158" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10012" x="384" y="0" width="192" height="158" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10013" x="0" y="327" width="192" height="158" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_l instancia 10014" x="763" y="0" width="192" height="160" frameX="0" frameY="0" frameWidth="213" frameHeight="164"/>
+	<SubTexture name="mickey_n instancia 10000" x="192" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10001" x="378" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10002" x="378" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10003" x="564" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10004" x="750" y="327" width="155" height="175" frameX="-17" frameY="0" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10005" x="192" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10006" x="192" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10007" x="378" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10008" x="378" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10009" x="564" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10010" x="564" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10011" x="192" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10012" x="192" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10013" x="378" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_n instancia 10014" x="378" y="327" width="186" height="162" frameX="0" frameY="-3" frameWidth="186" frameHeight="175"/>
+	<SubTexture name="mickey_w instancia 10000" x="0" y="502" width="201" height="181" frameX="-10" frameY="0" frameWidth="213" frameHeight="181"/>
+	<SubTexture name="mickey_w instancia 10001" x="0" y="502" width="201" height="181" frameX="-13" frameY="0" frameWidth="213" frameHeight="181"/>
+	<SubTexture name="mickey_w instancia 10002" x="201" y="502" width="201" height="181" frameX="-3" frameY="0" frameWidth="213" frameHeight="181"/>
+	<SubTexture name="mickey_w instancia 10003" x="201" y="502" width="201" height="181" frameX="-9" frameY="0" frameWidth="213" frameHeight="181"/>
+	<SubTexture name="mickey_w instancia 10004" x="402" y="502" width="200" height="181" frameX="-7" frameY="0" frameWidth="213" frameHeight="181"/>
+	<SubTexture name="mickey_w instancia 10005" x="402" y="502" width="200" height="181" frameX="-11" frameY="0" frameWidth="213" frameHeight="181"/>
+	<SubTexture name="mickey_w instancia 10006" x="602" y="502" width="201" height="181" frameX="-7" frameY="0" frameWidth="213" frameHeight="181"/>
+	<SubTexture name="mickey_w instancia 10007" x="602" y="502" width="201" height="181" frameX="-12" frameY="0" frameWidth="213" frameHeight="181"/>
+	<SubTexture name="mickey_w instancia 10008" x="803" y="502" width="201" height="181" frameX="0" frameY="0" frameWidth="213" frameHeight="181"/>
+	<SubTexture name="mickey_w instancia 10009" x="0" y="683" width="201" height="181" frameX="-5" frameY="0" frameWidth="213" frameHeight="181"/>
+</TextureAtlas>

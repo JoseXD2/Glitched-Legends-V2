@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ben_attack.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ben10_attack instancia 10000" x="0" y="0" width="475" height="560" frameX="-6" frameY="-1" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10001" x="0" y="0" width="475" height="560" frameX="-6" frameY="-1" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10002" x="475" y="0" width="546" height="561" frameX="-12" frameY="0" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10003" x="475" y="0" width="546" height="561" frameX="-12" frameY="0" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10004" x="1021" y="0" width="578" height="553" frameX="-27" frameY="-7" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10005" x="1021" y="0" width="578" height="553" frameX="-27" frameY="-7" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10006" x="1599" y="0" width="769" height="554" frameX="-26" frameY="-10" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10007" x="2368" y="0" width="777" height="554" frameX="-26" frameY="-10" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10008" x="3145" y="0" width="793" height="555" frameX="0" frameY="-10" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10009" x="3145" y="0" width="793" height="555" frameX="0" frameY="-10" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10010" x="0" y="561" width="749" height="550" frameX="-44" frameY="-10" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10011" x="0" y="561" width="749" height="550" frameX="-44" frameY="-10" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10012" x="749" y="561" width="752" height="550" frameX="-41" frameY="-10" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10013" x="749" y="561" width="752" height="550" frameX="-41" frameY="-10" frameWidth="803" frameHeight="565"/>
+	<SubTexture name="ben10_attack instancia 10014" x="1501" y="561" width="749" height="550" frameX="-44" frameY="-10" frameWidth="803" frameHeight="565"/>
+</TextureAtlas>

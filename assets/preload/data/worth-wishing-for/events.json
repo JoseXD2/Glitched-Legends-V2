@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "dimmsdale",
+		"player1": "bf_pibby",
+		"player2": "timmy_pibby_turner",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Black flash",
+						"30",
+						""
+					]
+				]
+			],
+			[
+				107.142857142857,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13607.1428571429,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				20571.4285714286,
+				[
+					[
+						"Cinematics",
+						"2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Worth-Wishing-For"
+	}
+}

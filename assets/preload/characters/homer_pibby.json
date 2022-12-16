@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "homer_idle"
+		},
+		{
+			"offsets": [
+				210,
+				-9
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "homer_left"
+		},
+		{
+			"offsets": [
+				400,
+				130
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "homer_down"
+		},
+		{
+			"offsets": [
+				80,
+				20
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singUP",
+			"loop": false,
+			"name": "homer_up"
+		},
+		{
+			"offsets": [
+				-40,
+				-70
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "homer_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/homer_pibby",
+	"position": [
+		-100,
+		30
+	],
+	"healthicon": "homer_icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		194,
+		99
+	],
+	"camera_position": [
+		-460,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

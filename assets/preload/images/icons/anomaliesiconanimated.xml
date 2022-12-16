@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="anomaliesiconanimated.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="plauser_n copia 2 instancia 10000" x="0" y="0" width="281" height="238" frameX="-6" frameY="-16" frameWidth="297" frameHeight="274"/>
+	<SubTexture name="plauser_n copia 2 instancia 10001" x="281" y="0" width="287" height="238" frameX="-6" frameY="-16" frameWidth="297" frameHeight="274"/>
+	<SubTexture name="plauser_n copia 2 instancia 10002" x="568" y="0" width="287" height="265" frameX="-6" frameY="-9" frameWidth="297" frameHeight="274"/>
+	<SubTexture name="plauser_n copia 2 instancia 10003" x="855" y="0" width="290" height="238" frameX="-6" frameY="-16" frameWidth="297" frameHeight="274"/>
+	<SubTexture name="plauser_n copia 2 instancia 10004" x="1145" y="0" width="291" height="254" frameX="-6" frameY="0" frameWidth="297" frameHeight="274"/>
+	<SubTexture name="plauser_n copia 2 instancia 10005" x="1436" y="0" width="293" height="238" frameX="0" frameY="-16" frameWidth="297" frameHeight="274"/>
+	<SubTexture name="plauser_n copia 2 instancia 10006" x="1729" y="0" width="287" height="238" frameX="-6" frameY="-16" frameWidth="297" frameHeight="274"/>
+	<SubTexture name="plauser_n copia 2 instancia 10007" x="0" y="265" width="282" height="238" frameX="-6" frameY="-16" frameWidth="297" frameHeight="274"/>
+	<SubTexture name="plauser_n copia 2 instancia 10008" x="282" y="265" width="282" height="238" frameX="-6" frameY="-16" frameWidth="297" frameHeight="274"/>
+	<SubTexture name="plauser_n copia 2 instancia 10009" x="564" y="265" width="287" height="239" frameX="-6" frameY="-15" frameWidth="297" frameHeight="274"/>
+	<SubTexture name="plauser_n copia copia instancia 10000" x="851" y="265" width="314" height="238" frameX="-18" frameY="0" frameWidth="332" frameHeight="243"/>
+	<SubTexture name="plauser_n copia copia instancia 10001" x="1165" y="265" width="307" height="238" frameX="-25" frameY="0" frameWidth="332" frameHeight="243"/>
+	<SubTexture name="plauser_n copia copia instancia 10002" x="1472" y="265" width="303" height="238" frameX="-29" frameY="0" frameWidth="332" frameHeight="243"/>
+	<SubTexture name="plauser_n copia copia instancia 10003" x="0" y="504" width="332" height="238" frameX="0" frameY="0" frameWidth="332" frameHeight="243"/>
+	<SubTexture name="plauser_n copia copia instancia 10004" x="332" y="504" width="303" height="238" frameX="0" frameY="0" frameWidth="332" frameHeight="243"/>
+	<SubTexture name="plauser_n copia copia instancia 10005" x="635" y="504" width="307" height="240" frameX="-18" frameY="0" frameWidth="332" frameHeight="243"/>
+	<SubTexture name="plauser_n copia copia instancia 10006" x="942" y="504" width="314" height="240" frameX="-18" frameY="0" frameWidth="332" frameHeight="243"/>
+	<SubTexture name="plauser_n copia copia instancia 10007" x="1256" y="504" width="307" height="243" frameX="-25" frameY="0" frameWidth="332" frameHeight="243"/>
+	<SubTexture name="plauser_n copia copia instancia 10008" x="1563" y="504" width="332" height="243"/>
+	<SubTexture name="plauser_n copia copia instancia 10009" x="0" y="747" width="314" height="238" frameX="-18" frameY="0" frameWidth="332" frameHeight="243"/>
+	<SubTexture name="plauser_w copia instancia 10000" x="314" y="747" width="282" height="255" frameX="-2" frameY="-6" frameWidth="296" frameHeight="264"/>
+	<SubTexture name="plauser_w copia instancia 10001" x="596" y="747" width="280" height="253" frameX="0" frameY="-2" frameWidth="296" frameHeight="264"/>
+	<SubTexture name="plauser_w copia instancia 10002" x="876" y="747" width="289" height="258" frameX="0" frameY="-2" frameWidth="296" frameHeight="264"/>
+	<SubTexture name="plauser_w copia instancia 10003" x="1165" y="747" width="273" height="257" frameX="-5" frameY="-1" frameWidth="296" frameHeight="264"/>
+	<SubTexture name="plauser_w copia instancia 10004" x="1438" y="747" width="285" height="264" frameX="-11" frameY="0" frameWidth="296" frameHeight="264"/>
+	<SubTexture name="plauser_w copia instancia 10005" x="1723" y="747" width="275" height="260" frameX="-2" frameY="-1" frameWidth="296" frameHeight="264"/>
+	<SubTexture name="plauser_w copia instancia 10006" x="0" y="1011" width="288" height="259" frameX="0" frameY="-1" frameWidth="296" frameHeight="264"/>
+	<SubTexture name="plauser_w copia instancia 10007" x="288" y="1011" width="280" height="257" frameX="0" frameY="-2" frameWidth="296" frameHeight="264"/>
+	<SubTexture name="plauser_w copia instancia 10008" x="568" y="1011" width="282" height="262" frameX="-5" frameY="-2" frameWidth="296" frameHeight="264"/>
+	<SubTexture name="plauser_w copia instancia 10009" x="850" y="1011" width="269" height="260" frameX="-11" frameY="-2" frameWidth="296" frameHeight="264"/>
+</TextureAtlas>

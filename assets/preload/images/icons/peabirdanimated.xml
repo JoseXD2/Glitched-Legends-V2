@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peabirdanimated.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pea_l instancia 10000" x="0" y="0" width="215" height="210" pivotX="90.2" pivotY="26.8" frameX="-1" frameY="-4" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10001" x="215" y="0" width="210" height="202" frameX="-1" frameY="-5" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10002" x="425" y="0" width="238" height="207" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10003" x="663" y="0" width="238" height="207" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10004" x="901" y="0" width="204" height="209" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10005" x="1105" y="0" width="204" height="209" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10006" x="1309" y="0" width="204" height="207" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10007" x="1513" y="0" width="204" height="207" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10008" x="1717" y="0" width="204" height="207" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10009" x="0" y="210" width="204" height="207" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10010" x="204" y="210" width="204" height="209" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10011" x="408" y="210" width="204" height="209" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10012" x="612" y="210" width="204" height="207" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10013" x="816" y="210" width="204" height="207" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10014" x="1020" y="210" width="204" height="207" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10015" x="1224" y="210" width="204" height="207" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10016" x="901" y="0" width="204" height="209" frameX="-13" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10017" x="1428" y="210" width="203" height="208" frameX="-14" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10018" x="1631" y="210" width="217" height="211" frameX="0" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_l instancia 10019" x="0" y="421" width="211" height="214" frameX="-6" frameY="0" frameWidth="251" frameHeight="214"/>
+	<SubTexture name="pea_n instancia 10000" x="211" y="421" width="213" height="163" pivotX="78.95" pivotY="18.7" frameX="-1" frameY="-6" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10001" x="424" y="421" width="207" height="157" frameX="-7" frameY="-8" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10002" x="631" y="421" width="204" height="165" frameX="-7" frameY="0" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10003" x="835" y="421" width="226" height="173" frameX="-4" frameY="-1" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10004" x="1061" y="421" width="203" height="162" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10005" x="1264" y="421" width="203" height="163" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10006" x="1467" y="421" width="203" height="163" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10007" x="1670" y="421" width="203" height="163" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10008" x="0" y="635" width="203" height="166" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10009" x="203" y="635" width="203" height="166" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10010" x="406" y="635" width="203" height="163" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10011" x="1264" y="421" width="203" height="163" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10012" x="1467" y="421" width="203" height="163" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10013" x="1670" y="421" width="203" height="163" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10014" x="0" y="635" width="203" height="166" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10015" x="203" y="635" width="203" height="166" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10016" x="406" y="635" width="203" height="163" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10017" x="1264" y="421" width="203" height="163" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10018" x="1467" y="421" width="203" height="163" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10019" x="1670" y="421" width="203" height="163" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10020" x="0" y="635" width="203" height="166" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10021" x="203" y="635" width="203" height="166" frameX="-4" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10022" x="609" y="635" width="205" height="166" frameX="-2" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10023" x="814" y="635" width="205" height="163" frameX="-2" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_n instancia 10024" x="1019" y="635" width="207" height="159" frameX="0" frameY="-9" frameWidth="230" frameHeight="175"/>
+	<SubTexture name="pea_w instancia 10000" x="1226" y="635" width="192" height="161" pivotX="82.4" pivotY="21.8" frameX="-30" frameY="-13" frameWidth="222" frameHeight="180"/>
+	<SubTexture name="pea_w instancia 10001" x="1418" y="635" width="194" height="173" frameX="-20" frameY="-6" frameWidth="222" frameHeight="180"/>
+	<SubTexture name="pea_w instancia 10002" x="1612" y="635" width="211" height="164" frameX="-5" frameY="-12" frameWidth="222" frameHeight="180"/>
+	<SubTexture name="pea_w instancia 10003" x="1823" y="635" width="213" height="175" frameX="0" frameY="0" frameWidth="222" frameHeight="180"/>
+	<SubTexture name="pea_w instancia 10004" x="0" y="810" width="187" height="175" frameX="-17" frameY="0" frameWidth="222" frameHeight="180"/>
+	<SubTexture name="pea_w instancia 10005" x="187" y="810" width="194" height="175" frameX="-10" frameY="0" frameWidth="222" frameHeight="180"/>
+	<SubTexture name="pea_w instancia 10006" x="381" y="810" width="195" height="163" frameX="-12" frameY="-13" frameWidth="222" frameHeight="180"/>
+	<SubTexture name="pea_w instancia 10007" x="576" y="810" width="178" height="163" frameX="-28" frameY="-13" frameWidth="222" frameHeight="180"/>
+	<SubTexture name="pea_w instancia 10008" x="754" y="810" width="173" height="155" frameX="-34" frameY="-13" frameWidth="222" frameHeight="180"/>
+	<SubTexture name="pea_w instancia 10009" x="927" y="810" width="181" height="168" frameX="-26" frameY="-13" frameWidth="222" frameHeight="180"/>
+	<SubTexture name="pea_w instancia 10010" x="1108" y="810" width="188" height="166" frameX="-19" frameY="-13" frameWidth="222" frameHeight="180"/>
+</TextureAtlas>

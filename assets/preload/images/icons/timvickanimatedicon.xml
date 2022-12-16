@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="timvickanimatedicon.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="timvick_l instancia 10000" x="0" y="0" width="216" height="247" frameX="-10" frameY="0" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10001" x="216" y="0" width="216" height="232" frameX="-1" frameY="-12" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10002" x="432" y="0" width="214" height="238" frameX="-16" frameY="-6" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10003" x="646" y="0" width="223" height="223" frameX="0" frameY="-21" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10004" x="869" y="0" width="216" height="223" frameX="0" frameY="-21" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10005" x="1085" y="0" width="216" height="226" frameX="0" frameY="-21" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10006" x="1301" y="0" width="216" height="227" frameX="-3" frameY="-20" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10007" x="1517" y="0" width="216" height="244" frameX="-10" frameY="0" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10008" x="1733" y="0" width="216" height="232" frameX="-1" frameY="-12" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10009" x="0" y="247" width="214" height="238" frameX="-16" frameY="-6" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10010" x="214" y="247" width="216" height="223" frameX="0" frameY="-21" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10011" x="430" y="247" width="216" height="226" frameX="0" frameY="-21" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10012" x="430" y="247" width="216" height="226" frameX="0" frameY="-21" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10013" x="646" y="247" width="216" height="224" frameX="-3" frameY="-20" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10014" x="1517" y="0" width="216" height="244" frameX="-10" frameY="0" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10015" x="862" y="247" width="216" height="232" frameX="-1" frameY="-12" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10016" x="0" y="247" width="214" height="238" frameX="-16" frameY="-6" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10017" x="430" y="247" width="216" height="226" frameX="0" frameY="-21" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10018" x="430" y="247" width="216" height="226" frameX="0" frameY="-21" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10019" x="1078" y="247" width="216" height="223" frameX="0" frameY="-21" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10020" x="646" y="247" width="216" height="224" frameX="-3" frameY="-20" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10021" x="1294" y="247" width="216" height="244" frameX="-10" frameY="0" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10022" x="862" y="247" width="216" height="232" frameX="-1" frameY="-12" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10023" x="1510" y="247" width="214" height="241" frameX="-16" frameY="-6" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_l instancia 10024" x="430" y="247" width="216" height="226" frameX="0" frameY="-21" frameWidth="231" frameHeight="247"/>
+	<SubTexture name="timvick_n instancia 10000" x="1724" y="247" width="284" height="215" frameX="0" frameY="-4" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10001" x="0" y="491" width="274" height="200" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10002" x="274" y="491" width="264" height="216" frameX="-11" frameY="0" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10003" x="538" y="491" width="274" height="204" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10004" x="812" y="491" width="286" height="211" frameX="0" frameY="-5" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10005" x="1098" y="491" width="274" height="207" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10006" x="1372" y="491" width="278" height="216" frameX="0" frameY="-3" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10007" x="1650" y="491" width="274" height="206" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10008" x="1650" y="491" width="274" height="206" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10009" x="0" y="707" width="274" height="206" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10010" x="0" y="707" width="274" height="206" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10011" x="274" y="707" width="274" height="207" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10012" x="274" y="707" width="274" height="207" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10013" x="1650" y="491" width="274" height="206" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10014" x="1650" y="491" width="274" height="206" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10015" x="0" y="707" width="274" height="206" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10016" x="0" y="707" width="274" height="206" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10017" x="274" y="707" width="274" height="207" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10018" x="274" y="707" width="274" height="207" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10019" x="1650" y="491" width="274" height="206" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10020" x="1650" y="491" width="274" height="206" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10021" x="0" y="707" width="274" height="206" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10022" x="0" y="707" width="274" height="206" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10023" x="274" y="707" width="274" height="207" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_n instancia 10024" x="548" y="707" width="274" height="207" frameX="0" frameY="-12" frameWidth="286" frameHeight="219"/>
+	<SubTexture name="timvick_w instancia 10000" x="822" y="707" width="233" height="231" frameX="-12" frameY="0" frameWidth="253" frameHeight="231"/>
+	<SubTexture name="timvick_w instancia 10001" x="1055" y="707" width="252" height="231" frameX="-1" frameY="0" frameWidth="253" frameHeight="231"/>
+	<SubTexture name="timvick_w instancia 10002" x="1307" y="707" width="234" height="231" frameX="-9" frameY="0" frameWidth="253" frameHeight="231"/>
+	<SubTexture name="timvick_w instancia 10003" x="1541" y="707" width="245" height="226" frameX="-1" frameY="0" frameWidth="253" frameHeight="231"/>
+	<SubTexture name="timvick_w instancia 10004" x="1786" y="707" width="223" height="226" frameX="-10" frameY="0" frameWidth="253" frameHeight="231"/>
+	<SubTexture name="timvick_w instancia 10005" x="0" y="938" width="245" height="231" frameX="0" frameY="0" frameWidth="253" frameHeight="231"/>
+	<SubTexture name="timvick_w instancia 10006" x="245" y="938" width="218" height="231" frameX="-17" frameY="0" frameWidth="253" frameHeight="231"/>
+	<SubTexture name="timvick_w instancia 10007" x="463" y="938" width="244" height="226" frameX="-6" frameY="0" frameWidth="253" frameHeight="231"/>
+	<SubTexture name="timvick_w instancia 10008" x="707" y="938" width="222" height="226" frameX="-16" frameY="0" frameWidth="253" frameHeight="231"/>
+</TextureAtlas>

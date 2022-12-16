@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "oswald_pibby_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				20
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "oswald_pibby_left"
+		},
+		{
+			"offsets": [
+				-20,
+				-40
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "oswald_pibby_down"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "oswald_pibby_up"
+		},
+		{
+			"offsets": [
+				-160,
+				-20
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "oswald_pibby_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oswald_pibby_color",
+	"position": [
+		-110,
+		160
+	],
+	"healthicon": "icon_oswald_color",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-100,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

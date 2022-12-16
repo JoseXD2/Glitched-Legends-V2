@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animatedlooney.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="charactersbugs instancia 10000" x="0" y="0" width="1588" height="341" frameX="0" frameY="-16" frameWidth="1588" frameHeight="357"/>
+	<SubTexture name="charactersbugs instancia 10001" x="0" y="0" width="1588" height="341" frameX="0" frameY="-16" frameWidth="1588" frameHeight="357"/>
+	<SubTexture name="charactersbugs instancia 10002" x="1588" y="0" width="1588" height="345" frameX="0" frameY="-12" frameWidth="1588" frameHeight="357"/>
+	<SubTexture name="charactersbugs instancia 10003" x="1588" y="0" width="1588" height="345" frameX="0" frameY="-12" frameWidth="1588" frameHeight="357"/>
+	<SubTexture name="charactersbugs instancia 10004" x="0" y="345" width="1588" height="350" frameX="0" frameY="-7" frameWidth="1588" frameHeight="357"/>
+	<SubTexture name="charactersbugs instancia 10005" x="0" y="345" width="1588" height="350" frameX="0" frameY="-7" frameWidth="1588" frameHeight="357"/>
+	<SubTexture name="charactersbugs instancia 10006" x="1588" y="345" width="1588" height="357"/>
+	<SubTexture name="charactersbugs instancia 10007" x="1588" y="345" width="1588" height="357"/>
+	<SubTexture name="charactersbugs instancia 10008" x="0" y="702" width="1588" height="357"/>
+	<SubTexture name="charactersbugs instancia 10009" x="0" y="702" width="1588" height="357"/>
+	<SubTexture name="charactersbugs instancia 10010" x="1588" y="702" width="1588" height="357"/>
+	<SubTexture name="charactersbugs instancia 10011" x="1588" y="702" width="1588" height="357"/>
+	<SubTexture name="charactersbugs instancia 10012" x="0" y="1059" width="1588" height="357"/>
+	<SubTexture name="charactersbugs instancia 10013" x="0" y="1059" width="1588" height="357"/>
+	<SubTexture name="charactersbugs instancia 10014" x="1588" y="1059" width="1588" height="357"/>
+</TextureAtlas>

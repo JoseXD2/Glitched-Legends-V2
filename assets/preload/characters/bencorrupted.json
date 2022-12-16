@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				0
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "ben10_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-60
+			],
+			"anim": "attack",
+			"fps": 14,
+			"name": "ben10_attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				350,
+				0
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ben10_left"
+		},
+		{
+			"offsets": [
+				250,
+				-140
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ben10_down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "idle",
+			"loop": false,
+			"name": "ben10_idle"
+		},
+		{
+			"offsets": [
+				40,
+				40
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ben10_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ben_10_pibby_clasic",
+	"position": [
+		40,
+		150
+	],
+	"healthicon": "icon-bencorrupted",
+	"flip_x": false,
+	"healthbar_colors": [
+		177,
+		229,
+		28
+	],
+	"camera_position": [
+		-350,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

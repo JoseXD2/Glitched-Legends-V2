@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mickey_pibby_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 32,
+			"name": "mickey_pibby_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 32,
+			"name": "mickey_pibby_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singUP",
+			"fps": 32,
+			"name": "mickey_pibby_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 32,
+			"name": "mickey_pibby_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mickey_pibby",
+	"position": [
+		-170,
+		260
+	],
+	"healthicon": "mickey_icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-230,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frediconanimated.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fred_l instancia 10000" x="0" y="0" width="151" height="141" frameX="-1" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10001" x="0" y="0" width="151" height="141" frameX="-1" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10002" x="151" y="0" width="153" height="141" frameX="-1" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10003" x="151" y="0" width="153" height="141" frameX="-1" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10004" x="304" y="0" width="151" height="145" frameX="-1" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10005" x="455" y="0" width="154" height="158" frameX="-2" frameY="0" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10006" x="609" y="0" width="151" height="161" frameX="-1" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10007" x="609" y="0" width="151" height="161" frameX="-1" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10008" x="760" y="0" width="152" height="149" frameX="0" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10009" x="760" y="0" width="152" height="149" frameX="0" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10010" x="0" y="161" width="151" height="155" frameX="-1" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10011" x="0" y="161" width="151" height="155" frameX="-1" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10012" x="151" y="161" width="151" height="141" frameX="-1" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10013" x="151" y="161" width="151" height="141" frameX="-1" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_l instancia 10014" x="151" y="161" width="151" height="141" frameX="-1" frameY="-22" frameWidth="156" frameHeight="183"/>
+	<SubTexture name="fred_n instancia 10000" x="302" y="161" width="140" height="135" frameX="-3" frameY="-1" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10001" x="302" y="161" width="140" height="135" frameX="-3" frameY="-1" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10002" x="442" y="161" width="160" height="139" frameX="-2" frameY="-1" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10003" x="442" y="161" width="160" height="139" frameX="-2" frameY="-1" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10004" x="602" y="161" width="156" height="145" frameX="-3" frameY="0" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10005" x="602" y="161" width="156" height="145" frameX="-3" frameY="0" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10006" x="758" y="161" width="166" height="152" frameX="-3" frameY="0" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10007" x="758" y="161" width="166" height="152" frameX="-3" frameY="0" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10008" x="0" y="316" width="146" height="154" frameX="0" frameY="-2" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10009" x="0" y="316" width="146" height="154" frameX="0" frameY="-2" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10010" x="146" y="316" width="143" height="159" frameX="-2" frameY="-2" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10011" x="146" y="316" width="143" height="159" frameX="-2" frameY="-2" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10012" x="289" y="316" width="143" height="150" frameX="-2" frameY="-2" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10013" x="289" y="316" width="143" height="150" frameX="-2" frameY="-2" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_n instancia 10014" x="432" y="316" width="142" height="143" frameX="-3" frameY="-2" frameWidth="169" frameHeight="160"/>
+	<SubTexture name="fred_win instancia 10000" x="574" y="316" width="153" height="140" frameX="-11" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10001" x="574" y="316" width="153" height="140" frameX="-11" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10002" x="727" y="316" width="159" height="143" frameX="-7" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10003" x="727" y="316" width="159" height="143" frameX="-7" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10004" x="0" y="475" width="154" height="143" frameX="-6" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10005" x="0" y="475" width="154" height="143" frameX="-6" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10006" x="154" y="475" width="156" height="145" frameX="-8" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10007" x="154" y="475" width="156" height="145" frameX="-8" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10008" x="310" y="475" width="153" height="144" frameX="-8" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10009" x="310" y="475" width="153" height="144" frameX="-8" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10010" x="463" y="475" width="158" height="138" frameX="-6" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10011" x="463" y="475" width="158" height="138" frameX="-6" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10012" x="621" y="475" width="157" height="137" frameX="0" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10013" x="621" y="475" width="157" height="137" frameX="0" frameY="0" frameWidth="167" frameHeight="145"/>
+	<SubTexture name="fred_win instancia 10014" x="778" y="475" width="153" height="138" frameX="-11" frameY="0" frameWidth="167" frameHeight="145"/>
+</TextureAtlas>

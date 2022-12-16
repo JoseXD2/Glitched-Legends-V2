@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="beastboy.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beastboy_alt_idle instancia 10000" x="0" y="0" width="529" height="422" frameX="-53" frameY="-45" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10001" x="529" y="0" width="529" height="422" frameX="-53" frameY="-45" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10002" x="1058" y="0" width="533" height="438" frameX="-40" frameY="-33" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10003" x="1591" y="0" width="533" height="438" frameX="-40" frameY="-33" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10004" x="2124" y="0" width="591" height="432" frameX="0" frameY="-19" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10005" x="2715" y="0" width="591" height="432" frameX="0" frameY="-19" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10006" x="3306" y="0" width="565" height="451" frameX="-41" frameY="0" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10007" x="0" y="451" width="565" height="451" frameX="-41" frameY="0" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10008" x="565" y="451" width="608" height="467" frameX="-23" frameY="0" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10009" x="565" y="451" width="608" height="467" frameX="-23" frameY="0" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10010" x="1173" y="451" width="622" height="465" frameX="-37" frameY="0" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10011" x="1795" y="451" width="622" height="465" frameX="-37" frameY="0" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10012" x="2417" y="451" width="648" height="468" frameX="-29" frameY="0" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10013" x="3065" y="451" width="648" height="468" frameX="-29" frameY="0" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_alt_idle instancia 10014" x="0" y="919" width="648" height="468" frameX="-29" frameY="0" frameWidth="677" frameHeight="471"/>
+	<SubTexture name="beastboy_appear instancia 10000" x="648" y="919" width="166" height="151" frameX="-101" frameY="0" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10001" x="648" y="919" width="166" height="151" frameX="-101" frameY="0" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10002" x="814" y="919" width="121" height="110" frameX="-95" frameY="-520" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10003" x="814" y="919" width="121" height="110" frameX="-95" frameY="-520" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10004" x="935" y="919" width="71" height="140" frameX="-121" frameY="-904" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10005" x="935" y="919" width="71" height="140" frameX="-121" frameY="-904" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10006" x="1006" y="919" width="44" height="104" frameX="-134" frameY="-1377" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10007" x="1006" y="919" width="44" height="104" frameX="-134" frameY="-1377" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10008" x="1050" y="919" width="416" height="93" frameX="0" frameY="-1563" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10009" x="1050" y="919" width="416" height="93" frameX="0" frameY="-1563" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10010" x="1466" y="919" width="461" height="178" frameX="0" frameY="-1478" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10011" x="1927" y="919" width="461" height="178" frameX="0" frameY="-1478" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10012" x="2388" y="919" width="461" height="235" frameX="0" frameY="-1421" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10013" x="2849" y="919" width="461" height="235" frameX="0" frameY="-1421" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10014" x="3310" y="919" width="461" height="281" frameX="0" frameY="-1375" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10015" x="0" y="1387" width="461" height="281" frameX="0" frameY="-1375" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10016" x="461" y="1387" width="461" height="381" frameX="0" frameY="-1275" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10017" x="922" y="1387" width="461" height="381" frameX="0" frameY="-1275" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10018" x="1383" y="1387" width="461" height="396" frameX="0" frameY="-1260" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10019" x="1383" y="1387" width="461" height="396" frameX="0" frameY="-1260" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10020" x="1844" y="1387" width="461" height="394" frameX="0" frameY="-1262" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10021" x="2305" y="1387" width="461" height="394" frameX="0" frameY="-1262" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10022" x="1844" y="1387" width="461" height="394" frameX="0" frameY="-1262" frameWidth="461" frameHeight="1656"/>
+	<SubTexture name="beastboy_appear instancia 10023" x="2305" y="1387" width="461" height="394" frameX="0" frameY="-1262" frameWidth="461" frameHeight="1656"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bficonanimated.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bffp_ww instancia 10000" x="0" y="0" width="172" height="141" frameX="-11" frameY="0" frameWidth="192" frameHeight="144"/>
+	<SubTexture name="bffp_ww instancia 10001" x="172" y="0" width="169" height="141" frameX="0" frameY="0" frameWidth="192" frameHeight="144"/>
+	<SubTexture name="bffp_ww instancia 10002" x="341" y="0" width="168" height="141" frameX="-14" frameY="0" frameWidth="192" frameHeight="144"/>
+	<SubTexture name="bffp_ww instancia 10003" x="509" y="0" width="169" height="144" frameX="-23" frameY="0" frameWidth="192" frameHeight="144"/>
+	<SubTexture name="bffp_ww instancia 10004" x="678" y="0" width="175" height="144" frameX="-14" frameY="0" frameWidth="192" frameHeight="144"/>
+	<SubTexture name="bffp_ww instancia 10005" x="853" y="0" width="167" height="141" frameX="-8" frameY="0" frameWidth="192" frameHeight="144"/>
+	<SubTexture name="bffp_ww instancia 10006" x="0" y="144" width="169" height="141" frameX="-13" frameY="0" frameWidth="192" frameHeight="144"/>
+	<SubTexture name="bffp_ww instancia 10007" x="169" y="144" width="182" height="141" frameX="-5" frameY="0" frameWidth="192" frameHeight="144"/>
+	<SubTexture name="bffp_ww instancia 10008" x="351" y="144" width="180" height="141" frameX="-5" frameY="0" frameWidth="192" frameHeight="144"/>
+	<SubTexture name="bffp_ww instancia 10009" x="531" y="144" width="180" height="144" frameX="-5" frameY="0" frameWidth="192" frameHeight="144"/>
+	<SubTexture name="bfp_l instancia 10000" x="711" y="144" width="179" height="137"/>
+	<SubTexture name="bfp_n instancia 10000" x="0" y="288" width="180" height="125"/>
+</TextureAtlas>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gumball_pibby.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gumball_down instancia 10000" x="0" y="0" width="827" height="539" frameX="-84" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10001" x="0" y="0" width="827" height="539" frameX="-84" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10002" x="827" y="0" width="828" height="528" frameX="-76" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10003" x="827" y="0" width="828" height="528" frameX="-76" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10004" x="1655" y="0" width="858" height="528" frameX="-31" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10005" x="1655" y="0" width="858" height="528" frameX="-31" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10006" x="2513" y="0" width="825" height="535" frameX="-45" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10007" x="2513" y="0" width="825" height="535" frameX="-45" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10008" x="3338" y="0" width="826" height="532" frameX="-44" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10009" x="3338" y="0" width="826" height="532" frameX="-44" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10010" x="4164" y="0" width="833" height="531" frameX="-37" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10011" x="4164" y="0" width="833" height="531" frameX="-37" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10012" x="4997" y="0" width="870" height="546" frameX="0" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10013" x="4997" y="0" width="870" height="546" frameX="0" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_down instancia 10014" x="4997" y="0" width="870" height="546" frameX="0" frameY="0" frameWidth="911" frameHeight="546"/>
+	<SubTexture name="gumball_idle instancia 10000" x="5867" y="0" width="518" height="518" frameX="0" frameY="-27" frameWidth="518" frameHeight="545"/>
+	<SubTexture name="gumball_idle instancia 10001" x="6385" y="0" width="518" height="518" frameX="0" frameY="-27" frameWidth="518" frameHeight="545"/>
+	<SubTexture name="gumball_idle instancia 10002" x="6903" y="0" width="518" height="518" frameX="0" frameY="-27" frameWidth="518" frameHeight="545"/>
+	<SubTexture name="gumball_idle instancia 10003" x="7421" y="0" width="518" height="518" frameX="0" frameY="-27" frameWidth="518" frameHeight="545"/>
+	<SubTexture name="gumball_idle instancia 10004" x="0" y="546" width="518" height="518" frameX="0" frameY="-27" frameWidth="518" frameHeight="545"/>
+	<SubTexture name="gumball_idle instancia 10005" x="518" y="546" width="518" height="518" frameX="0" frameY="-27" frameWidth="518" frameHeight="545"/>
+	<SubTexture name="gumball_idle instancia 10006" x="1036" y="546" width="518" height="519" frameX="0" frameY="-26" frameWidth="518" frameHeight="545"/>
+	<SubTexture name="gumball_idle instancia 10007" x="1036" y="546" width="518" height="519" frameX="0" frameY="-26" frameWidth="518" frameHeight="545"/>
+	<SubTexture name="gumball_idle instancia 10008" x="1554" y="546" width="518" height="518" frameX="0" frameY="-27" frameWidth="518" frameHeight="545"/>
+	<SubTexture name="gumball_idle instancia 10009" x="1554" y="546" width="518" height="518" frameX="0" frameY="-27" frameWidth="518" frameHeight="545"/>
+	<SubTexture name="gumball_idle instancia 10010" x="2072" y="546" width="518" height="518" frameX="0" frameY="-27" frameWidth="518" frameHeight="545"/>
+	<SubTexture name="gumball_idle instancia 10011" x="2072" y="546" width="518" height="518" frameX="0" frameY="-27" frameWidth="518" frameHeight="545"/>
+	<SubTexture name="gumball_idle instancia 10012" x="2590" y="546" width="518" height="545"/>
+	<SubTexture name="gumball_idle instancia 10013" x="2590" y="546" width="518" height="545"/>
+	<SubTexture name="gumball_idle instancia 10014" x="2590" y="546" width="518" height="545"/>
+	<SubTexture name="gumball_left instancia 10000" x="3108" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_left instancia 10001" x="3626" y="546" width="525" height="519"/>
+	<SubTexture name="gumball_left instancia 10002" x="4151" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_left instancia 10003" x="4151" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_left instancia 10004" x="4669" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_left instancia 10005" x="4669" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_left instancia 10006" x="5187" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_left instancia 10007" x="5187" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_left instancia 10008" x="5705" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_left instancia 10009" x="5705" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_left instancia 10010" x="6223" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_left instancia 10011" x="6223" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_left instancia 10012" x="6741" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_left instancia 10013" x="6741" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_left instancia 10014" x="6741" y="546" width="518" height="519" frameX="0" frameY="0" frameWidth="525" frameHeight="519"/>
+	<SubTexture name="gumball_right instancia 10000" x="7259" y="546" width="578" height="575"/>
+	<SubTexture name="gumball_right instancia 10001" x="7259" y="546" width="578" height="575"/>
+	<SubTexture name="gumball_right instancia 10002" x="0" y="1121" width="578" height="571" frameX="0" frameY="-4" frameWidth="578" frameHeight="575"/>
+	<SubTexture name="gumball_right instancia 10003" x="578" y="1121" width="578" height="571" frameX="0" frameY="-4" frameWidth="578" frameHeight="575"/>
+	<SubTexture name="gumball_right instancia 10004" x="1156" y="1121" width="578" height="571" frameX="0" frameY="-4" frameWidth="578" frameHeight="575"/>
+	<SubTexture name="gumball_right instancia 10005" x="1156" y="1121" width="578" height="571" frameX="0" frameY="-4" frameWidth="578" frameHeight="575"/>
+	<SubTexture name="gumball_right instancia 10006" x="1734" y="1121" width="578" height="571" frameX="0" frameY="-4" frameWidth="578" frameHeight="575"/>
+	<SubTexture name="gumball_right instancia 10007" x="1734" y="1121" width="578" height="571" frameX="0" frameY="-4" frameWidth="578" frameHeight="575"/>
+	<SubTexture name="gumball_right instancia 10008" x="2312" y="1121" width="578" height="571" frameX="0" frameY="-4" frameWidth="578" frameHeight="575"/>
+	<SubTexture name="gumball_right instancia 10009" x="2312" y="1121" width="578" height="571" frameX="0" frameY="-4" frameWidth="578" frameHeight="575"/>
+	<SubTexture name="gumball_right instancia 10010" x="2890" y="1121" width="578" height="571" frameX="0" frameY="-4" frameWidth="578" frameHeight="575"/>
+	<SubTexture name="gumball_right instancia 10011" x="2890" y="1121" width="578" height="571" frameX="0" frameY="-4" frameWidth="578" frameHeight="575"/>
+	<SubTexture name="gumball_right instancia 10012" x="3468" y="1121" width="578" height="571" frameX="0" frameY="-4" frameWidth="578" frameHeight="575"/>
+	<SubTexture name="gumball_right instancia 10013" x="3468" y="1121" width="578" height="571" frameX="0" frameY="-4" frameWidth="578" frameHeight="575"/>
+	<SubTexture name="gumball_right instancia 10014" x="3468" y="1121" width="578" height="571" frameX="0" frameY="-4" frameWidth="578" frameHeight="575"/>
+	<SubTexture name="gumball_up instancia 10000" x="4046" y="1121" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10001" x="4046" y="1121" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10002" x="4715" y="1121" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10003" x="4715" y="1121" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10004" x="5384" y="1121" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10005" x="5384" y="1121" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10006" x="6053" y="1121" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10007" x="6053" y="1121" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10008" x="6722" y="1121" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10009" x="6722" y="1121" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10010" x="7391" y="1121" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10011" x="7391" y="1121" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10012" x="0" y="1872" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10013" x="0" y="1872" width="669" height="751"/>
+	<SubTexture name="gumball_up instancia 10014" x="0" y="1872" width="669" height="751"/>
+</TextureAtlas>

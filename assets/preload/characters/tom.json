@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "tom_pibby_idle"
+		},
+		{
+			"offsets": [
+				190,
+				80
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tom_pibby_left"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "tom_pibby_down"
+		},
+		{
+			"offsets": [
+				160,
+				40
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singUP",
+			"loop": false,
+			"name": "tom_pibby_up"
+		},
+		{
+			"offsets": [
+				40,
+				-40
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tom_pibby_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tompibby",
+	"position": [
+		-190,
+		140
+	],
+	"healthicon": "icon-tom",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		19,
+		50
+	],
+	"camera_position": [
+		-130,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

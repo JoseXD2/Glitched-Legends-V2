@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-180,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "patrick_idle"
+		},
+		{
+			"offsets": [
+				10,
+				-30
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "patrick_left"
+		},
+		{
+			"offsets": [
+				-270,
+				-161
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "patrick_down"
+		},
+		{
+			"offsets": [
+				-30,
+				30
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singUP",
+			"loop": false,
+			"name": "patrick_up"
+		},
+		{
+			"offsets": [
+				-60,
+				-120
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "patrick_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/patrick_pibby",
+	"position": [
+		-260,
+		170
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

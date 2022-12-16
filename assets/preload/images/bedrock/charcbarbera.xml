@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="charcbarbera.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="charactersfred instancia 10000" x="0" y="0" width="1137" height="451" frameX="-12" frameY="-36" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10001" x="0" y="0" width="1137" height="451" frameX="-12" frameY="-36" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10002" x="1137" y="0" width="1134" height="452" frameX="-8" frameY="-20" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10003" x="2271" y="0" width="1134" height="452" frameX="-8" frameY="-20" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10004" x="0" y="452" width="1134" height="453" frameX="-8" frameY="0" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10005" x="0" y="452" width="1134" height="453" frameX="-8" frameY="0" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10006" x="1134" y="452" width="1136" height="452" frameX="-6" frameY="0" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10007" x="1134" y="452" width="1136" height="452" frameX="-6" frameY="0" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10008" x="2270" y="452" width="1135" height="452" frameX="-8" frameY="0" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10009" x="2270" y="452" width="1135" height="452" frameX="-8" frameY="0" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10010" x="0" y="905" width="1150" height="449" frameX="-2" frameY="0" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10011" x="0" y="905" width="1150" height="449" frameX="-2" frameY="0" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10012" x="1150" y="905" width="1151" height="454" frameX="0" frameY="0" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10013" x="1150" y="905" width="1151" height="454" frameX="0" frameY="0" frameWidth="1152" frameHeight="487"/>
+	<SubTexture name="charactersfred instancia 10014" x="2301" y="905" width="1134" height="453" frameX="-8" frameY="0" frameWidth="1152" frameHeight="487"/>
+</TextureAtlas>

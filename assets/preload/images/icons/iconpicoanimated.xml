@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="iconpicoanimated.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="picol instancia 10000" x="0" y="0" width="171" height="146" frameX="-17" frameY="-6" frameWidth="203" frameHeight="152"/>
+	<SubTexture name="picol instancia 10001" x="0" y="0" width="171" height="146" frameX="-17" frameY="-6" frameWidth="203" frameHeight="152"/>
+	<SubTexture name="picol instancia 10002" x="171" y="0" width="181" height="147" frameX="0" frameY="-5" frameWidth="203" frameHeight="152"/>
+	<SubTexture name="picol instancia 10003" x="171" y="0" width="181" height="147" frameX="0" frameY="-5" frameWidth="203" frameHeight="152"/>
+	<SubTexture name="picol instancia 10004" x="352" y="0" width="170" height="146" frameX="-20" frameY="-6" frameWidth="203" frameHeight="152"/>
+	<SubTexture name="picol instancia 10005" x="352" y="0" width="170" height="146" frameX="-20" frameY="-6" frameWidth="203" frameHeight="152"/>
+	<SubTexture name="picol instancia 10006" x="522" y="0" width="176" height="152" frameX="-5" frameY="0" frameWidth="203" frameHeight="152"/>
+	<SubTexture name="picol instancia 10007" x="522" y="0" width="176" height="152" frameX="-5" frameY="0" frameWidth="203" frameHeight="152"/>
+	<SubTexture name="picol instancia 10008" x="698" y="0" width="179" height="147" frameX="-24" frameY="-5" frameWidth="203" frameHeight="152"/>
+	<SubTexture name="picol instancia 10009" x="698" y="0" width="179" height="147" frameX="-24" frameY="-5" frameWidth="203" frameHeight="152"/>
+	<SubTexture name="picon instancia 10000" x="0" y="152" width="155" height="147" frameX="-12" frameY="0" frameWidth="182" frameHeight="147"/>
+	<SubTexture name="picon instancia 10001" x="155" y="152" width="155" height="147" frameX="-12" frameY="0" frameWidth="182" frameHeight="147"/>
+	<SubTexture name="picon instancia 10002" x="310" y="152" width="157" height="147" frameX="-14" frameY="0" frameWidth="182" frameHeight="147"/>
+	<SubTexture name="picon instancia 10003" x="467" y="152" width="158" height="134" frameX="-25" frameY="-2" frameWidth="182" frameHeight="147"/>
+	<SubTexture name="picon instancia 10004" x="625" y="152" width="153" height="145" frameX="-27" frameY="0" frameWidth="182" frameHeight="147"/>
+	<SubTexture name="picon instancia 10005" x="778" y="152" width="153" height="147" frameX="-27" frameY="0" frameWidth="182" frameHeight="147"/>
+	<SubTexture name="picon instancia 10006" x="778" y="152" width="153" height="147" frameX="-14" frameY="0" frameWidth="182" frameHeight="147"/>
+	<SubTexture name="picon instancia 10007" x="0" y="299" width="153" height="145" frameX="-14" frameY="0" frameWidth="182" frameHeight="147"/>
+	<SubTexture name="picon instancia 10008" x="0" y="299" width="153" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="147"/>
+	<SubTexture name="picon instancia 10009" x="625" y="152" width="153" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="147"/>
+	<SubTexture name="picon instancia 10010" x="625" y="152" width="153" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="147"/>
+	<SubTexture name="picow instancia 10000" x="153" y="299" width="180" height="137" frameX="-16" frameY="-7" frameWidth="202" frameHeight="145"/>
+	<SubTexture name="picow instancia 10001" x="333" y="299" width="187" height="138" frameX="-15" frameY="-7" frameWidth="202" frameHeight="145"/>
+	<SubTexture name="picow instancia 10002" x="520" y="299" width="194" height="134" frameX="0" frameY="-7" frameWidth="202" frameHeight="145"/>
+	<SubTexture name="picow instancia 10003" x="714" y="299" width="172" height="135" frameX="-28" frameY="-7" frameWidth="202" frameHeight="145"/>
+	<SubTexture name="picow instancia 10004" x="0" y="444" width="182" height="134" frameX="-5" frameY="-7" frameWidth="202" frameHeight="145"/>
+	<SubTexture name="picow instancia 10005" x="182" y="444" width="182" height="134" frameX="-15" frameY="-7" frameWidth="202" frameHeight="145"/>
+	<SubTexture name="picow instancia 10006" x="364" y="444" width="177" height="134" frameX="-10" frameY="-7" frameWidth="202" frameHeight="145"/>
+	<SubTexture name="picow instancia 10007" x="541" y="444" width="175" height="134" frameX="-20" frameY="-7" frameWidth="202" frameHeight="145"/>
+	<SubTexture name="picow instancia 10008" x="716" y="444" width="182" height="134" frameX="-6" frameY="-7" frameWidth="202" frameHeight="145"/>
+	<SubTexture name="picow instancia 10009" x="0" y="578" width="184" height="136" frameX="-17" frameY="0" frameWidth="202" frameHeight="145"/>
+</TextureAtlas>

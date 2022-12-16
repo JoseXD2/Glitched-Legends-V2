@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bunbun_shadow.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bunbun_shadow instancia 10000" x="0" y="5249" width="1688" height="1718" pivotX="514.35" pivotY="768.65" frameX="-45" frameY="-206" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10001" x="0" y="5249" width="1688" height="1718" frameX="-45" frameY="-206" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10002" x="0" y="0" width="1715" height="1740" frameX="0" frameY="-184" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10003" x="0" y="1740" width="1715" height="1740" frameX="0" frameY="-184" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10004" x="1658" y="3480" width="1638" height="1769" frameX="-45" frameY="-139" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10005" x="0" y="3480" width="1658" height="1769" frameX="-25" frameY="-139" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10006" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10007" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10008" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10009" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10010" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10011" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10012" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10013" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10014" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10015" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10016" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10017" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10018" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10019" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10020" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10021" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10022" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10023" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+	<SubTexture name="bunbun_shadow instancia 10024" x="1688" y="5249" width="1419" height="1889" frameX="-193" frameY="0" frameWidth="1733" frameHeight="1924"/>
+</TextureAtlas>

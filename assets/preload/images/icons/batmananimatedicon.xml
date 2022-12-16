@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="batmananimatedicon.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="batman_l instancia 10000" x="0" y="0" width="124" height="173" frameX="0" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10001" x="0" y="0" width="124" height="173" frameX="0" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10002" x="124" y="0" width="120" height="173" frameX="-4" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10003" x="124" y="0" width="120" height="173" frameX="-4" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10004" x="244" y="0" width="120" height="173" frameX="-4" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10005" x="364" y="0" width="131" height="173" frameX="-4" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10006" x="495" y="0" width="131" height="172" frameX="-6" frameY="-1" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10007" x="626" y="0" width="118" height="173" frameX="-6" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10008" x="744" y="0" width="122" height="173" frameX="-2" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10009" x="744" y="0" width="122" height="173" frameX="-2" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10010" x="866" y="0" width="120" height="173" frameX="-4" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10011" x="866" y="0" width="120" height="173" frameX="-4" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10012" x="0" y="173" width="121" height="173" frameX="-3" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10013" x="121" y="173" width="119" height="173" frameX="-5" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_l instancia 10014" x="121" y="173" width="119" height="173" frameX="-5" frameY="0" frameWidth="137" frameHeight="173"/>
+	<SubTexture name="batman_n instancia 10000" x="240" y="173" width="106" height="182" frameX="-12" frameY="-3" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10001" x="240" y="173" width="106" height="182" frameX="-12" frameY="-3" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10002" x="346" y="173" width="106" height="182" frameX="-12" frameY="-3" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10003" x="346" y="173" width="106" height="182" frameX="-12" frameY="-3" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10004" x="240" y="173" width="106" height="182" frameX="-12" frameY="-3" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10005" x="240" y="173" width="106" height="182" frameX="-12" frameY="-3" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10006" x="452" y="173" width="113" height="186" frameX="0" frameY="0" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10007" x="565" y="173" width="112" height="168" frameX="-7" frameY="-15" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10008" x="240" y="173" width="106" height="182" frameX="-12" frameY="-3" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10009" x="240" y="173" width="106" height="182" frameX="-12" frameY="-3" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10010" x="240" y="173" width="106" height="182" frameX="-12" frameY="-3" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10011" x="346" y="173" width="106" height="182" frameX="-12" frameY="-3" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10012" x="346" y="173" width="106" height="182" frameX="-12" frameY="-3" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10013" x="240" y="173" width="106" height="182" frameX="-12" frameY="-3" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_n instancia 10014" x="240" y="173" width="106" height="182" frameX="-12" frameY="-3" frameWidth="119" frameHeight="186"/>
+	<SubTexture name="batman_w instancia 10000" x="677" y="173" width="136" height="184" frameX="-26" frameY="-13" frameWidth="173" frameHeight="209"/>
+	<SubTexture name="batman_w instancia 10001" x="813" y="173" width="131" height="190" frameX="-34" frameY="-10" frameWidth="173" frameHeight="209"/>
+	<SubTexture name="batman_w instancia 10002" x="0" y="363" width="139" height="183" frameX="-20" frameY="-16" frameWidth="173" frameHeight="209"/>
+	<SubTexture name="batman_w instancia 10003" x="139" y="363" width="144" height="201" frameX="-9" frameY="-7" frameWidth="173" frameHeight="209"/>
+	<SubTexture name="batman_w instancia 10004" x="283" y="363" width="134" height="197" frameX="-20" frameY="-12" frameWidth="173" frameHeight="209"/>
+	<SubTexture name="batman_w instancia 10005" x="417" y="363" width="138" height="205" frameX="-12" frameY="-4" frameWidth="173" frameHeight="209"/>
+	<SubTexture name="batman_w instancia 10006" x="555" y="363" width="157" height="179" frameX="-4" frameY="-15" frameWidth="173" frameHeight="209"/>
+	<SubTexture name="batman_w instancia 10007" x="712" y="363" width="144" height="204" frameX="-29" frameY="0" frameWidth="173" frameHeight="209"/>
+	<SubTexture name="batman_w instancia 10008" x="856" y="363" width="149" height="192" frameX="0" frameY="-10" frameWidth="173" frameHeight="209"/>
+	<SubTexture name="batman_w instancia 10009" x="0" y="568" width="132" height="202" frameX="-22" frameY="-5" frameWidth="173" frameHeight="209"/>
+</TextureAtlas>

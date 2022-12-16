@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dustty_ideas_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dustty_ideas_left"
+		},
+		{
+			"offsets": [
+				-60,
+				-10
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dustty_ideas_down"
+		},
+		{
+			"offsets": [
+				20,
+				20
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singUP",
+			"loop": false,
+			"name": "dustty_ideas_up"
+		},
+		{
+			"offsets": [
+				30,
+				-10
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dustty_ideas_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dustty",
+	"position": [
+		0,
+		320
+	],
+	"healthicon": "dusty-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		7,
+		43
+	],
+	"camera_position": [
+		-100,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

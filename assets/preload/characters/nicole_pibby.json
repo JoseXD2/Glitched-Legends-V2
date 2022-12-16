@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "nicole_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 32,
+			"name": "nicole_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 32,
+			"name": "nicole_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				70
+			],
+			"anim": "singUP",
+			"fps": 32,
+			"name": "nicole_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 32,
+			"name": "nicole_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nicole_pibby",
+	"position": [
+		40,
+		-90
+	],
+	"healthicon": "icon-nicole",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		138,
+		218
+	],
+	"camera_position": [
+		-290,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

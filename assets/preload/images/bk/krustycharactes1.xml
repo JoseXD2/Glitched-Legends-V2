@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="krustycharactes1.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="characterskrusty instancia 10000" x="0" y="0" width="821" height="858" frameX="-126" frameY="-66" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10001" x="821" y="0" width="821" height="858" frameX="-126" frameY="-66" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10002" x="1642" y="0" width="900" height="842" frameX="-47" frameY="-31" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10003" x="2542" y="0" width="900" height="829" frameX="-47" frameY="-58" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10004" x="0" y="858" width="947" height="853" frameX="0" frameY="-4" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10005" x="947" y="858" width="947" height="844" frameX="0" frameY="-4" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10006" x="1894" y="858" width="947" height="848" frameX="0" frameY="0" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10007" x="2841" y="858" width="947" height="834" frameX="0" frameY="0" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10008" x="2841" y="858" width="947" height="834" frameX="0" frameY="0" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10009" x="0" y="1711" width="947" height="843" frameX="0" frameY="0" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10010" x="0" y="1711" width="947" height="843" frameX="0" frameY="0" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10011" x="947" y="1711" width="947" height="829" frameX="0" frameY="0" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10012" x="947" y="1711" width="947" height="829" frameX="0" frameY="0" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10013" x="1894" y="1711" width="947" height="857" frameX="0" frameY="0" frameWidth="947" frameHeight="924"/>
+	<SubTexture name="characterskrusty instancia 10014" x="1894" y="1711" width="947" height="857" frameX="0" frameY="0" frameWidth="947" frameHeight="924"/>
+</TextureAtlas>

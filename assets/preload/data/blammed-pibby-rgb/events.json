@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "city",
+		"player1": "bf_pibby",
+		"player2": "pico_pibby",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				40941.1764705882,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46764.7058823529,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				46852.9411764706,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				46941.1764705882,
+				[
+					[
+						"cinematic",
+						"a",
+						""
+					]
+				]
+			],
+			[
+				69264.7058823529,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				69352.9411764705,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				69441.1764705882,
+				[
+					[
+						"cinematic",
+						"b",
+						""
+					]
+				]
+			],
+			[
+				100323.529411765,
+				[
+					[
+						"Black flash",
+						"",
+						"32"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "missingcharacter",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Blammed-pibby"
+	}
+}

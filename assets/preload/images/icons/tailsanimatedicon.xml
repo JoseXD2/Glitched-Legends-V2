@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tailsanimatedicon.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tails_l instancia 10000" x="0" y="0" width="182" height="137" frameX="-7" frameY="0" frameWidth="209" frameHeight="140"/>
+	<SubTexture name="tails_l instancia 10001" x="182" y="0" width="180" height="137" frameX="-9" frameY="0" frameWidth="209" frameHeight="140"/>
+	<SubTexture name="tails_l instancia 10002" x="362" y="0" width="181" height="137" frameX="-9" frameY="0" frameWidth="209" frameHeight="140"/>
+	<SubTexture name="tails_l instancia 10003" x="543" y="0" width="191" height="137" frameX="0" frameY="0" frameWidth="209" frameHeight="140"/>
+	<SubTexture name="tails_l instancia 10004" x="734" y="0" width="191" height="137" frameX="0" frameY="-2" frameWidth="209" frameHeight="140"/>
+	<SubTexture name="tails_l instancia 10005" x="0" y="137" width="182" height="137" frameX="-7" frameY="-2" frameWidth="209" frameHeight="140"/>
+	<SubTexture name="tails_l instancia 10006" x="182" y="137" width="202" height="137" frameX="-7" frameY="-3" frameWidth="209" frameHeight="140"/>
+	<SubTexture name="tails_l instancia 10007" x="384" y="137" width="202" height="137" frameX="-7" frameY="-3" frameWidth="209" frameHeight="140"/>
+	<SubTexture name="tails_l instancia 10008" x="586" y="137" width="188" height="136" frameX="-9" frameY="0" frameWidth="209" frameHeight="140"/>
+	<SubTexture name="tails_l instancia 10009" x="774" y="137" width="197" height="136" frameX="0" frameY="0" frameWidth="209" frameHeight="140"/>
+	<SubTexture name="tails_n instancia 10000" x="0" y="274" width="188" height="147" frameX="-11" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10001" x="188" y="274" width="187" height="142" frameX="-12" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10002" x="188" y="274" width="187" height="142" frameX="-12" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10003" x="375" y="274" width="199" height="151" frameX="0" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10004" x="375" y="274" width="199" height="151" frameX="0" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10005" x="574" y="274" width="194" height="148" frameX="-5" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10006" x="768" y="274" width="200" height="148" frameX="-5" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10007" x="0" y="425" width="190" height="144" frameX="-22" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10008" x="190" y="425" width="186" height="144" frameX="-13" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10009" x="0" y="274" width="188" height="147" frameX="-11" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10010" x="0" y="274" width="188" height="147" frameX="-11" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10011" x="188" y="274" width="187" height="142" frameX="-12" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10012" x="188" y="274" width="187" height="142" frameX="-12" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10013" x="375" y="274" width="199" height="151" frameX="0" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_n instancia 10014" x="375" y="274" width="199" height="151" frameX="0" frameY="0" frameWidth="212" frameHeight="151"/>
+	<SubTexture name="tails_w instancia 10000" x="376" y="425" width="183" height="155" frameX="-7" frameY="-21" frameWidth="208" frameHeight="186"/>
+	<SubTexture name="tails_w instancia 10001" x="559" y="425" width="188" height="156" frameX="-15" frameY="-17" frameWidth="208" frameHeight="186"/>
+	<SubTexture name="tails_w instancia 10002" x="747" y="425" width="198" height="171" frameX="-10" frameY="0" frameWidth="208" frameHeight="186"/>
+	<SubTexture name="tails_w instancia 10003" x="0" y="596" width="194" height="152" frameX="-5" frameY="-26" frameWidth="208" frameHeight="186"/>
+	<SubTexture name="tails_w instancia 10004" x="194" y="596" width="177" height="143" frameX="-8" frameY="-38" frameWidth="208" frameHeight="186"/>
+	<SubTexture name="tails_w instancia 10005" x="371" y="596" width="178" height="144" frameX="0" frameY="-36" frameWidth="208" frameHeight="186"/>
+	<SubTexture name="tails_w instancia 10006" x="549" y="596" width="171" height="153" frameX="-27" frameY="-29" frameWidth="208" frameHeight="186"/>
+	<SubTexture name="tails_w instancia 10007" x="720" y="596" width="177" height="142" frameX="-6" frameY="-43" frameWidth="208" frameHeight="186"/>
+	<SubTexture name="tails_w instancia 10008" x="0" y="749" width="173" height="154" frameX="-28" frameY="-29" frameWidth="208" frameHeight="186"/>
+	<SubTexture name="tails_w instancia 10009" x="173" y="749" width="169" height="148" frameX="-21" frameY="-38" frameWidth="208" frameHeight="186"/>
+</TextureAtlas>

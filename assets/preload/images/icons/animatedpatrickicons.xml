@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animatedpatrickicons.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="patickk_l instancia 10000" x="0" y="0" width="136" height="139" frameX="-6" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10001" x="136" y="0" width="136" height="139" frameX="-6" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10002" x="136" y="0" width="136" height="139" frameX="-6" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10003" x="272" y="0" width="135" height="140" frameX="0" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10004" x="407" y="0" width="120" height="160" frameX="-3" frameY="0" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10005" x="527" y="0" width="136" height="139" frameX="-6" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10006" x="527" y="0" width="136" height="139" frameX="-6" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10007" x="663" y="0" width="136" height="139" frameX="-6" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10008" x="663" y="0" width="136" height="139" frameX="-6" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10009" x="0" y="0" width="136" height="139" frameX="-6" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10010" x="0" y="0" width="136" height="139" frameX="-6" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10011" x="136" y="0" width="136" height="139" frameX="-6" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10012" x="136" y="0" width="136" height="139" frameX="-6" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10013" x="272" y="0" width="135" height="140" frameX="-6" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patickk_l instancia 10014" x="272" y="0" width="135" height="140" frameX="-6" frameY="-14" frameWidth="142" frameHeight="160"/>
+	<SubTexture name="patrickk_n instancia 10000" x="799" y="0" width="135" height="150" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10001" x="799" y="0" width="135" height="150" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10002" x="0" y="160" width="135" height="148" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10003" x="0" y="160" width="135" height="148" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10004" x="135" y="160" width="135" height="149" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10005" x="135" y="160" width="135" height="149" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10006" x="270" y="160" width="135" height="149" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10007" x="405" y="160" width="159" height="123" frameX="0" frameY="-18" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10008" x="799" y="0" width="135" height="150" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10009" x="799" y="0" width="135" height="150" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10010" x="799" y="0" width="135" height="150" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10011" x="0" y="160" width="135" height="148" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10012" x="0" y="160" width="135" height="148" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10013" x="135" y="160" width="135" height="149" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_n instancia 10014" x="135" y="160" width="135" height="149" frameX="-17" frameY="0" frameWidth="159" frameHeight="150"/>
+	<SubTexture name="patrickk_w instancia 10000" x="564" y="160" width="137" height="147" frameX="-19" frameY="-17" frameWidth="178" frameHeight="172"/>
+	<SubTexture name="patrickk_w instancia 10001" x="701" y="160" width="178" height="136" frameX="0" frameY="-37" frameWidth="178" frameHeight="172"/>
+	<SubTexture name="patrickk_w instancia 10002" x="879" y="160" width="137" height="142" frameX="-20" frameY="-17" frameWidth="178" frameHeight="172"/>
+	<SubTexture name="patrickk_w instancia 10003" x="0" y="309" width="135" height="144" frameX="-26" frameY="-17" frameWidth="178" frameHeight="172"/>
+	<SubTexture name="patrickk_w instancia 10004" x="0" y="309" width="135" height="144" frameX="-21" frameY="-17" frameWidth="178" frameHeight="172"/>
+	<SubTexture name="patrickk_w instancia 10005" x="0" y="309" width="135" height="144" frameX="-29" frameY="-17" frameWidth="178" frameHeight="172"/>
+	<SubTexture name="patrickk_w instancia 10006" x="135" y="309" width="131" height="171" frameX="-14" frameY="0" frameWidth="178" frameHeight="172"/>
+	<SubTexture name="patrickk_w instancia 10007" x="266" y="309" width="136" height="143" frameX="-29" frameY="-17" frameWidth="178" frameHeight="172"/>
+	<SubTexture name="patrickk_w instancia 10008" x="402" y="309" width="136" height="146" frameX="-21" frameY="-17" frameWidth="178" frameHeight="172"/>
+	<SubTexture name="patrickk_w instancia 10009" x="538" y="309" width="136" height="146" frameX="-28" frameY="-17" frameWidth="178" frameHeight="172"/>
+</TextureAtlas>

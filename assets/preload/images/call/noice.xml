@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noice.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="noice instancia 10000" x="0" y="0" width="612" height="383"/>
+	<SubTexture name="noice instancia 10001" x="0" y="0" width="612" height="383"/>
+	<SubTexture name="noice instancia 10002" x="612" y="0" width="612" height="383"/>
+	<SubTexture name="noice instancia 10003" x="612" y="0" width="612" height="383"/>
+	<SubTexture name="noice instancia 10004" x="1224" y="0" width="612" height="383"/>
+	<SubTexture name="noice instancia 10005" x="1224" y="0" width="612" height="383"/>
+	<SubTexture name="noice instancia 10006" x="1836" y="0" width="612" height="383"/>
+	<SubTexture name="noice instancia 10007" x="1836" y="0" width="612" height="383"/>
+	<SubTexture name="noice instancia 10008" x="2448" y="0" width="612" height="383"/>
+	<SubTexture name="noice instancia 10009" x="2448" y="0" width="612" height="383"/>
+	<SubTexture name="noice instancia 10010" x="3060" y="0" width="612" height="383"/>
+	<SubTexture name="noice instancia 10011" x="3060" y="0" width="612" height="383"/>
+	<SubTexture name="noice instancia 10012" x="0" y="383" width="612" height="383"/>
+	<SubTexture name="noice instancia 10013" x="0" y="383" width="612" height="383"/>
+	<SubTexture name="noice instancia 10014" x="612" y="383" width="612" height="383"/>
+	<SubTexture name="noice instancia 10015" x="612" y="383" width="612" height="383"/>
+	<SubTexture name="noice instancia 10016" x="1224" y="383" width="612" height="383"/>
+	<SubTexture name="noice instancia 10017" x="1224" y="383" width="612" height="383"/>
+	<SubTexture name="noice instancia 10018" x="1836" y="383" width="612" height="383"/>
+	<SubTexture name="noice instancia 10019" x="1836" y="383" width="612" height="383"/>
+	<SubTexture name="noice instancia 10020" x="2448" y="383" width="612" height="383"/>
+	<SubTexture name="noice instancia 10021" x="2448" y="383" width="612" height="383"/>
+	<SubTexture name="noice instancia 10022" x="3060" y="383" width="612" height="383"/>
+	<SubTexture name="noice instancia 10023" x="3060" y="383" width="612" height="383"/>
+	<SubTexture name="noice instancia 10024" x="0" y="766" width="612" height="383"/>
+	<SubTexture name="noice instancia 10025" x="0" y="766" width="612" height="383"/>
+	<SubTexture name="noice instancia 10026" x="612" y="766" width="612" height="383"/>
+	<SubTexture name="noice instancia 10027" x="612" y="766" width="612" height="383"/>
+	<SubTexture name="noice instancia 10028" x="1224" y="766" width="612" height="383"/>
+	<SubTexture name="noice instancia 10029" x="1224" y="766" width="612" height="383"/>
+	<SubTexture name="noice instancia 10030" x="1836" y="766" width="612" height="383"/>
+	<SubTexture name="noice instancia 10031" x="1836" y="766" width="612" height="383"/>
+	<SubTexture name="noice instancia 10032" x="2448" y="766" width="612" height="383"/>
+	<SubTexture name="noice instancia 10033" x="2448" y="766" width="612" height="383"/>
+	<SubTexture name="noice instancia 10034" x="3060" y="766" width="612" height="383"/>
+	<SubTexture name="noice instancia 10035" x="3060" y="766" width="612" height="383"/>
+	<SubTexture name="noice instancia 10036" x="0" y="1149" width="612" height="383"/>
+	<SubTexture name="noice instancia 10037" x="0" y="1149" width="612" height="383"/>
+	<SubTexture name="noice instancia 10038" x="612" y="1149" width="612" height="383"/>
+	<SubTexture name="noice instancia 10039" x="612" y="1149" width="612" height="383"/>
+	<SubTexture name="noice instancia 10040" x="1224" y="1149" width="612" height="383"/>
+	<SubTexture name="noice instancia 10041" x="1224" y="1149" width="612" height="383"/>
+	<SubTexture name="noice instancia 10042" x="1836" y="1149" width="612" height="383"/>
+	<SubTexture name="noice instancia 10043" x="1836" y="1149" width="612" height="383"/>
+</TextureAtlas>

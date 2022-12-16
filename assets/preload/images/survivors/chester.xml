@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chester.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chester instancia 10000" x="0" y="0" width="583" height="604" frameX="0" frameY="-25" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10001" x="0" y="0" width="583" height="604" frameX="0" frameY="-25" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10002" x="583" y="0" width="576" height="607" frameX="-12" frameY="-22" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10003" x="583" y="0" width="576" height="607" frameX="-12" frameY="-22" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10004" x="1159" y="0" width="564" height="619" frameX="-17" frameY="-10" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10005" x="1159" y="0" width="564" height="619" frameX="-17" frameY="-10" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10006" x="0" y="619" width="559" height="626" frameX="-26" frameY="-3" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10007" x="0" y="619" width="559" height="626" frameX="-26" frameY="-3" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10008" x="559" y="619" width="559" height="629" frameX="-26" frameY="0" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10009" x="559" y="619" width="559" height="629" frameX="-26" frameY="0" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10010" x="559" y="619" width="559" height="629" frameX="-26" frameY="0" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10011" x="559" y="619" width="559" height="629" frameX="-26" frameY="0" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10012" x="559" y="619" width="559" height="629" frameX="-26" frameY="0" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10013" x="559" y="619" width="559" height="629" frameX="-26" frameY="0" frameWidth="588" frameHeight="629"/>
+	<SubTexture name="chester instancia 10014" x="559" y="619" width="559" height="629" frameX="-26" frameY="0" frameWidth="588" frameHeight="629"/>
+</TextureAtlas>

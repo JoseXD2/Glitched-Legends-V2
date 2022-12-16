@@ -1,0 +1,42 @@
+{
+	"storyName": "mickey's adventure",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "mickey",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"lost-cartoon",
+			"mickey_icon",
+			[
+				146,
+				113,
+				253
+			]
+                     ],
+                     [
+			"classic-brothers",
+			"mickey_icon",
+			[
+				146,
+				113,
+				253
+			]
+                     ]
+		],
+		
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "haha"
+}

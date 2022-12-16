@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="krust_jumpscare.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="krusty_jumpscare instancia 10000" x="0" y="0" width="493" height="388" frameX="-108" frameY="-254" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10001" x="493" y="0" width="486" height="386" frameX="-132" frameY="-249" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10002" x="979" y="0" width="498" height="415" frameX="-108" frameY="-191" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10003" x="1477" y="0" width="496" height="396" frameX="-111" frameY="-187" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10004" x="1973" y="0" width="501" height="393" frameX="-94" frameY="-143" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10005" x="1973" y="0" width="501" height="393" frameX="-94" frameY="-143" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10006" x="2474" y="0" width="504" height="395" frameX="-81" frameY="-57" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10007" x="2474" y="0" width="504" height="395" frameX="-81" frameY="-57" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10008" x="2978" y="0" width="514" height="415" frameX="-58" frameY="-4" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10009" x="3492" y="0" width="515" height="408" frameX="-49" frameY="0" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10010" x="0" y="415" width="511" height="402" frameX="-66" frameY="-7" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10011" x="511" y="415" width="515" height="407" frameX="-52" frameY="-1" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10012" x="1026" y="415" width="510" height="403" frameX="-68" frameY="-8" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10013" x="1536" y="415" width="515" height="410" frameX="-52" frameY="-1" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10014" x="2051" y="415" width="527" height="412" frameX="-39" frameY="-13" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10015" x="2578" y="415" width="530" height="422" frameX="-28" frameY="-2" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10016" x="3108" y="415" width="519" height="405" frameX="-64" frameY="-15" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10017" x="0" y="837" width="531" height="424" frameX="-44" frameY="-5" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10018" x="531" y="837" width="517" height="387" frameX="-63" frameY="-21" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10019" x="1048" y="837" width="520" height="394" frameX="-50" frameY="-9" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10020" x="1568" y="837" width="518" height="392" frameX="-59" frameY="-13" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10021" x="2086" y="837" width="522" height="394" frameX="-43" frameY="-7" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10022" x="2608" y="837" width="518" height="390" frameX="-58" frameY="-12" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10023" x="3126" y="837" width="545" height="403" frameX="0" frameY="-16" frameWidth="618" frameHeight="642"/>
+	<SubTexture name="krusty_jumpscare instancia 10024" x="0" y="1261" width="528" height="394" frameX="-40" frameY="-16" frameWidth="618" frameHeight="642"/>
+</TextureAtlas>

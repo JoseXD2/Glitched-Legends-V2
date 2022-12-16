@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				350,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "billc_pibby_idle"
+		},
+		{
+			"offsets": [
+				230,
+				20
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "billc_pibby_left"
+		},
+		{
+			"offsets": [
+				350,
+				0
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "billc_pibby_down"
+		},
+		{
+			"offsets": [
+				240,
+				80
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singUP",
+			"loop": false,
+			"name": "billc_pibby_up"
+		},
+		{
+			"offsets": [
+				90,
+				240
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "billc_pibby_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bill_glitch",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Bill_pibby_icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		36,
+		36
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

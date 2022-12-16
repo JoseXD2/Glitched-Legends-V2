@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animatediconbugs.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bugs_l instancia 10000" x="0" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_l instancia 10001" x="0" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_l instancia 10002" x="0" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_l instancia 10003" x="149" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_l instancia 10004" x="298" y="0" width="171" height="171"/>
+	<SubTexture name="bugs_l instancia 10005" x="149" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_l instancia 10006" x="149" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_l instancia 10007" x="0" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_l instancia 10008" x="0" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_l instancia 10009" x="0" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_l instancia 10010" x="0" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_l instancia 10011" x="0" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_l instancia 10012" x="0" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_l instancia 10013" x="0" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_l instancia 10014" x="0" y="0" width="149" height="171" frameX="-13" frameY="0" frameWidth="171" frameHeight="171"/>
+	<SubTexture name="bugs_n instancia 10000" x="469" y="0" width="162" height="171" frameX="-2" frameY="-2" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10001" x="631" y="0" width="161" height="171" frameX="-3" frameY="-2" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10002" x="631" y="0" width="161" height="171" frameX="-3" frameY="-2" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10003" x="792" y="0" width="162" height="171" frameX="-2" frameY="-2" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10004" x="792" y="0" width="162" height="171" frameX="-2" frameY="-2" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10005" x="954" y="0" width="142" height="168" frameX="-15" frameY="0" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10006" x="1096" y="0" width="160" height="171" frameX="-4" frameY="-2" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10007" x="1256" y="0" width="163" height="169" frameX="0" frameY="-3" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10008" x="1419" y="0" width="161" height="171" frameX="-3" frameY="-2" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10009" x="469" y="0" width="162" height="171" frameX="-2" frameY="-2" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10010" x="469" y="0" width="162" height="171" frameX="-2" frameY="-2" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10011" x="631" y="0" width="161" height="171" frameX="-3" frameY="-2" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10012" x="631" y="0" width="161" height="171" frameX="-3" frameY="-2" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10013" x="792" y="0" width="162" height="171" frameX="-2" frameY="-2" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_n instancia 10014" x="792" y="0" width="162" height="171" frameX="-2" frameY="-2" frameWidth="164" frameHeight="173"/>
+	<SubTexture name="bugs_w instancia 10000" x="1580" y="0" width="148" height="174" frameX="-14" frameY="-2" frameWidth="166" frameHeight="180"/>
+	<SubTexture name="bugs_w instancia 10001" x="1728" y="0" width="146" height="180" frameX="-19" frameY="0" frameWidth="166" frameHeight="180"/>
+	<SubTexture name="bugs_w instancia 10002" x="1874" y="0" width="149" height="173" frameX="-12" frameY="-2" frameWidth="166" frameHeight="180"/>
+	<SubTexture name="bugs_w instancia 10003" x="2023" y="0" width="147" height="175" frameX="-19" frameY="-2" frameWidth="166" frameHeight="180"/>
+	<SubTexture name="bugs_w instancia 10004" x="2170" y="0" width="151" height="169" frameX="-7" frameY="-3" frameWidth="166" frameHeight="180"/>
+	<SubTexture name="bugs_w instancia 10005" x="0" y="180" width="149" height="173" frameX="-13" frameY="-3" frameWidth="166" frameHeight="180"/>
+	<SubTexture name="bugs_w instancia 10006" x="149" y="180" width="154" height="173" frameX="-4" frameY="-1" frameWidth="166" frameHeight="180"/>
+	<SubTexture name="bugs_w instancia 10007" x="303" y="180" width="161" height="173" frameX="-4" frameY="-1" frameWidth="166" frameHeight="180"/>
+	<SubTexture name="bugs_w instancia 10008" x="464" y="180" width="156" height="167" frameX="0" frameY="-3" frameWidth="166" frameHeight="180"/>
+	<SubTexture name="bugs_w instancia 10009" x="620" y="180" width="150" height="172" frameX="-8" frameY="-2" frameWidth="166" frameHeight="180"/>
+</TextureAtlas>

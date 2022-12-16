@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dustty_pybby_idle"
+		},
+		{
+			"offsets": [
+				170,
+				200
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dustty_pybby_left"
+		},
+		{
+			"offsets": [
+				-30,
+				-70
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dustty_pybby_down"
+		},
+		{
+			"offsets": [
+				70,
+				180
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dustty_pybby_up"
+		},
+		{
+			"offsets": [
+				50,
+				170
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dustty_pybby_right"
+		},
+		{
+			"offsets": [
+				-230,
+				30
+			],
+			"loop": true,
+			"fps": 32,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "dustalt_right"
+		},
+		{
+			"offsets": [
+				20,
+				190
+			],
+			"loop": true,
+			"fps": 32,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "dustalt_left"
+		},
+		{
+			"offsets": [
+				50,
+				60
+			],
+			"loop": true,
+			"fps": 32,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "dustalt_up"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": true,
+			"fps": 32,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "dustalt_down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dustty_pibby",
+	"position": [
+		-60,
+		250
+	],
+	"healthicon": "dusttyicon_pibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		52,
+		170,
+		231
+	],
+	"camera_position": [
+		-220,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bob_attack.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spongebob_attack instancia 10000" x="0" y="0" width="775" height="526" frameX="0" frameY="-205" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10001" x="775" y="0" width="748" height="529" frameX="-27" frameY="-187" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10002" x="1523" y="0" width="518" height="659" frameX="-311" frameY="-136" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10003" x="2041" y="0" width="471" height="644" frameX="-358" frameY="-112" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10004" x="2512" y="0" width="776" height="509" frameX="-351" frameY="-286" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10005" x="0" y="659" width="809" height="529" frameX="-351" frameY="-286" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10006" x="809" y="659" width="728" height="725" frameX="-335" frameY="-13" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10007" x="1537" y="659" width="728" height="684" frameX="-335" frameY="-52" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10008" x="2265" y="659" width="626" height="714" frameX="-334" frameY="-28" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10009" x="2891" y="659" width="647" height="718" frameX="-334" frameY="-24" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10010" x="0" y="1384" width="614" height="737" frameX="-334" frameY="-5" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10011" x="614" y="1384" width="631" height="742" frameX="-334" frameY="0" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10012" x="1245" y="1384" width="612" height="720" frameX="-317" frameY="-22" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10013" x="1857" y="1384" width="617" height="714" frameX="-317" frameY="-28" frameWidth="1164" frameHeight="828"/>
+	<SubTexture name="spongebob_attack instancia 10014" x="2474" y="1384" width="664" height="718" frameX="-317" frameY="-24" frameWidth="1164" frameHeight="828"/>
+</TextureAtlas>

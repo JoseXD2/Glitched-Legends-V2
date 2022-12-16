@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="plauseranimatedicons.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="plauser.png instancia 1" x="0" y="0" width="142" height="135"/>
+	<SubTexture name="plauser_n copia instancia 10000" x="142" y="0" width="147" height="132" frameX="0" frameY="0" frameWidth="161" frameHeight="132"/>
+	<SubTexture name="plauser_n copia instancia 10001" x="289" y="0" width="147" height="132" frameX="0" frameY="0" frameWidth="161" frameHeight="132"/>
+	<SubTexture name="plauser_n copia instancia 10002" x="289" y="0" width="147" height="132" frameX="-15" frameY="0" frameWidth="161" frameHeight="132"/>
+	<SubTexture name="plauser_n copia instancia 10003" x="436" y="0" width="147" height="132" frameX="0" frameY="0" frameWidth="161" frameHeight="132"/>
+	<SubTexture name="plauser_n copia instancia 10004" x="436" y="0" width="147" height="132" frameX="0" frameY="0" frameWidth="161" frameHeight="132"/>
+	<SubTexture name="plauser_n copia instancia 10005" x="142" y="0" width="147" height="132" frameX="0" frameY="0" frameWidth="161" frameHeight="132"/>
+	<SubTexture name="plauser_n copia instancia 10006" x="142" y="0" width="147" height="132" frameX="0" frameY="0" frameWidth="161" frameHeight="132"/>
+	<SubTexture name="plauser_n copia instancia 10007" x="289" y="0" width="147" height="132" frameX="0" frameY="0" frameWidth="161" frameHeight="132"/>
+	<SubTexture name="plauser_n copia instancia 10008" x="289" y="0" width="147" height="132" frameX="0" frameY="0" frameWidth="161" frameHeight="132"/>
+	<SubTexture name="plauser_n copia instancia 10009" x="436" y="0" width="147" height="132" frameX="0" frameY="0" frameWidth="161" frameHeight="132"/>
+	<SubTexture name="plauser_n instancia 10000" x="583" y="0" width="165" height="145" frameX="-7" frameY="0" frameWidth="176" frameHeight="145"/>
+	<SubTexture name="plauser_n instancia 10001" x="583" y="0" width="165" height="145" frameX="-7" frameY="0" frameWidth="176" frameHeight="145"/>
+	<SubTexture name="plauser_n instancia 10002" x="748" y="0" width="162" height="145" frameX="-11" frameY="0" frameWidth="176" frameHeight="145"/>
+	<SubTexture name="plauser_n instancia 10003" x="748" y="0" width="162" height="145" frameX="-11" frameY="0" frameWidth="176" frameHeight="145"/>
+	<SubTexture name="plauser_n instancia 10004" x="0" y="145" width="163" height="145" frameX="-10" frameY="0" frameWidth="176" frameHeight="145"/>
+	<SubTexture name="plauser_n instancia 10005" x="163" y="145" width="161" height="145" frameX="0" frameY="0" frameWidth="176" frameHeight="145"/>
+	<SubTexture name="plauser_n instancia 10006" x="324" y="145" width="161" height="145" frameX="-16" frameY="0" frameWidth="176" frameHeight="145"/>
+	<SubTexture name="plauser_n instancia 10007" x="485" y="145" width="161" height="145" frameX="-12" frameY="0" frameWidth="176" frameHeight="145"/>
+	<SubTexture name="plauser_n instancia 10008" x="646" y="145" width="163" height="145" frameX="-9" frameY="0" frameWidth="176" frameHeight="145"/>
+	<SubTexture name="plauser_n instancia 10009" x="646" y="145" width="163" height="145" frameX="-9" frameY="0" frameWidth="176" frameHeight="145"/>
+	<SubTexture name="plauser_w instancia 10000" x="809" y="145" width="146" height="170" frameX="-21" frameY="-6" frameWidth="175" frameHeight="186"/>
+	<SubTexture name="plauser_w instancia 10001" x="0" y="315" width="143" height="166" frameX="-26" frameY="-2" frameWidth="175" frameHeight="186"/>
+	<SubTexture name="plauser_w instancia 10002" x="143" y="315" width="144" height="166" frameX="-13" frameY="-2" frameWidth="175" frameHeight="186"/>
+	<SubTexture name="plauser_w instancia 10003" x="287" y="315" width="147" height="185" frameX="-17" frameY="-1" frameWidth="175" frameHeight="186"/>
+	<SubTexture name="plauser_w instancia 10004" x="434" y="315" width="175" height="171" frameX="0" frameY="0" frameWidth="175" frameHeight="186"/>
+	<SubTexture name="plauser_w instancia 10005" x="609" y="315" width="147" height="176" frameX="-20" frameY="-1" frameWidth="175" frameHeight="186"/>
+	<SubTexture name="plauser_w instancia 10006" x="756" y="315" width="147" height="176" frameX="-13" frameY="-1" frameWidth="175" frameHeight="186"/>
+	<SubTexture name="plauser_w instancia 10007" x="0" y="500" width="144" height="170" frameX="-19" frameY="-2" frameWidth="175" frameHeight="186"/>
+	<SubTexture name="plauser_w instancia 10008" x="0" y="500" width="144" height="170" frameX="-14" frameY="-2" frameWidth="175" frameHeight="186"/>
+	<SubTexture name="plauser_w instancia 10009" x="144" y="500" width="145" height="168" frameX="-17" frameY="-2" frameWidth="175" frameHeight="186"/>
+</TextureAtlas>

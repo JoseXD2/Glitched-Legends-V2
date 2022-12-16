@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cyborg.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cyborg_idle instancia 10000" x="0" y="0" width="545" height="533" frameX="-1" frameY="-29" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10001" x="0" y="0" width="545" height="533" frameX="-1" frameY="-29" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10002" x="545" y="0" width="544" height="547" frameX="-2" frameY="-15" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10003" x="545" y="0" width="544" height="547" frameX="-2" frameY="-15" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10004" x="1089" y="0" width="545" height="553" frameX="-1" frameY="-8" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10005" x="1089" y="0" width="545" height="553" frameX="-1" frameY="-8" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10006" x="1634" y="0" width="546" height="560" frameX="0" frameY="-1" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10007" x="1634" y="0" width="546" height="560" frameX="0" frameY="-1" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10008" x="2180" y="0" width="546" height="561" frameX="0" frameY="0" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10009" x="2180" y="0" width="546" height="561" frameX="0" frameY="0" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10010" x="2726" y="0" width="546" height="561" frameX="0" frameY="0" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10011" x="2726" y="0" width="546" height="561" frameX="0" frameY="0" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10012" x="3272" y="0" width="546" height="561" frameX="0" frameY="0" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10013" x="3272" y="0" width="546" height="561" frameX="0" frameY="0" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_idle instancia 10014" x="3272" y="0" width="546" height="561" frameX="0" frameY="0" frameWidth="546" frameHeight="562"/>
+	<SubTexture name="cyborg_intro instancia 10000" x="3818" y="0" width="7" height="6" frameX="0" frameY="-456" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10001" x="3818" y="0" width="7" height="6" frameX="0" frameY="-456" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10002" x="3825" y="0" width="24" height="24" frameX="-15" frameY="-409" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10003" x="3825" y="0" width="24" height="24" frameX="-15" frameY="-409" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10004" x="3849" y="0" width="35" height="42" frameX="-41" frameY="-347" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10005" x="3849" y="0" width="35" height="42" frameX="-41" frameY="-347" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10006" x="3884" y="0" width="94" height="79" frameX="-92" frameY="-220" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10007" x="3884" y="0" width="94" height="79" frameX="-92" frameY="-220" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10008" x="0" y="561" width="134" height="136" frameX="-216" frameY="-68" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10009" x="0" y="561" width="134" height="136" frameX="-216" frameY="-68" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10010" x="134" y="561" width="199" height="168" frameX="-288" frameY="-361" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10011" x="134" y="561" width="199" height="168" frameX="-288" frameY="-361" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10012" x="333" y="561" width="506" height="139" frameX="-159" frameY="-456" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10013" x="333" y="561" width="506" height="139" frameX="-159" frameY="-456" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10014" x="839" y="561" width="540" height="556" frameX="-87" frameY="0" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10015" x="839" y="561" width="540" height="556" frameX="-87" frameY="0" frameWidth="665" frameHeight="595"/>
+	<SubTexture name="cyborg_intro instancia 10016" x="1379" y="561" width="536" height="552" frameX="-87" frameY="0" frameWidth="665" frameHeight="595"/>
+</TextureAtlas>

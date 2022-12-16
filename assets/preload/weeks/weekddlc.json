@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"literature-glitch",
+			"monika_icon",
+			[
+				2,
+				20,
+				2
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "monika",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Just Monika",
+	"weekName": "del_e me",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

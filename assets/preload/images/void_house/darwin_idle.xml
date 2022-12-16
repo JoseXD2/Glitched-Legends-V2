@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="darwin_idle.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="darwinr instancia 10000" x="0" y="0" width="517" height="448" frameX="-24" frameY="-77" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10001" x="0" y="0" width="517" height="448" frameX="-24" frameY="-77" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10002" x="517" y="0" width="513" height="475" frameX="-21" frameY="-50" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10003" x="517" y="0" width="513" height="475" frameX="-21" frameY="-50" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10004" x="1030" y="0" width="515" height="500" frameX="-19" frameY="-24" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10005" x="1030" y="0" width="515" height="500" frameX="-19" frameY="-24" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10006" x="0" y="500" width="534" height="515" frameX="0" frameY="-9" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10007" x="0" y="500" width="534" height="515" frameX="0" frameY="-9" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10008" x="534" y="500" width="534" height="524" frameX="0" frameY="0" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10009" x="534" y="500" width="534" height="524" frameX="0" frameY="0" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10010" x="534" y="500" width="534" height="524" frameX="0" frameY="0" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10011" x="534" y="500" width="534" height="524" frameX="0" frameY="0" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10012" x="534" y="500" width="534" height="524" frameX="0" frameY="0" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10013" x="534" y="500" width="534" height="524" frameX="0" frameY="0" frameWidth="541" frameHeight="525"/>
+	<SubTexture name="darwinr instancia 10014" x="534" y="500" width="534" height="524" frameX="0" frameY="0" frameWidth="541" frameHeight="525"/>
+</TextureAtlas>

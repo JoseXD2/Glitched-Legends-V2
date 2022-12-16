@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chrvoid1.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="personajes instancia 10000" x="0" y="0" width="814" height="496" frameX="-11" frameY="-11" frameWidth="825" frameHeight="507"/>
+	<SubTexture name="personajes instancia 10001" x="0" y="0" width="814" height="496" frameX="-11" frameY="-11" frameWidth="825" frameHeight="507"/>
+	<SubTexture name="personajes instancia 10002" x="814" y="0" width="814" height="501" frameX="-11" frameY="-6" frameWidth="825" frameHeight="507"/>
+	<SubTexture name="personajes instancia 10003" x="814" y="0" width="814" height="501" frameX="-11" frameY="-6" frameWidth="825" frameHeight="507"/>
+	<SubTexture name="personajes instancia 10004" x="0" y="501" width="814" height="505" frameX="-11" frameY="-2" frameWidth="825" frameHeight="507"/>
+	<SubTexture name="personajes instancia 10005" x="0" y="501" width="814" height="505" frameX="-11" frameY="-2" frameWidth="825" frameHeight="507"/>
+	<SubTexture name="personajes instancia 10006" x="814" y="501" width="814" height="507" frameX="-11" frameY="0" frameWidth="825" frameHeight="507"/>
+	<SubTexture name="personajes instancia 10007" x="814" y="501" width="814" height="507" frameX="-11" frameY="0" frameWidth="825" frameHeight="507"/>
+	<SubTexture name="personajes instancia 10008" x="0" y="1008" width="814" height="507" frameX="-11" frameY="0" frameWidth="825" frameHeight="507"/>
+	<SubTexture name="personajes instancia 10009" x="0" y="1008" width="814" height="507" frameX="-11" frameY="0" frameWidth="825" frameHeight="507"/>
+	<SubTexture name="personajes instancia 10010" x="814" y="1008" width="814" height="507" frameX="-11" frameY="0" frameWidth="825" frameHeight="507"/>
+	<SubTexture name="personajes instancia 10011" x="814" y="1008" width="814" height="507" frameX="-11" frameY="0" frameWidth="825" frameHeight="507"/>
+	<SubTexture name="personajes instancia 10012" x="0" y="1515" width="825" height="507"/>
+	<SubTexture name="personajes instancia 10013" x="0" y="1515" width="825" height="507"/>
+	<SubTexture name="personajes instancia 10014" x="0" y="1515" width="825" height="507"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fred_pibby_idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				320,
+				-80
+			],
+			"anim": "singLEFT",
+			"fps": 32,
+			"name": "fred_pibby_left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				440,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 32,
+			"name": "fred_pibby_down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				560,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 32,
+			"name": "fred_pibby_right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				400,
+				40
+			],
+			"anim": "singUP",
+			"fps": 32,
+			"name": "fred_pibby_up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fred_pibby",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fred_icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		50,
+		26
+	],
+	"camera_position": [
+		-480,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

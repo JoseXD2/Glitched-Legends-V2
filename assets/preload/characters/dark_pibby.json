@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dark_left"
+		},
+		{
+			"offsets": [
+				20,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dark_down"
+		},
+		{
+			"offsets": [
+				60,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "dark_up"
+		},
+		{
+			"offsets": [
+				-110,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dark_right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "dark_pibby"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dark_pibby",
+	"position": [
+		50,
+		320
+	],
+	"healthicon": "dark_icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		47,
+		45
+	],
+	"camera_position": [
+		-140,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="red_attack.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="red_attack instancia 10000" x="0" y="0" width="629" height="362" frameX="-72" frameY="-262" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10001" x="0" y="0" width="629" height="362" frameX="-72" frameY="-262" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10002" x="629" y="0" width="726" height="338" frameX="0" frameY="-283" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10003" x="629" y="0" width="726" height="338" frameX="0" frameY="-283" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10004" x="1355" y="0" width="617" height="386" frameX="-97" frameY="-232" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10005" x="1355" y="0" width="617" height="386" frameX="-97" frameY="-232" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10006" x="0" y="386" width="561" height="396" frameX="-156" frameY="-227" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10007" x="0" y="386" width="561" height="396" frameX="-156" frameY="-227" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10008" x="561" y="386" width="717" height="461" frameX="-185" frameY="-158" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10009" x="561" y="386" width="717" height="461" frameX="-185" frameY="-158" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10010" x="1278" y="386" width="577" height="555" frameX="-177" frameY="-64" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10011" x="1278" y="386" width="577" height="555" frameX="-177" frameY="-64" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10012" x="0" y="941" width="529" height="592" frameX="-241" frameY="-19" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10013" x="0" y="941" width="529" height="592" frameX="-241" frameY="-19" frameWidth="902" frameHeight="624"/>
+	<SubTexture name="red_attack instancia 10014" x="529" y="941" width="442" height="598" frameX="-298" frameY="0" frameWidth="902" frameHeight="624"/>
+</TextureAtlas>

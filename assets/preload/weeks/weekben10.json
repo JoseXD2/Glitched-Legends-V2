@@ -1,0 +1,40 @@
+{
+	"storyName": "the fallen protector of the universe",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "ben",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"its-hero-time",
+			"bencorrupted",
+			[
+				146,
+				255,
+				53
+			]
+		],
+		[
+			"upgraded",
+			"bencorrupted",
+			[
+				146,
+				255,
+				53
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "back with a vengeance"
+}

@@ -1,0 +1,31 @@
+{
+	"storyName": "birds and botany",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "botany",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"birds-and-botany",
+			"botanybirdsicon",
+			[
+				0,
+				0,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "we can see you"
+}

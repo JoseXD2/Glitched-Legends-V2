@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jhonny.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="characfallsf3 instancia 10000" x="0" y="0" width="795" height="803" frameX="0" frameY="-80" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10001" x="0" y="0" width="795" height="803" frameX="0" frameY="-80" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10002" x="795" y="0" width="716" height="787" frameX="-40" frameY="-99" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10003" x="795" y="0" width="716" height="787" frameX="-40" frameY="-99" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10004" x="1511" y="0" width="645" height="776" frameX="-76" frameY="-113" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10005" x="1511" y="0" width="645" height="776" frameX="-76" frameY="-113" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10006" x="2156" y="0" width="645" height="801" frameX="-76" frameY="-88" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10007" x="2801" y="0" width="645" height="838" frameX="-76" frameY="-51" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10008" x="3446" y="0" width="645" height="857" frameX="-76" frameY="-32" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10009" x="0" y="857" width="645" height="820" frameX="-76" frameY="-69" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10010" x="0" y="857" width="645" height="820" frameX="-76" frameY="-69" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10011" x="645" y="857" width="645" height="823" frameX="-76" frameY="-66" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10012" x="645" y="857" width="645" height="823" frameX="-76" frameY="-66" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10013" x="1290" y="857" width="645" height="889" frameX="-76" frameY="0" frameWidth="795" frameHeight="889"/>
+	<SubTexture name="characfallsf3 instancia 10014" x="1290" y="857" width="645" height="889" frameX="-76" frameY="0" frameWidth="795" frameHeight="889"/>
+</TextureAtlas>

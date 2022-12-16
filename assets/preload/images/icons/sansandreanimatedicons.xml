@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sansandreanimatedicons.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sansandre_l instancia 10000" x="0" y="0" width="223" height="152" frameX="0" frameY="-5" frameWidth="223" frameHeight="157"/>
+	<SubTexture name="sansandre_l instancia 10001" x="223" y="0" width="192" height="147" frameX="-24" frameY="-5" frameWidth="223" frameHeight="157"/>
+	<SubTexture name="sansandre_l instancia 10002" x="223" y="0" width="192" height="147" frameX="-24" frameY="-5" frameWidth="223" frameHeight="157"/>
+	<SubTexture name="sansandre_l instancia 10003" x="415" y="0" width="172" height="147" frameX="-33" frameY="-5" frameWidth="223" frameHeight="157"/>
+	<SubTexture name="sansandre_l instancia 10004" x="587" y="0" width="176" height="156" frameX="-38" frameY="0" frameWidth="223" frameHeight="157"/>
+	<SubTexture name="sansandre_l instancia 10005" x="0" y="0" width="223" height="152" frameX="0" frameY="-5" frameWidth="223" frameHeight="157"/>
+	<SubTexture name="sansandre_l instancia 10006" x="0" y="0" width="223" height="152" frameX="0" frameY="-5" frameWidth="223" frameHeight="157"/>
+	<SubTexture name="sansandre_l instancia 10007" x="223" y="0" width="192" height="147" frameX="-24" frameY="-5" frameWidth="223" frameHeight="157"/>
+	<SubTexture name="sansandre_l instancia 10008" x="223" y="0" width="192" height="147" frameX="-24" frameY="-5" frameWidth="223" frameHeight="157"/>
+	<SubTexture name="sansandre_l instancia 10009" x="415" y="0" width="172" height="147" frameX="-33" frameY="-5" frameWidth="223" frameHeight="157"/>
+	<SubTexture name="sansandre_n instancia 10000" x="763" y="0" width="145" height="149" frameX="-4" frameY="0" frameWidth="162" frameHeight="154"/>
+	<SubTexture name="sansandre_n instancia 10001" x="0" y="156" width="150" height="147" frameX="-2" frameY="-1" frameWidth="162" frameHeight="154"/>
+	<SubTexture name="sansandre_n instancia 10002" x="150" y="156" width="157" height="150" frameX="-4" frameY="-1" frameWidth="162" frameHeight="154"/>
+	<SubTexture name="sansandre_n instancia 10003" x="307" y="156" width="149" height="150" frameX="-4" frameY="-1" frameWidth="162" frameHeight="154"/>
+	<SubTexture name="sansandre_n instancia 10004" x="456" y="156" width="145" height="149" frameX="-4" frameY="-1" frameWidth="162" frameHeight="154"/>
+	<SubTexture name="sansandre_n instancia 10005" x="601" y="156" width="151" height="149" frameX="-4" frameY="-1" frameWidth="162" frameHeight="154"/>
+	<SubTexture name="sansandre_n instancia 10006" x="752" y="156" width="145" height="150" frameX="-4" frameY="-1" frameWidth="162" frameHeight="154"/>
+	<SubTexture name="sansandre_n instancia 10007" x="0" y="306" width="162" height="151" frameX="0" frameY="0" frameWidth="162" frameHeight="154"/>
+	<SubTexture name="sansandre_n instancia 10008" x="162" y="306" width="145" height="153" frameX="-4" frameY="-1" frameWidth="162" frameHeight="154"/>
+	<SubTexture name="sansandre_n instancia 10009" x="162" y="306" width="145" height="153" frameX="-4" frameY="-1" frameWidth="162" frameHeight="154"/>
+	<SubTexture name="sansandre_n instancia 10010" x="162" y="306" width="145" height="153" frameX="-4" frameY="-1" frameWidth="162" frameHeight="154"/>
+	<SubTexture name="sansandre_w instancia 10000" x="307" y="306" width="151" height="146" frameX="-6" frameY="0" frameWidth="170" frameHeight="146"/>
+	<SubTexture name="sansandre_w instancia 10001" x="458" y="306" width="157" height="146" frameX="-13" frameY="0" frameWidth="170" frameHeight="146"/>
+	<SubTexture name="sansandre_w instancia 10002" x="615" y="306" width="156" height="146" frameX="-3" frameY="0" frameWidth="170" frameHeight="146"/>
+	<SubTexture name="sansandre_w instancia 10003" x="771" y="306" width="151" height="146" frameX="0" frameY="0" frameWidth="170" frameHeight="146"/>
+	<SubTexture name="sansandre_w instancia 10004" x="771" y="306" width="151" height="146" frameX="0" frameY="0" frameWidth="170" frameHeight="146"/>
+</TextureAtlas>

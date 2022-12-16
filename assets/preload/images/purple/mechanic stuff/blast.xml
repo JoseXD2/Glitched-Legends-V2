@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blast.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blast instancia 10000" x="0" y="0" width="0" height="0" frameX="-181" frameY="633" frameWidth="3207" frameHeight="346"/>
+	<SubTexture name="blast instancia 10001" x="0" y="0" width="0" height="0" frameX="-181" frameY="633" frameWidth="3207" frameHeight="346"/>
+	<SubTexture name="blast instancia 10002" x="0" y="0" width="0" height="0" frameX="-8" frameY="-105" frameWidth="3207" frameHeight="346"/>
+	<SubTexture name="blast instancia 10003" x="0" y="0" width="3168" height="253" frameX="-6" frameY="-79" frameWidth="3207" frameHeight="346"/>
+	<SubTexture name="blast instancia 10004" x="0" y="253" width="3168" height="283" frameX="-4" frameY="-53" frameWidth="3207" frameHeight="346"/>
+	<SubTexture name="blast instancia 10005" x="0" y="536" width="3168" height="316" frameX="-2" frameY="-26" frameWidth="3207" frameHeight="346"/>
+	<SubTexture name="blast instancia 10006" x="0" y="852" width="3168" height="346" frameX="0" frameY="0" frameWidth="3207" frameHeight="346"/>
+	<SubTexture name="blast instancia 10007" x="0" y="1198" width="3168" height="295" frameX="-8" frameY="-34" frameWidth="3207" frameHeight="346"/>
+	<SubTexture name="blast instancia 10008" x="0" y="1493" width="3167" height="245" frameX="-16" frameY="-67" frameWidth="3207" frameHeight="346"/>
+	<SubTexture name="blast instancia 10009" x="0" y="1738" width="3168" height="193" frameX="-23" frameY="-101" frameWidth="3207" frameHeight="346"/>
+	<SubTexture name="blast instancia 10010" x="0" y="1931" width="3168" height="142" frameX="-31" frameY="-135" frameWidth="3207" frameHeight="346"/>
+	<SubTexture name="blast instancia 10011" x="0" y="0" width="0" height="0" frameX="-39" frameY="-169" frameWidth="3207" frameHeight="346"/>
+</TextureAtlas>

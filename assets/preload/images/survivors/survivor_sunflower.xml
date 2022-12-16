@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="survivor_sunflower.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sunflower_s instancia 10000" x="0" y="0" width="301" height="374" pivotX="402.55" pivotY="-26.35" frameX="-8" frameY="-22" frameWidth="319" frameHeight="397"/>
+	<SubTexture name="sunflower_s instancia 10001" x="0" y="0" width="301" height="374" frameX="-8" frameY="-22" frameWidth="319" frameHeight="397"/>
+	<SubTexture name="sunflower_s instancia 10002" x="301" y="0" width="303" height="380" frameX="-7" frameY="-16" frameWidth="319" frameHeight="397"/>
+	<SubTexture name="sunflower_s instancia 10003" x="301" y="0" width="303" height="380" frameX="-7" frameY="-16" frameWidth="319" frameHeight="397"/>
+	<SubTexture name="sunflower_s instancia 10004" x="604" y="0" width="310" height="394" frameX="-4" frameY="-3" frameWidth="319" frameHeight="397"/>
+	<SubTexture name="sunflower_s instancia 10005" x="604" y="0" width="310" height="394" frameX="-4" frameY="-3" frameWidth="319" frameHeight="397"/>
+	<SubTexture name="sunflower_s instancia 10006" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10007" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10008" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10009" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10010" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10011" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10012" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10013" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10014" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10015" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10016" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10017" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10018" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10019" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10020" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10021" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10022" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10023" x="0" y="394" width="319" height="397"/>
+	<SubTexture name="sunflower_s instancia 10024" x="0" y="394" width="319" height="397"/>
+</TextureAtlas>

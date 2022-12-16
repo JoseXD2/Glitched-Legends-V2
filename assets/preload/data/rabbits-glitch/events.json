@@ -1,0 +1,539 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "theater",
+		"player1": "bf_pibby_old",
+		"player2": "oswald_pibby",
+		"player3": null,
+		"events": [
+			[
+				41007.1942446043,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				41438.8489208633,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				41870.5035971223,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				42302.1582733813,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				42517.9856115108,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				43165.4676258993,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				43597.1223021583,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				43812.9496402878,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				44676.2589928058,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				44892.0863309353,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				45323.7410071943,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				45755.3956834533,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				45971.2230215828,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				46618.7050359713,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				47050.3597122302,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				47266.1870503597,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				48129.4964028777,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				48345.3237410072,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				48561.1510791367,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				48776.9784172662,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				48992.8057553957,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				49424.4604316547,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				49640.2877697842,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				50071.9424460432,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				50503.5971223022,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				50719.4244604317,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				51582.7338129497,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				51798.5611510792,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				52014.3884892087,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				52230.2158273382,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				52446.0431654677,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				52877.6978417267,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				53201.4388489209,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				53525.1798561151,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				53956.8345323741,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				54388.4892086331,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				54820.1438848921,
+				[
+					[
+						"Change Character",
+						"dad",
+						"oswald_pibby_2"
+					]
+				]
+			],
+			[
+				55251.7985611511,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				58705.0359712231,
+				[
+					[
+						"Flash Camera",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				60323.7410071943,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				60431.654676259,
+				[
+					[
+						"Change Character",
+						"dad",
+						"oswald_pibby_3"
+					]
+				]
+			],
+			[
+				72517.9856115108,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				74136.6906474821,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				74244.6043165468,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				74244.6043165468,
+				[
+					[
+						"Change Character",
+						"dad",
+						"oswald_pibby_ntm"
+					]
+				]
+			],
+			[
+				75539.5683453238,
+				[
+					[
+						"DodgeEvent02",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				83093.5251798562,
+				[
+					[
+						"DodgeEvent02",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				88057.5539568346,
+				[
+					[
+						"DodgeEvent02",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				89784.1726618706,
+				[
+					[
+						"DodgeEvent02",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				91510.7913669065,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				91510.7913669065,
+				[
+					[
+						"Change Character",
+						"dad",
+						"oswald_pibby_3"
+					]
+				]
+			],
+			[
+				103597.122302158,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 139,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "rabbits-glitch"
+	}
+}

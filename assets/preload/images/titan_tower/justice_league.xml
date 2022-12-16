@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="justice_league.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="superman_pibby instancia 10000" x="0" y="0" width="224" height="174" frameX="-2" frameY="-20" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10001" x="0" y="0" width="224" height="174" frameX="-2" frameY="-20" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10002" x="224" y="0" width="224" height="180" frameX="-2" frameY="-12" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10003" x="448" y="0" width="231" height="187" frameX="0" frameY="-10" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10004" x="679" y="0" width="224" height="182" frameX="-2" frameY="-3" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10005" x="679" y="0" width="224" height="182" frameX="-2" frameY="-3" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10006" x="0" y="187" width="224" height="185" frameX="-2" frameY="0" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10007" x="0" y="187" width="224" height="185" frameX="-2" frameY="0" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10008" x="0" y="187" width="224" height="185" frameX="-2" frameY="0" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10009" x="0" y="187" width="224" height="185" frameX="-2" frameY="0" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10010" x="0" y="187" width="224" height="185" frameX="-2" frameY="0" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10011" x="0" y="187" width="224" height="185" frameX="-2" frameY="0" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10012" x="0" y="187" width="224" height="185" frameX="-2" frameY="0" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10013" x="0" y="187" width="224" height="185" frameX="-2" frameY="0" frameWidth="231" frameHeight="197"/>
+	<SubTexture name="superman_pibby instancia 10014" x="0" y="187" width="224" height="185" frameX="-2" frameY="0" frameWidth="231" frameHeight="197"/>
+</TextureAtlas>

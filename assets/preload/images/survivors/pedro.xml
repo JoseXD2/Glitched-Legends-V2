@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pedro.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pedro instancia 10000" x="0" y="0" width="526" height="525" frameX="-13" frameY="-41" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10001" x="0" y="0" width="526" height="525" frameX="-13" frameY="-41" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10002" x="526" y="0" width="529" height="535" frameX="0" frameY="-31" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10003" x="526" y="0" width="529" height="535" frameX="0" frameY="-31" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10004" x="0" y="535" width="518" height="558" frameX="0" frameY="-8" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10005" x="0" y="535" width="518" height="558" frameX="0" frameY="-8" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10006" x="518" y="535" width="518" height="566" frameX="0" frameY="0" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10007" x="518" y="535" width="518" height="566" frameX="0" frameY="0" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10008" x="518" y="535" width="518" height="566" frameX="0" frameY="0" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10009" x="518" y="535" width="518" height="566" frameX="0" frameY="0" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10010" x="518" y="535" width="518" height="566" frameX="0" frameY="0" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10011" x="518" y="535" width="518" height="566" frameX="0" frameY="0" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10012" x="518" y="535" width="518" height="566" frameX="0" frameY="0" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10013" x="518" y="535" width="518" height="566" frameX="0" frameY="0" frameWidth="539" frameHeight="566"/>
+	<SubTexture name="pedro instancia 10014" x="518" y="535" width="518" height="566" frameX="0" frameY="0" frameWidth="539" frameHeight="566"/>
+</TextureAtlas>

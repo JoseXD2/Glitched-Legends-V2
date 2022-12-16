@@ -1,0 +1,14 @@
+v1:how much
+v2:how much if you want a randomizer
+
+ok the difference between v1 and v2 that if you put only
+v1 the image will popup with the amount of numbers that you put with v1
+
+example (v1 = 5)
+that means they're will be 5 popups
+
+but if you put v2 and v1 the amount will randomize
+example (v1 = 1, v2 = 5)
+that means ether 1 to 5 popups maybe only 1popup or 3popups or full5 popups
+the limit of popups are 100
+sorry if this is confusing lol

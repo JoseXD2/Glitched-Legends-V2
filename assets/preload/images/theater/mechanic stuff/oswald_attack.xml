@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oswald_attack.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Oswald_ntm_attack instancia 10000" x="0" y="0" width="698" height="706" frameX="0" frameY="0" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10001" x="698" y="0" width="713" height="706" frameX="0" frameY="0" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10002" x="1411" y="0" width="614" height="671" frameX="-43" frameY="-22" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10003" x="2025" y="0" width="623" height="671" frameX="-43" frameY="-22" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10004" x="2648" y="0" width="691" height="673" frameX="-106" frameY="-14" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10005" x="3339" y="0" width="691" height="673" frameX="-106" frameY="-14" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10006" x="0" y="706" width="664" height="660" frameX="-161" frameY="-22" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10007" x="664" y="706" width="664" height="660" frameX="-161" frameY="-22" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10008" x="1328" y="706" width="665" height="671" frameX="-198" frameY="-14" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10009" x="1328" y="706" width="665" height="671" frameX="-198" frameY="-14" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10010" x="1993" y="706" width="685" height="684" frameX="-178" frameY="-22" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10011" x="1993" y="706" width="685" height="684" frameX="-178" frameY="-22" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10012" x="2678" y="706" width="691" height="679" frameX="-172" frameY="-14" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10013" x="2678" y="706" width="691" height="679" frameX="-172" frameY="-14" frameWidth="863" frameHeight="706"/>
+	<SubTexture name="Oswald_ntm_attack instancia 10014" x="3369" y="706" width="690" height="665" frameX="-173" frameY="-22" frameWidth="863" frameHeight="706"/>
+</TextureAtlas>

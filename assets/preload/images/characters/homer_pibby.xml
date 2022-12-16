@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="homer_pibby.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="homer_down instancia 10000" x="0" y="0" width="956" height="935" frameX="-46" frameY="0" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10001" x="956" y="0" width="971" height="970" frameX="-7" frameY="-17" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10002" x="1927" y="0" width="971" height="970" frameX="-7" frameY="-17" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10003" x="2898" y="0" width="979" height="951" frameX="-7" frameY="-50" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10004" x="3877" y="0" width="979" height="951" frameX="-7" frameY="-50" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10005" x="4856" y="0" width="1003" height="891" frameX="-3" frameY="-109" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10006" x="5859" y="0" width="1003" height="891" frameX="-3" frameY="-109" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10007" x="6862" y="0" width="1039" height="880" frameX="0" frameY="-122" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10008" x="6862" y="0" width="1039" height="880" frameX="0" frameY="-122" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10009" x="0" y="970" width="992" height="853" frameX="-25" frameY="-131" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10010" x="0" y="970" width="992" height="853" frameX="-25" frameY="-131" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10011" x="992" y="970" width="804" height="756" frameX="-114" frameY="-206" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10012" x="992" y="970" width="804" height="756" frameX="-114" frameY="-206" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10013" x="1796" y="970" width="804" height="756" frameX="-131" frameY="-206" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_down instancia 10014" x="2600" y="970" width="810" height="754" frameX="-120" frameY="-195" frameWidth="1039" frameHeight="1002"/>
+	<SubTexture name="homer_idle instancia 10000" x="3410" y="970" width="398" height="641" frameX="-93" frameY="-25" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10001" x="3410" y="970" width="398" height="641" frameX="-93" frameY="-25" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10002" x="3808" y="970" width="444" height="662" frameX="-61" frameY="-4" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10003" x="4252" y="970" width="467" height="674" frameX="-61" frameY="-4" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10004" x="4719" y="970" width="495" height="676" frameX="-33" frameY="-2" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10005" x="5214" y="970" width="478" height="664" frameX="-33" frameY="-2" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10006" x="5692" y="970" width="498" height="666" frameX="0" frameY="0" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10007" x="5692" y="970" width="498" height="666" frameX="0" frameY="0" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10008" x="6190" y="970" width="501" height="666" frameX="0" frameY="0" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10009" x="6691" y="970" width="501" height="666" frameX="0" frameY="0" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10010" x="7192" y="970" width="501" height="666" frameX="0" frameY="0" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10011" x="0" y="1823" width="501" height="666" frameX="0" frameY="0" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10012" x="501" y="1823" width="501" height="666" frameX="0" frameY="0" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10013" x="1002" y="1823" width="501" height="666" frameX="0" frameY="0" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_idle instancia 10014" x="1002" y="1823" width="501" height="666" frameX="0" frameY="0" frameWidth="528" frameHeight="678"/>
+	<SubTexture name="homer_left instancia 10000" x="1503" y="1823" width="508" height="694" frameX="-33" frameY="0" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10001" x="1503" y="1823" width="508" height="694" frameX="-33" frameY="0" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10002" x="2011" y="1823" width="537" height="686" frameX="-20" frameY="-7" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10003" x="2548" y="1823" width="537" height="687" frameX="-20" frameY="-6" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10004" x="3085" y="1823" width="551" height="683" frameX="0" frameY="-7" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10005" x="3085" y="1823" width="551" height="683" frameX="0" frameY="-7" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10006" x="3636" y="1823" width="561" height="689" frameX="0" frameY="-7" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10007" x="3636" y="1823" width="561" height="689" frameX="0" frameY="-7" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10008" x="4197" y="1823" width="566" height="690" frameX="0" frameY="-7" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10009" x="4197" y="1823" width="566" height="690" frameX="0" frameY="-7" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10010" x="4197" y="1823" width="566" height="690" frameX="0" frameY="-7" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10011" x="4763" y="1823" width="527" height="682" frameX="0" frameY="-7" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10012" x="4763" y="1823" width="527" height="682" frameX="0" frameY="-7" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10013" x="5290" y="1823" width="532" height="682" frameX="0" frameY="-7" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_left instancia 10014" x="5290" y="1823" width="532" height="682" frameX="0" frameY="-7" frameWidth="566" frameHeight="697"/>
+	<SubTexture name="homer_right instancia 10000" x="5822" y="1823" width="597" height="625" frameX="-15" frameY="0" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10001" x="5822" y="1823" width="597" height="625" frameX="-15" frameY="0" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10002" x="6419" y="1823" width="627" height="607" frameX="-17" frameY="-18" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10003" x="7046" y="1823" width="665" height="645" frameX="0" frameY="-1" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10004" x="0" y="2517" width="631" height="589" frameX="-23" frameY="-42" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10005" x="0" y="2517" width="631" height="589" frameX="-23" frameY="-42" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10006" x="631" y="2517" width="631" height="589" frameX="-23" frameY="-42" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10007" x="631" y="2517" width="631" height="589" frameX="-23" frameY="-42" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10008" x="631" y="2517" width="631" height="589" frameX="-23" frameY="-42" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10009" x="631" y="2517" width="631" height="589" frameX="-23" frameY="-42" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10010" x="631" y="2517" width="631" height="589" frameX="-23" frameY="-42" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10011" x="631" y="2517" width="631" height="589" frameX="-23" frameY="-42" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10012" x="631" y="2517" width="631" height="589" frameX="-23" frameY="-42" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10013" x="631" y="2517" width="631" height="589" frameX="-23" frameY="-42" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_right instancia 10014" x="631" y="2517" width="631" height="589" frameX="-23" frameY="-42" frameWidth="665" frameHeight="646"/>
+	<SubTexture name="homer_up instancia 10000" x="1262" y="2517" width="420" height="679" frameX="-49" frameY="-51" frameWidth="492" frameHeight="734"/>
+	<SubTexture name="homer_up instancia 10001" x="1682" y="2517" width="420" height="673" frameX="-49" frameY="-57" frameWidth="492" frameHeight="734"/>
+	<SubTexture name="homer_up instancia 10002" x="2102" y="2517" width="443" height="697" frameX="-23" frameY="-37" frameWidth="492" frameHeight="734"/>
+	<SubTexture name="homer_up instancia 10003" x="2545" y="2517" width="447" height="697" frameX="-23" frameY="-37" frameWidth="492" frameHeight="734"/>
+	<SubTexture name="homer_up instancia 10004" x="2992" y="2517" width="460" height="707" frameX="-14" frameY="-27" frameWidth="492" frameHeight="734"/>
+	<SubTexture name="homer_up instancia 10005" x="3452" y="2517" width="460" height="707" frameX="-14" frameY="-27" frameWidth="492" frameHeight="734"/>
+	<SubTexture name="homer_up instancia 10006" x="3912" y="2517" width="492" height="734"/>
+	<SubTexture name="homer_up instancia 10007" x="4404" y="2517" width="492" height="734"/>
+	<SubTexture name="homer_up instancia 10008" x="4896" y="2517" width="492" height="734"/>
+	<SubTexture name="homer_up instancia 10009" x="5388" y="2517" width="492" height="734"/>
+	<SubTexture name="homer_up instancia 10010" x="5388" y="2517" width="492" height="734"/>
+	<SubTexture name="homer_up instancia 10011" x="5880" y="2517" width="492" height="734"/>
+	<SubTexture name="homer_up instancia 10012" x="5880" y="2517" width="492" height="734"/>
+	<SubTexture name="homer_up instancia 10013" x="5880" y="2517" width="492" height="734"/>
+	<SubTexture name="homer_up instancia 10014" x="6372" y="2517" width="492" height="734"/>
+</TextureAtlas>

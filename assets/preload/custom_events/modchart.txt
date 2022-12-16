@@ -1,0 +1,6 @@
+v1: 
+R = right
+L = left
+U = up
+D = down
+Random: it's basically like Missingno note mechanic 

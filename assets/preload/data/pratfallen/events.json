@@ -1,0 +1,84 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "tom",
+		"player1": "bf_pibby_smal",
+		"player2": "tom",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"",
+						"",
+						""
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				122.950819672131,
+				[
+					[
+						"Black flash",
+						"35",
+						""
+					]
+				]
+			],
+			[
+				28647.5409836065,
+				[
+					[
+						"HealthDrain",
+						"0.03",
+						"0.1"
+					]
+				]
+			],
+			[
+				28770.4918032787,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				193770.491803278,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				194631.147540983,
+				[
+					[
+						"Black flash",
+						"",
+						"15"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 122,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Pratfallen"
+	}
+}

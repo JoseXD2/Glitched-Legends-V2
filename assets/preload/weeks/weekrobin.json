@@ -1,0 +1,50 @@
+{
+	"storyName": "titans go!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "robin",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"bossy",
+			"robin_icon",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"leader",
+			"robin_icon",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"controlization",
+			"robin_icon",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "titans go!",
+	"hiddenUntilUnlocked": false
+}

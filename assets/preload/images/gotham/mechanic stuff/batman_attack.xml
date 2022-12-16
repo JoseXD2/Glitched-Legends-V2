@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="batman_attack.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="batman_attack instancia 10000" x="0" y="0" width="848" height="687" frameX="-26" frameY="-26" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10001" x="848" y="0" width="889" height="727" frameX="0" frameY="0" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10002" x="1737" y="0" width="905" height="715" frameX="-81" frameY="-34" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10003" x="2642" y="0" width="939" height="748" frameX="-63" frameY="-16" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10004" x="0" y="748" width="942" height="646" frameX="-120" frameY="-61" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10005" x="0" y="748" width="942" height="646" frameX="-120" frameY="-61" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10006" x="942" y="748" width="939" height="644" frameX="-120" frameY="-33" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10007" x="942" y="748" width="939" height="644" frameX="-120" frameY="-33" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10008" x="1881" y="748" width="944" height="632" frameX="-120" frameY="-32" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10009" x="1881" y="748" width="944" height="632" frameX="-120" frameY="-32" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10010" x="2825" y="748" width="954" height="612" frameX="-120" frameY="-52" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10011" x="0" y="1394" width="954" height="622" frameX="-120" frameY="-52" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10012" x="954" y="1394" width="955" height="622" frameX="-120" frameY="-52" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10013" x="1909" y="1394" width="955" height="644" frameX="-120" frameY="-52" frameWidth="1075" frameHeight="764"/>
+	<SubTexture name="batman_attack instancia 10014" x="2864" y="1394" width="955" height="644" frameX="-120" frameY="-52" frameWidth="1075" frameHeight="764"/>
+</TextureAtlas>

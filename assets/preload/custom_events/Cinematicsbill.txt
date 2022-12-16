@@ -1,0 +1,8 @@
+Value 1: Start of Cinematic 
+	 Mark this Value with 1 to begin the event
+
+Value 2: End of Cinematic
+	 Mark this Value with 2 to end the event
+
+-- Created by RamenDominoes (Feel free to credit or not I don't really care)
+--Not bad for my first event created... I think

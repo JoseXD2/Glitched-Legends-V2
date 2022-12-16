@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gnomo3.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gnome3 instancia 10000" x="0" y="0" width="273" height="197" frameX="0" frameY="0" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10001" x="0" y="0" width="273" height="197" frameX="0" frameY="0" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10002" x="273" y="0" width="248" height="198" frameX="-20" frameY="0" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10003" x="273" y="0" width="248" height="198" frameX="-20" frameY="0" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10004" x="521" y="0" width="248" height="200" frameX="-27" frameY="-2" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10005" x="769" y="0" width="248" height="200" frameX="-27" frameY="-2" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10006" x="0" y="200" width="194" height="196" frameX="-29" frameY="-10" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10007" x="0" y="200" width="194" height="196" frameX="-29" frameY="-10" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10008" x="194" y="200" width="182" height="203" frameX="-28" frameY="-5" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10009" x="194" y="200" width="182" height="203" frameX="-28" frameY="-5" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10010" x="376" y="200" width="179" height="204" frameX="-39" frameY="-5" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10011" x="376" y="200" width="179" height="204" frameX="-39" frameY="-5" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10012" x="555" y="200" width="178" height="203" frameX="-62" frameY="-7" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10013" x="555" y="200" width="178" height="203" frameX="-62" frameY="-7" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10014" x="733" y="200" width="273" height="201" frameX="0" frameY="-9" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10015" x="0" y="404" width="273" height="201" frameX="0" frameY="-9" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10016" x="273" y="404" width="248" height="197" frameX="-20" frameY="-7" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10017" x="273" y="404" width="248" height="197" frameX="-20" frameY="-7" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10018" x="521" y="404" width="248" height="197" frameX="-27" frameY="-6" frameWidth="275" frameHeight="210"/>
+	<SubTexture name="gnome3 instancia 10019" x="521" y="404" width="248" height="197" frameX="-27" frameY="-6" frameWidth="275" frameHeight="210"/>
+</TextureAtlas>

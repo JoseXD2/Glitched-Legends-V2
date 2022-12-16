@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="corruptedcharacters.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="characters3iguess instancia 10000" x="0" y="0" width="1576" height="512" frameX="-99" frameY="-23" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10001" x="0" y="0" width="1576" height="512" frameX="-99" frameY="-23" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10002" x="1576" y="0" width="1626" height="586" frameX="-79" frameY="-6" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10003" x="0" y="586" width="1626" height="586" frameX="-79" frameY="-6" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10004" x="1626" y="586" width="1670" height="552" frameX="-90" frameY="0" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10005" x="1626" y="586" width="1670" height="552" frameX="-90" frameY="0" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10006" x="0" y="1172" width="1661" height="593" frameX="-60" frameY="-3" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10007" x="0" y="1172" width="1661" height="593" frameX="-60" frameY="-3" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10008" x="1661" y="1172" width="1684" height="565" frameX="-84" frameY="-3" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10009" x="1661" y="1172" width="1684" height="565" frameX="-84" frameY="-3" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10010" x="0" y="1765" width="1807" height="569" frameX="-55" frameY="-3" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10011" x="0" y="1765" width="1807" height="569" frameX="-55" frameY="-3" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10012" x="1807" y="1765" width="1874" height="579" frameX="0" frameY="-3" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10013" x="1807" y="1765" width="1874" height="579" frameX="0" frameY="-3" frameWidth="1874" frameHeight="596"/>
+	<SubTexture name="characters3iguess instancia 10014" x="0" y="2344" width="1874" height="579" frameX="0" frameY="-3" frameWidth="1874" frameHeight="596"/>
+</TextureAtlas>

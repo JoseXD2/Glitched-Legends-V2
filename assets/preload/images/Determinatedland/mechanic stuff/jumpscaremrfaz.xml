@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jumpscaremrfaz.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mrfazappear instancia 10000" x="7399" y="1945" width="772" height="983" frameX="-387" frameY="0" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10001" x="2639" y="1975" width="792" height="948" frameX="-341" frameY="-14" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10002" x="4587" y="1984" width="792" height="943" frameX="-335" frameY="-26" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10003" x="0" y="1920" width="791" height="960" frameX="-313" frameY="-50" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10004" x="7399" y="966" width="783" height="979" frameX="-299" frameY="-72" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10005" x="1855" y="1876" width="784" height="972" frameX="-288" frameY="-96" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10006" x="2774" y="982" width="834" height="993" frameX="-192" frameY="-157" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10007" x="6554" y="966" width="845" height="995" frameX="-176" frameY="-161" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10008" x="4823" y="0" width="876" height="998" frameX="-112" frameY="-210" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10009" x="2898" y="0" width="903" height="982" frameX="-63" frameY="-222" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10010" x="6554" y="0" width="893" height="966" frameX="-68" frameY="-206" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10011" x="5699" y="0" width="855" height="1015" frameX="-62" frameY="-191" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10012" x="3801" y="864" width="888" height="964" frameX="-30" frameY="-199" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10013" x="0" y="930" width="857" height="990" frameX="-34" frameY="-178" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10014" x="1904" y="899" width="870" height="977" frameX="0" frameY="-186" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazappear instancia 10015" x="4689" y="998" width="838" height="986" frameX="-25" frameY="-145" frameWidth="1159" frameHeight="1208"/>
+	<SubTexture name="mrfazbyebye instancia 10000" x="5527" y="1015" width="816" height="984" frameX="-377" frameY="0" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10001" x="995" y="0" width="909" height="1000" frameX="-220" frameY="-130" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10002" x="0" y="0" width="995" height="930" frameX="-109" frameY="-265" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10003" x="3801" y="0" width="1022" height="864" frameX="-26" frameY="-430" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10004" x="857" y="1812" width="998" height="777" frameX="0" frameY="-587" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10005" x="6343" y="1961" width="959" height="786" frameX="-12" frameY="-610" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10006" x="3608" y="1828" width="979" height="784" frameX="-69" frameY="-647" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10007" x="857" y="1000" width="994" height="812" frameX="-123" frameY="-662" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10008" x="1904" y="0" width="994" height="899" frameX="-237" frameY="-709" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10009" x="1904" y="0" width="994" height="899" frameX="-260" frameY="-711" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10010" x="1904" y="0" width="994" height="899" frameX="-252" frameY="-697" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10011" x="1904" y="0" width="994" height="899" frameX="-247" frameY="-723" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10012" x="1904" y="0" width="994" height="899" frameX="-266" frameY="-701" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10013" x="1904" y="0" width="994" height="899" frameX="-253" frameY="-709" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10014" x="1904" y="0" width="994" height="899" frameX="-272" frameY="-711" frameWidth="1254" frameHeight="1653"/>
+	<SubTexture name="mrfazbyebye instancia 10015" x="1904" y="0" width="994" height="899" frameX="-235" frameY="-697" frameWidth="1254" frameHeight="1653"/>
+</TextureAtlas>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="iconnanimatednotfound.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="senpai_l instancia 10000" x="0" y="0" width="198" height="162" frameX="0" frameY="0" frameWidth="252" frameHeight="162"/>
+	<SubTexture name="senpai_l instancia 10001" x="198" y="0" width="198" height="162" frameX="0" frameY="0" frameWidth="252" frameHeight="162"/>
+	<SubTexture name="senpai_l instancia 10002" x="198" y="0" width="198" height="162" frameX="0" frameY="0" frameWidth="252" frameHeight="162"/>
+	<SubTexture name="senpai_l instancia 10003" x="396" y="0" width="200" height="162" frameX="-53" frameY="0" frameWidth="252" frameHeight="162"/>
+	<SubTexture name="senpai_l instancia 10004" x="596" y="0" width="198" height="162" frameX="0" frameY="0" frameWidth="252" frameHeight="162"/>
+	<SubTexture name="senpai_l instancia 10005" x="794" y="0" width="198" height="162" frameX="0" frameY="0" frameWidth="252" frameHeight="162"/>
+	<SubTexture name="senpai_l instancia 10006" x="794" y="0" width="198" height="162" frameX="0" frameY="0" frameWidth="252" frameHeight="162"/>
+	<SubTexture name="senpai_l instancia 10007" x="0" y="162" width="198" height="162" frameX="0" frameY="0" frameWidth="252" frameHeight="162"/>
+	<SubTexture name="senpai_l instancia 10008" x="0" y="162" width="198" height="162" frameX="0" frameY="0" frameWidth="252" frameHeight="162"/>
+	<SubTexture name="senpai_l instancia 10009" x="0" y="0" width="198" height="162" frameX="0" frameY="0" frameWidth="252" frameHeight="162"/>
+	<SubTexture name="senpai_n instancia 10000" x="198" y="162" width="192" height="162" frameX="-63" frameY="0" frameWidth="255" frameHeight="164"/>
+	<SubTexture name="senpai_n instancia 10001" x="390" y="162" width="192" height="162" frameX="-63" frameY="0" frameWidth="255" frameHeight="164"/>
+	<SubTexture name="senpai_n instancia 10002" x="390" y="162" width="192" height="162" frameX="-63" frameY="0" frameWidth="255" frameHeight="164"/>
+	<SubTexture name="senpai_n instancia 10003" x="582" y="162" width="192" height="164" frameX="-63" frameY="0" frameWidth="255" frameHeight="164"/>
+	<SubTexture name="senpai_n instancia 10004" x="774" y="162" width="192" height="164" frameX="0" frameY="0" frameWidth="255" frameHeight="164"/>
+	<SubTexture name="senpai_n instancia 10005" x="198" y="162" width="192" height="162" frameX="-63" frameY="0" frameWidth="255" frameHeight="164"/>
+	<SubTexture name="senpai_n instancia 10006" x="198" y="162" width="192" height="162" frameX="-63" frameY="0" frameWidth="255" frameHeight="164"/>
+	<SubTexture name="senpai_n instancia 10007" x="390" y="162" width="192" height="162" frameX="-63" frameY="0" frameWidth="255" frameHeight="164"/>
+	<SubTexture name="senpai_n instancia 10008" x="390" y="162" width="192" height="162" frameX="-63" frameY="0" frameWidth="255" frameHeight="164"/>
+	<SubTexture name="senpai_n instancia 10009" x="582" y="162" width="192" height="164" frameX="-63" frameY="0" frameWidth="255" frameHeight="164"/>
+	<SubTexture name="senpai_w instancia 10000" x="0" y="326" width="183" height="185" frameX="-14" frameY="-2" frameWidth="206" frameHeight="192"/>
+	<SubTexture name="senpai_w instancia 10001" x="183" y="326" width="175" height="182" frameX="0" frameY="-2" frameWidth="206" frameHeight="192"/>
+	<SubTexture name="senpai_w instancia 10002" x="183" y="326" width="175" height="182" frameX="-31" frameY="-2" frameWidth="206" frameHeight="192"/>
+	<SubTexture name="senpai_w instancia 10003" x="358" y="326" width="190" height="190" frameX="-1" frameY="-2" frameWidth="206" frameHeight="192"/>
+	<SubTexture name="senpai_w instancia 10004" x="548" y="326" width="189" height="190" frameX="-10" frameY="0" frameWidth="206" frameHeight="192"/>
+	<SubTexture name="senpai_w instancia 10005" x="737" y="326" width="192" height="186" frameX="-6" frameY="0" frameWidth="206" frameHeight="192"/>
+	<SubTexture name="senpai_w instancia 10006" x="737" y="326" width="192" height="186" frameX="-10" frameY="0" frameWidth="206" frameHeight="192"/>
+	<SubTexture name="senpai_w instancia 10007" x="0" y="516" width="172" height="182" frameX="-9" frameY="0" frameWidth="206" frameHeight="192"/>
+	<SubTexture name="senpai_w instancia 10008" x="0" y="516" width="172" height="182" frameX="-16" frameY="0" frameWidth="206" frameHeight="192"/>
+	<SubTexture name="senpai_w instancia 10009" x="172" y="516" width="175" height="185" frameX="-23" frameY="0" frameWidth="206" frameHeight="192"/>
+</TextureAtlas>

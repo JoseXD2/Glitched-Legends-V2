@@ -1,0 +1,86 @@
+{
+	"storyName": "bik_ini bo_tom",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "bob",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ready-or-not",
+			"sponge_boy",
+			[
+				146,
+				113,
+				2
+			]
+		],
+		[
+			"see-you",
+			"sponge_boy",
+			[
+				146,
+				113,
+				2
+			]
+		],
+		[
+			"dilema-sea",
+			"sponge_boy",
+			[
+				146,
+				113,
+				2
+			]
+		],
+		[
+			"double-troublemaker",
+			"sponge_star",
+			[
+				146,
+				113,
+				2
+			]
+		],
+	        [
+			"broken-imagination",
+			"sponge_star",
+			[
+				146,
+				113,
+				2
+			]
+		],
+		[
+			"order-up-v3",
+			"sponge_boy",
+			[
+				146,
+				113,
+				2
+			]
+		],
+		[
+			"nautical-nonsense",
+			"sponge_star",
+			[
+				0,
+				0,
+				2
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "sponge. . .",
+	"hiddenUntilUnlocked": false
+}

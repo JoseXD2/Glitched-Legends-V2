@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-68,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "senpai_píbby_idle"
+		},
+		{
+			"offsets": [
+				33,
+				34
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singUP",
+			"loop": false,
+			"name": "senpai_píbby_up"
+		},
+		{
+			"offsets": [
+				-1,
+				11
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "senpai_píbby_down"
+		},
+		{
+			"offsets": [
+				130,
+				16
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "senpai_píbby_left"
+		},
+		{
+			"offsets": [
+				-1,
+				7
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "senpai_píbby_right"
+		},
+		{
+			"offsets": [
+				-41,
+				186
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "spirit_píbby_right_alt"
+		},
+		{
+			"offsets": [
+				-10,
+				203
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "spirit_píbby_down_alt"
+		},
+		{
+			"offsets": [
+				300,
+				165
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "spirit_píbby_left_alt"
+		},
+		{
+			"offsets": [
+				83,
+				374
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "spirit_píbby_up_alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/senpai_pibby",
+	"position": [
+		-130,
+		180
+	],
+	"healthicon": "icon_data_not_found",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		170,
+		111
+	],
+	"camera_position": [
+		-160,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

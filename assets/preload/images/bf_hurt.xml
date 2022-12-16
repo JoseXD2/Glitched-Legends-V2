@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_hurt.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf_hurt_ instancia 10000" x="0" y="0" width="570" height="426" frameX="0" frameY="-15" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10001" x="570" y="0" width="570" height="427" frameX="0" frameY="-14" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10002" x="1140" y="0" width="546" height="439" frameX="-34" frameY="-2" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10003" x="0" y="439" width="546" height="439" frameX="-34" frameY="-2" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10004" x="546" y="439" width="556" height="439" frameX="-46" frameY="-2" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10005" x="1102" y="439" width="556" height="439" frameX="-46" frameY="-2" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10006" x="0" y="878" width="556" height="441" frameX="-46" frameY="0" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10007" x="556" y="878" width="556" height="441" frameX="-46" frameY="0" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10008" x="0" y="878" width="556" height="441" frameX="-46" frameY="0" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10009" x="556" y="878" width="556" height="441" frameX="-46" frameY="0" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10010" x="0" y="878" width="556" height="441" frameX="-46" frameY="0" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10011" x="556" y="878" width="556" height="441" frameX="-46" frameY="0" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10012" x="0" y="878" width="556" height="441" frameX="-46" frameY="0" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10013" x="556" y="878" width="556" height="441" frameX="-46" frameY="0" frameWidth="602" frameHeight="441"/>
+	<SubTexture name="bf_hurt_ instancia 10014" x="0" y="878" width="556" height="441" frameX="-46" frameY="0" frameWidth="602" frameHeight="441"/>
+</TextureAtlas>

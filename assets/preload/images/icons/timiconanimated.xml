@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="timiconanimated.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tim_l instancia 10000" x="0" y="0" width="164" height="169" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10001" x="164" y="0" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10002" x="328" y="0" width="166" height="166" frameX="0" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10003" x="494" y="0" width="178" height="166" frameX="0" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10004" x="672" y="0" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10005" x="836" y="0" width="164" height="169" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10006" x="0" y="169" width="164" height="169" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10007" x="164" y="169" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10008" x="164" y="169" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10009" x="328" y="169" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10010" x="328" y="169" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10011" x="0" y="169" width="164" height="169" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10012" x="0" y="169" width="164" height="169" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10013" x="164" y="169" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10014" x="164" y="169" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10015" x="328" y="169" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10016" x="328" y="169" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10017" x="0" y="169" width="164" height="169" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10018" x="0" y="169" width="164" height="169" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10019" x="164" y="169" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10020" x="164" y="169" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10021" x="328" y="169" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10022" x="328" y="169" width="164" height="166" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10023" x="0" y="169" width="164" height="169" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_l instancia 10024" x="0" y="169" width="164" height="169" frameX="-1" frameY="0" frameWidth="178" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10000" x="492" y="169" width="162" height="169" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10001" x="654" y="169" width="157" height="154" frameX="0" frameY="-7" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10002" x="811" y="169" width="160" height="160" frameX="-10" frameY="-5" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10003" x="0" y="338" width="162" height="165" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10004" x="0" y="338" width="162" height="165" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10005" x="492" y="169" width="162" height="169" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10006" x="492" y="169" width="162" height="169" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10007" x="162" y="338" width="162" height="166" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10008" x="162" y="338" width="162" height="166" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10009" x="0" y="338" width="162" height="165" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10010" x="0" y="338" width="162" height="165" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10011" x="492" y="169" width="162" height="169" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10012" x="492" y="169" width="162" height="169" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10013" x="162" y="338" width="162" height="166" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10014" x="162" y="338" width="162" height="166" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10015" x="0" y="338" width="162" height="165" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10016" x="0" y="338" width="162" height="165" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10017" x="492" y="169" width="162" height="169" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10018" x="492" y="169" width="162" height="169" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10019" x="162" y="338" width="162" height="166" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10020" x="162" y="338" width="162" height="166" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10021" x="0" y="338" width="162" height="165" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10022" x="0" y="338" width="162" height="165" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10023" x="492" y="169" width="162" height="169" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_n instancia 10024" x="492" y="169" width="162" height="169" frameX="0" frameY="0" frameWidth="169" frameHeight="169"/>
+	<SubTexture name="tim_w instancia 10000" x="324" y="338" width="135" height="168" frameX="-9" frameY="0" frameWidth="152" frameHeight="168"/>
+	<SubTexture name="tim_w instancia 10001" x="459" y="338" width="143" height="165" frameX="-9" frameY="-3" frameWidth="152" frameHeight="168"/>
+	<SubTexture name="tim_w instancia 10002" x="602" y="338" width="138" height="165" frameX="-4" frameY="-3" frameWidth="152" frameHeight="168"/>
+	<SubTexture name="tim_w instancia 10003" x="740" y="338" width="133" height="163" frameX="-12" frameY="0" frameWidth="152" frameHeight="168"/>
+	<SubTexture name="tim_w instancia 10004" x="873" y="338" width="133" height="163" frameX="0" frameY="0" frameWidth="152" frameHeight="168"/>
+	<SubTexture name="tim_w instancia 10005" x="0" y="506" width="133" height="168" frameX="-11" frameY="0" frameWidth="152" frameHeight="168"/>
+	<SubTexture name="tim_w instancia 10006" x="133" y="506" width="134" height="168" frameX="-1" frameY="0" frameWidth="152" frameHeight="168"/>
+	<SubTexture name="tim_w instancia 10007" x="267" y="506" width="133" height="160" frameX="-16" frameY="-3" frameWidth="152" frameHeight="168"/>
+	<SubTexture name="tim_w instancia 10008" x="267" y="506" width="133" height="160" frameX="-4" frameY="-3" frameWidth="152" frameHeight="168"/>
+</TextureAtlas>

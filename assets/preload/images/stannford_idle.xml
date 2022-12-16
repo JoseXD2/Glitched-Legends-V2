@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stannford.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stanford_idle instancia 10000" x="0" y="0" width="572" height="765" frameX="-1" frameY="-30" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10001" x="0" y="0" width="572" height="765" frameX="-1" frameY="-30" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10002" x="572" y="0" width="572" height="771" frameX="0" frameY="-24" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10003" x="572" y="0" width="572" height="771" frameX="0" frameY="-24" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10004" x="1144" y="0" width="572" height="785" frameX="0" frameY="-11" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10005" x="1144" y="0" width="572" height="785" frameX="0" frameY="-11" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10006" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10007" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10008" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10009" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10010" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10011" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10012" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10013" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10014" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10015" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10016" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10017" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10018" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10019" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10020" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10021" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10022" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10023" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+	<SubTexture name="stanford_idle instancia 10024" x="0" y="785" width="572" height="796" frameX="0" frameY="0" frameWidth="573" frameHeight="796"/>
+</TextureAtlas>

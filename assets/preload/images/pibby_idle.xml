@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pibby_idle.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pibby_idle instancia 10000" x="0" y="0" width="596" height="411" frameX="0" frameY="-16" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10001" x="0" y="0" width="596" height="411" frameX="0" frameY="-16" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10002" x="596" y="0" width="587" height="416" frameX="-19" frameY="-12" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10003" x="596" y="0" width="587" height="416" frameX="-19" frameY="-12" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10004" x="1183" y="0" width="583" height="428" frameX="-32" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10005" x="1183" y="0" width="583" height="428" frameX="-32" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10006" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10007" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10008" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10009" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10010" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10011" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10012" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10013" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10014" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10015" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10016" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10017" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10018" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10019" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10020" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10021" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10022" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10023" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+	<SubTexture name="pibby_idle instancia 10024" x="0" y="428" width="596" height="428" frameX="-27" frameY="0" frameWidth="623" frameHeight="428"/>
+</TextureAtlas>

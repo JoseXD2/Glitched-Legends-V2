@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-289
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle_alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				139,
+				-296
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "note_left_miss"
+		},
+		{
+			"offsets": [
+				33,
+				-178
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "note_up_miss"
+		},
+		{
+			"offsets": [
+				135,
+				-294
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "note_right_miss"
+		},
+		{
+			"offsets": [
+				144,
+				-310
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "note_down_miss"
+		},
+		{
+			"offsets": [
+				36,
+				-227
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "alt_bf_left"
+		},
+		{
+			"offsets": [
+				-8,
+				-312
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "alt_bf_down"
+		},
+		{
+			"offsets": [
+				127,
+				-166
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "alt_bf_right"
+		},
+		{
+			"offsets": [
+				179,
+				-41
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "alt_bf_up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_pibby",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf_pibby",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		62,
+		145
+	],
+	"camera_position": [
+		20,
+		390
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

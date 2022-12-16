@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dino_fall.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dino_idle instancia 10000" x="0" y="0" width="176" height="173" frameX="-371" frameY="0" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10001" x="0" y="0" width="176" height="173" frameX="-371" frameY="0" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10002" x="176" y="0" width="201" height="263" frameX="-353" frameY="-246" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10003" x="176" y="0" width="201" height="263" frameX="-353" frameY="-246" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10004" x="377" y="0" width="201" height="464" frameX="-355" frameY="-603" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10005" x="377" y="0" width="201" height="464" frameX="-355" frameY="-603" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10006" x="578" y="0" width="280" height="89" frameX="-299" frameY="-1526" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10007" x="578" y="0" width="280" height="89" frameX="-299" frameY="-1526" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10008" x="858" y="0" width="351" height="189" frameX="-238" frameY="-1431" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10009" x="858" y="0" width="351" height="189" frameX="-238" frameY="-1431" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10010" x="1209" y="0" width="594" height="345" frameX="-49" frameY="-1271" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10011" x="1209" y="0" width="594" height="345" frameX="-49" frameY="-1271" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10012" x="0" y="464" width="661" height="443" frameX="-26" frameY="-1179" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10013" x="0" y="464" width="661" height="443" frameX="-26" frameY="-1179" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10014" x="661" y="464" width="663" height="492" frameX="-18" frameY="-1132" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10015" x="661" y="464" width="663" height="492" frameX="-18" frameY="-1132" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10016" x="1324" y="464" width="703" height="539" frameX="0" frameY="-1094" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10017" x="1324" y="464" width="703" height="539" frameX="0" frameY="-1094" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10018" x="0" y="1003" width="701" height="689" frameX="-29" frameY="-938" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10019" x="0" y="1003" width="701" height="689" frameX="-29" frameY="-938" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10020" x="701" y="1003" width="693" height="680" frameX="-34" frameY="-943" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10021" x="701" y="1003" width="693" height="680" frameX="-34" frameY="-943" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10022" x="701" y="1003" width="693" height="680" frameX="-34" frameY="-943" frameWidth="730" frameHeight="1633"/>
+	<SubTexture name="dino_idle instancia 10023" x="701" y="1003" width="693" height="680" frameX="-34" frameY="-943" frameWidth="730" frameHeight="1633"/>
+</TextureAtlas>

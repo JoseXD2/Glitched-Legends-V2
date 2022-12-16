@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aj.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cjxd instancia 10000" x="0" y="0" width="464" height="618" frameX="0" frameY="-16" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10001" x="0" y="0" width="464" height="618" frameX="0" frameY="-16" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10002" x="464" y="0" width="452" height="618" frameX="-15" frameY="-16" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10003" x="464" y="0" width="452" height="618" frameX="-15" frameY="-16" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10004" x="916" y="0" width="460" height="628" frameX="-13" frameY="-6" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10005" x="916" y="0" width="460" height="628" frameX="-13" frameY="-6" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10006" x="1376" y="0" width="467" height="633" frameX="-11" frameY="-1" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10007" x="1376" y="0" width="467" height="633" frameX="-11" frameY="-1" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10008" x="0" y="633" width="467" height="634" frameX="-11" frameY="0" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10009" x="0" y="633" width="467" height="634" frameX="-11" frameY="0" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10010" x="0" y="633" width="467" height="634" frameX="-11" frameY="0" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10011" x="0" y="633" width="467" height="634" frameX="-11" frameY="0" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10012" x="0" y="633" width="467" height="634" frameX="-11" frameY="0" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10013" x="0" y="633" width="467" height="634" frameX="-11" frameY="0" frameWidth="478" frameHeight="634"/>
+	<SubTexture name="cjxd instancia 10014" x="0" y="633" width="467" height="634" frameX="-11" frameY="0" frameWidth="478" frameHeight="634"/>
+</TextureAtlas>

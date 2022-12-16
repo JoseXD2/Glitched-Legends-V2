@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gasterblaster.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gasterblasterhorizontal instancia 10000" x="0" y="0" width="648" height="442" frameX="-125" frameY="-146" frameWidth="876" frameHeight="638"/>
+	<SubTexture name="gasterblasterhorizontal instancia 10001" x="648" y="0" width="743" height="442" frameX="-129" frameY="-146" frameWidth="876" frameHeight="638"/>
+	<SubTexture name="gasterblasterhorizontal instancia 10002" x="1391" y="0" width="684" height="446" frameX="-89" frameY="-149" frameWidth="876" frameHeight="638"/>
+	<SubTexture name="gasterblasterhorizontal instancia 10003" x="2075" y="0" width="845" height="446" frameX="-31" frameY="-149" frameWidth="876" frameHeight="638"/>
+	<SubTexture name="gasterblasterhorizontal instancia 10004" x="2920" y="0" width="667" height="475" frameX="-50" frameY="-146" frameWidth="876" frameHeight="638"/>
+	<SubTexture name="gasterblasterhorizontal instancia 10005" x="2920" y="0" width="667" height="475" frameX="-50" frameY="-146" frameWidth="876" frameHeight="638"/>
+	<SubTexture name="gasterblasterhorizontal instancia 10006" x="0" y="475" width="671" height="638" frameX="0" frameY="0" frameWidth="876" frameHeight="638"/>
+	<SubTexture name="gasterblasterhorizontal instancia 10007" x="0" y="475" width="671" height="638" frameX="0" frameY="0" frameWidth="876" frameHeight="638"/>
+	<SubTexture name="gasterblasterhorizontal instancia 10008" x="671" y="475" width="671" height="638" frameX="0" frameY="0" frameWidth="876" frameHeight="638"/>
+	<SubTexture name="gasterblasterhorizontal instancia 10009" x="671" y="475" width="671" height="638" frameX="0" frameY="0" frameWidth="876" frameHeight="638"/>
+	<SubTexture name="gasterblasterhorizontal instancia 10010" x="1342" y="475" width="671" height="638" frameX="0" frameY="0" frameWidth="876" frameHeight="638"/>
+	<SubTexture name="gasterblasterhorizontal instancia 10011" x="1342" y="475" width="671" height="638" frameX="0" frameY="0" frameWidth="876" frameHeight="638"/>
+	<SubTexture name="gasterblasterhorizontal_idle instancia 10000" x="2013" y="475" width="648" height="442" frameX="-10" frameY="0" frameWidth="752" frameHeight="442"/>
+	<SubTexture name="gasterblasterhorizontal_idle instancia 10001" x="2013" y="475" width="648" height="442" frameX="-10" frameY="0" frameWidth="752" frameHeight="442"/>
+	<SubTexture name="gasterblasterhorizontal_idle instancia 10002" x="2661" y="475" width="648" height="442" frameX="-13" frameY="0" frameWidth="752" frameHeight="442"/>
+	<SubTexture name="gasterblasterhorizontal_idle instancia 10003" x="3309" y="475" width="752" height="442"/>
+	<SubTexture name="gasterblasterhorizontal_idle instancia 10004" x="0" y="1113" width="663" height="442" frameX="-9" frameY="0" frameWidth="752" frameHeight="442"/>
+	<SubTexture name="gasterblasterhorizontal_idle instancia 10005" x="0" y="1113" width="663" height="442" frameX="-9" frameY="0" frameWidth="752" frameHeight="442"/>
+	<SubTexture name="gasterblasterhorizontal_idle instancia 10006" x="663" y="1113" width="648" height="442" frameX="-12" frameY="0" frameWidth="752" frameHeight="442"/>
+	<SubTexture name="gasterblasterhorizontal_idle instancia 10007" x="663" y="1113" width="648" height="442" frameX="-12" frameY="0" frameWidth="752" frameHeight="442"/>
+	<SubTexture name="gasterblasterhorizontal_idle instancia 10008" x="1311" y="1113" width="648" height="442" frameX="-10" frameY="0" frameWidth="752" frameHeight="442"/>
+	<SubTexture name="gasterblasterhorizontal_idle instancia 10009" x="1311" y="1113" width="648" height="442" frameX="-10" frameY="0" frameWidth="752" frameHeight="442"/>
+	<SubTexture name="gasterblasterhorizontal_idle instancia 10010" x="1959" y="1113" width="649" height="442" frameX="-11" frameY="0" frameWidth="752" frameHeight="442"/>
+	<SubTexture name="gasterblasterhorizontal_idle instancia 10011" x="1959" y="1113" width="649" height="442" frameX="-11" frameY="0" frameWidth="752" frameHeight="442"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oldbfaniamtedicons.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bffp_ww instancia 10000" x="0" y="0" width="220" height="169" frameX="-14" frameY="0" frameWidth="247" frameHeight="172"/>
+	<SubTexture name="bffp_ww instancia 10001" x="220" y="0" width="216" height="169" frameX="0" frameY="0" frameWidth="247" frameHeight="172"/>
+	<SubTexture name="bffp_ww instancia 10002" x="436" y="0" width="215" height="169" frameX="-19" frameY="0" frameWidth="247" frameHeight="172"/>
+	<SubTexture name="bffp_ww instancia 10003" x="651" y="0" width="218" height="172" frameX="-29" frameY="0" frameWidth="247" frameHeight="172"/>
+	<SubTexture name="bffp_ww instancia 10004" x="0" y="172" width="225" height="172" frameX="-18" frameY="0" frameWidth="247" frameHeight="172"/>
+	<SubTexture name="bffp_ww instancia 10005" x="225" y="172" width="214" height="169" frameX="-10" frameY="0" frameWidth="247" frameHeight="172"/>
+	<SubTexture name="bffp_ww instancia 10006" x="439" y="172" width="217" height="169" frameX="-17" frameY="0" frameWidth="247" frameHeight="172"/>
+	<SubTexture name="bffp_ww instancia 10007" x="656" y="172" width="234" height="169" frameX="-6" frameY="0" frameWidth="247" frameHeight="172"/>
+	<SubTexture name="bffp_ww instancia 10008" x="0" y="344" width="230" height="169" frameX="-6" frameY="0" frameWidth="247" frameHeight="172"/>
+	<SubTexture name="bffp_ww instancia 10009" x="230" y="344" width="230" height="172" frameX="-6" frameY="0" frameWidth="247" frameHeight="172"/>
+	<SubTexture name="bfp_l instancia 10000" x="460" y="344" width="203" height="145"/>
+	<SubTexture name="bfp_n instancia 10000" x="663" y="344" width="212" height="138"/>
+</TextureAtlas>

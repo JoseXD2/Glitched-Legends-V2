@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tomjerryanimatedicon.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tomjerr_l instancia 10000" x="0" y="0" width="192" height="136" frameX="-42" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10001" x="192" y="0" width="184" height="136" frameX="-42" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10002" x="376" y="0" width="184" height="136" frameX="-42" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10003" x="560" y="0" width="206" height="147" frameX="-40" frameY="0" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10004" x="766" y="0" width="274" height="136" frameX="0" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10005" x="1040" y="0" width="183" height="136" frameX="-42" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10006" x="1223" y="0" width="183" height="136" frameX="-42" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10007" x="1406" y="0" width="192" height="136" frameX="-42" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10008" x="0" y="0" width="192" height="136" frameX="-42" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10009" x="376" y="0" width="184" height="136" frameX="-42" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10010" x="376" y="0" width="184" height="136" frameX="-42" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10011" x="1598" y="0" width="194" height="136" frameX="-40" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10012" x="1792" y="0" width="194" height="152" frameX="-40" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10013" x="1223" y="0" width="183" height="136" frameX="-42" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_l instancia 10014" x="0" y="152" width="211" height="136" frameX="-15" frameY="-12" frameWidth="274" frameHeight="164"/>
+	<SubTexture name="tomjerr_w instancia 10000" x="211" y="152" width="185" height="149" frameX="-9" frameY="-3" frameWidth="204" frameHeight="155"/>
+	<SubTexture name="tomjerr_w instancia 10001" x="396" y="152" width="200" height="145" frameX="-4" frameY="-2" frameWidth="204" frameHeight="155"/>
+	<SubTexture name="tomjerr_w instancia 10002" x="596" y="152" width="177" height="148" frameX="-6" frameY="-1" frameWidth="204" frameHeight="155"/>
+	<SubTexture name="tomjerr_w instancia 10003" x="773" y="152" width="194" height="152" frameX="0" frameY="-2" frameWidth="204" frameHeight="155"/>
+	<SubTexture name="tomjerr_w instancia 10004" x="967" y="152" width="179" height="152" frameX="-6" frameY="0" frameWidth="204" frameHeight="155"/>
+	<SubTexture name="tomjerr_w instancia 10005" x="1146" y="152" width="183" height="151" frameX="-10" frameY="-1" frameWidth="204" frameHeight="155"/>
+	<SubTexture name="tomjerr_w instancia 10006" x="1329" y="152" width="179" height="153" frameX="-2" frameY="-2" frameWidth="204" frameHeight="155"/>
+	<SubTexture name="tomjerr_w instancia 10007" x="1508" y="152" width="185" height="148" frameX="-5" frameY="-4" frameWidth="204" frameHeight="155"/>
+	<SubTexture name="tomjerr_w instancia 10008" x="1693" y="152" width="178" height="146" frameX="-5" frameY="-3" frameWidth="204" frameHeight="155"/>
+	<SubTexture name="tomjerry_n instancia 10000" x="0" y="305" width="199" height="170" frameX="0" frameY="-4" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10001" x="199" y="305" width="139" height="93" frameX="0" frameY="-76" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10002" x="338" y="305" width="200" height="169" frameX="-15" frameY="0" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10003" x="538" y="305" width="194" height="165" frameX="-8" frameY="-3" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10004" x="732" y="305" width="194" height="165" frameX="-8" frameY="-3" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10005" x="926" y="305" width="194" height="165" frameX="-8" frameY="-3" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10006" x="1120" y="305" width="194" height="165" frameX="-8" frameY="-3" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10007" x="1314" y="305" width="194" height="169" frameX="-8" frameY="-3" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10008" x="1508" y="305" width="194" height="169" frameX="-8" frameY="-3" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10009" x="1702" y="305" width="194" height="172" frameX="-8" frameY="-3" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10010" x="0" y="477" width="194" height="172" frameX="-8" frameY="-3" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10011" x="194" y="477" width="194" height="166" frameX="-8" frameY="-3" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10012" x="194" y="477" width="194" height="166" frameX="-8" frameY="-3" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10013" x="388" y="477" width="194" height="165" frameX="-8" frameY="-3" frameWidth="215" frameHeight="175"/>
+	<SubTexture name="tomjerry_n instancia 10014" x="388" y="477" width="194" height="165" frameX="-8" frameY="-3" frameWidth="215" frameHeight="175"/>
+</TextureAtlas>

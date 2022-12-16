@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="waterfall.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="watera instancia 10000" x="0" y="0" width="413" height="419" frameX="-27" frameY="-5" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10001" x="0" y="0" width="413" height="419" frameX="-27" frameY="-5" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10002" x="413" y="0" width="447" height="433" frameX="-20" frameY="-8" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10003" x="413" y="0" width="447" height="433" frameX="-20" frameY="-8" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10004" x="860" y="0" width="483" height="436" frameX="0" frameY="-6" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10005" x="860" y="0" width="483" height="436" frameX="0" frameY="-6" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10006" x="1343" y="0" width="472" height="442" frameX="-18" frameY="0" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10007" x="1343" y="0" width="472" height="442" frameX="-18" frameY="0" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10008" x="0" y="442" width="460" height="436" frameX="-7" frameY="-2" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10009" x="0" y="442" width="460" height="436" frameX="-7" frameY="-2" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10010" x="460" y="442" width="390" height="397" frameX="-39" frameY="-7" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10011" x="460" y="442" width="390" height="397" frameX="-39" frameY="-7" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10012" x="850" y="442" width="371" height="376" frameX="-47" frameY="-8" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10013" x="850" y="442" width="371" height="376" frameX="-47" frameY="-8" frameWidth="490" frameHeight="442"/>
+	<SubTexture name="watera instancia 10014" x="1221" y="442" width="381" height="398" frameX="-41" frameY="-8" frameWidth="490" frameHeight="442"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_dodge.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf_dodge_01 instancia 10000" x="0" y="0" width="704" height="429" frameX="0" frameY="-3" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10001" x="704" y="0" width="704" height="429" frameX="0" frameY="-3" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10002" x="1408" y="0" width="691" height="425" frameX="-14" frameY="-7" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10003" x="2099" y="0" width="691" height="425" frameX="-14" frameY="-7" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10004" x="2790" y="0" width="687" height="427" frameX="-22" frameY="-5" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10005" x="0" y="429" width="687" height="427" frameX="-22" frameY="-5" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10006" x="687" y="429" width="685" height="432" frameX="-22" frameY="0" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10007" x="1372" y="429" width="685" height="432" frameX="-22" frameY="0" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10008" x="2057" y="429" width="688" height="432" frameX="-18" frameY="0" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10009" x="2745" y="429" width="688" height="432" frameX="-18" frameY="0" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10010" x="0" y="861" width="690" height="432" frameX="-15" frameY="0" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10011" x="690" y="861" width="690" height="432" frameX="-15" frameY="0" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10012" x="1380" y="861" width="690" height="432" frameX="-15" frameY="0" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10013" x="0" y="861" width="690" height="432" frameX="-15" frameY="0" frameWidth="709" frameHeight="432"/>
+	<SubTexture name="bf_dodge_01 instancia 10014" x="690" y="861" width="690" height="432" frameX="-15" frameY="0" frameWidth="709" frameHeight="432"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BaseSheet.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BadRating instancia 10000" x="0" y="0" width="422" height="192"/>
+	<SubTexture name="GoodRating instancia 10000" x="422" y="0" width="477" height="192"/>
+	<SubTexture name="MissRating instancia 10000" x="0" y="192" width="422" height="192"/>
+	<SubTexture name="ShitRating instancia 10000" x="422" y="192" width="422" height="191"/>
+	<SubTexture name="SickRating instancia 10000" x="0" y="384" width="486" height="192"/>
+</TextureAtlas>

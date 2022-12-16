@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="randex_survivor.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="randex_LEFT instancia 10000" x="0" y="0" width="546" height="626" frameX="0" frameY="-26" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10001" x="0" y="0" width="546" height="626" frameX="0" frameY="-26" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10002" x="546" y="0" width="533" height="641" frameX="-3" frameY="-11" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10003" x="546" y="0" width="533" height="641" frameX="-3" frameY="-11" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10004" x="1079" y="0" width="525" height="651" frameX="-6" frameY="-1" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10005" x="1079" y="0" width="525" height="651" frameX="-6" frameY="-1" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10006" x="0" y="651" width="510" height="652" frameX="-11" frameY="0" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10007" x="0" y="651" width="510" height="652" frameX="-11" frameY="0" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10008" x="0" y="651" width="510" height="652" frameX="-11" frameY="0" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10009" x="0" y="651" width="510" height="652" frameX="-11" frameY="0" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10010" x="0" y="651" width="510" height="652" frameX="-11" frameY="0" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10011" x="0" y="651" width="510" height="652" frameX="-11" frameY="0" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10012" x="0" y="651" width="510" height="652" frameX="-11" frameY="0" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10013" x="0" y="651" width="510" height="652" frameX="-11" frameY="0" frameWidth="546" frameHeight="652"/>
+	<SubTexture name="randex_LEFT instancia 10014" x="0" y="651" width="510" height="652" frameX="-11" frameY="0" frameWidth="546" frameHeight="652"/>
+</TextureAtlas>

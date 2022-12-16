@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vikbill.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bill_pibby_l instancia 10000" x="0" y="0" width="232" height="184" frameX="-6" frameY="-10" frameWidth="243" frameHeight="219"/>
+	<SubTexture name="bill_pibby_l instancia 10001" x="232" y="0" width="226" height="188" frameX="-12" frameY="-7" frameWidth="243" frameHeight="219"/>
+	<SubTexture name="bill_pibby_l instancia 10002" x="458" y="0" width="212" height="219" frameX="-17" frameY="0" frameWidth="243" frameHeight="219"/>
+	<SubTexture name="bill_pibby_l instancia 10003" x="670" y="0" width="224" height="211" frameX="-9" frameY="-8" frameWidth="243" frameHeight="219"/>
+	<SubTexture name="bill_pibby_l instancia 10004" x="894" y="0" width="238" height="181" frameX="-5" frameY="-10" frameWidth="243" frameHeight="219"/>
+	<SubTexture name="bill_pibby_l instancia 10005" x="1132" y="0" width="243" height="178" frameX="0" frameY="-13" frameWidth="243" frameHeight="219"/>
+	<SubTexture name="bill_pibby_l instancia 10006" x="1375" y="0" width="232" height="184" frameX="-11" frameY="-7" frameWidth="243" frameHeight="219"/>
+	<SubTexture name="bill_pibby_l instancia 10007" x="1607" y="0" width="229" height="185" frameX="-14" frameY="-6" frameWidth="243" frameHeight="219"/>
+	<SubTexture name="bill_pibby_n instancia 10000" x="1836" y="0" width="203" height="188" frameX="-11" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10001" x="0" y="219" width="196" height="188" frameX="-18" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10002" x="196" y="219" width="209" height="186" frameX="-3" frameY="-2" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10003" x="405" y="219" width="212" height="188" frameX="0" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10004" x="617" y="219" width="211" height="188" frameX="0" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10005" x="828" y="219" width="209" height="188" frameX="-2" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10006" x="1037" y="219" width="209" height="188" frameX="-2" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10007" x="1246" y="219" width="200" height="188" frameX="-11" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10008" x="1446" y="219" width="200" height="188" frameX="-11" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10009" x="1646" y="219" width="193" height="188" frameX="-18" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10010" x="1839" y="219" width="193" height="188" frameX="-18" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10011" x="0" y="407" width="211" height="188" frameX="0" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10012" x="211" y="407" width="211" height="188" frameX="0" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10013" x="422" y="407" width="209" height="188" frameX="-2" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10014" x="631" y="407" width="209" height="188" frameX="-2" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10015" x="840" y="407" width="200" height="188" frameX="-11" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10016" x="1646" y="219" width="193" height="188" frameX="-18" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10017" x="1040" y="407" width="208" height="186" frameX="-3" frameY="-2" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10018" x="1248" y="407" width="211" height="188" frameX="0" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10019" x="1248" y="407" width="211" height="188" frameX="0" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10020" x="631" y="407" width="209" height="188" frameX="-2" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10021" x="631" y="407" width="209" height="188" frameX="-2" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10022" x="840" y="407" width="200" height="188" frameX="-11" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10023" x="840" y="407" width="200" height="188" frameX="-11" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_n instancia 10024" x="1646" y="219" width="193" height="188" frameX="-18" frameY="0" frameWidth="214" frameHeight="188"/>
+	<SubTexture name="bill_pibby_w instancia 10000" x="1459" y="407" width="191" height="184" frameX="-4" frameY="0" frameWidth="200" frameHeight="184"/>
+	<SubTexture name="bill_pibby_w instancia 10001" x="1650" y="407" width="182" height="184" frameX="-10" frameY="0" frameWidth="200" frameHeight="184"/>
+	<SubTexture name="bill_pibby_w instancia 10002" x="1832" y="407" width="195" height="180" frameX="-1" frameY="-4" frameWidth="200" frameHeight="184"/>
+	<SubTexture name="bill_pibby_w instancia 10003" x="0" y="595" width="186" height="176" frameX="-7" frameY="-8" frameWidth="200" frameHeight="184"/>
+	<SubTexture name="bill_pibby_w instancia 10004" x="186" y="595" width="194" height="176" frameX="-1" frameY="-8" frameWidth="200" frameHeight="184"/>
+	<SubTexture name="bill_pibby_w instancia 10005" x="380" y="595" width="183" height="176" frameX="-8" frameY="-8" frameWidth="200" frameHeight="184"/>
+	<SubTexture name="bill_pibby_w instancia 10006" x="563" y="595" width="196" height="176" frameX="0" frameY="-8" frameWidth="200" frameHeight="184"/>
+	<SubTexture name="bill_pibby_w instancia 10007" x="759" y="595" width="186" height="176" frameX="-14" frameY="-8" frameWidth="200" frameHeight="184"/>
+	<SubTexture name="bill_pibby_w instancia 10008" x="945" y="595" width="187" height="176" frameX="-5" frameY="-8" frameWidth="200" frameHeight="184"/>
+	<SubTexture name="bill_pibby_w instancia 10009" x="1132" y="595" width="179" height="176" frameX="-13" frameY="-8" frameWidth="200" frameHeight="184"/>
+</TextureAtlas>

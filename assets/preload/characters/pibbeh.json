@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				30,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-40,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-80,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibbeh",
+	"position": [
+		-460,
+		40
+	],
+	"healthicon": "pibbeh-icons",
+	"flip_x": true,
+	"healthbar_colors": [
+		153,
+		153,
+		255
+	],
+	"camera_position": [
+		-260,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

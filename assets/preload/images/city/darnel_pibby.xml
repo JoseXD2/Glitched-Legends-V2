@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="darnel_pibby.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="darnel instancia 10000" x="0" y="0" width="345" height="482" frameX="-19" frameY="-36" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10001" x="345" y="0" width="349" height="483" frameX="-19" frameY="-35" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10002" x="694" y="0" width="332" height="494" frameX="-15" frameY="-23" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10003" x="1026" y="0" width="374" height="495" frameX="-1" frameY="-22" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10004" x="1400" y="0" width="334" height="505" frameX="-12" frameY="-11" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10005" x="0" y="505" width="358" height="506" frameX="-12" frameY="-10" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10006" x="358" y="505" width="346" height="510" frameX="0" frameY="-6" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10007" x="358" y="505" width="346" height="510" frameX="0" frameY="-6" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10008" x="704" y="505" width="344" height="516" frameX="-2" frameY="0" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10009" x="704" y="505" width="344" height="516" frameX="-2" frameY="0" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10010" x="1048" y="505" width="336" height="516" frameX="-10" frameY="0" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10011" x="1048" y="505" width="336" height="516" frameX="-10" frameY="0" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10012" x="1384" y="505" width="337" height="516" frameX="-9" frameY="0" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10013" x="1384" y="505" width="337" height="516" frameX="-9" frameY="0" frameWidth="375" frameHeight="518"/>
+	<SubTexture name="darnel instancia 10014" x="1384" y="505" width="337" height="516" frameX="-9" frameY="0" frameWidth="375" frameHeight="518"/>
+</TextureAtlas>

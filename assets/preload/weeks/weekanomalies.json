@@ -1,0 +1,69 @@
+{
+	"storyName": "we can see you little friend",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "anomalies",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"purple-trial",
+			"inline_sans-pibby",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"markov",
+			"mony_corrupted",
+			[
+				14,
+				11,
+				25
+			]
+		],
+
+		[
+			"glitching-our-reality",
+			"icon-reality",
+			[
+				255,
+				255,
+				25
+			]
+		],
+		[
+			"fatal-darkness",
+			"dusttyicon_pibby",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"missing-anomalies",
+			"dt_corrupted",
+			[
+				0,
+				0,
+				-2147483648
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "darkness"
+}

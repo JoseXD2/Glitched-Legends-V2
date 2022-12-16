@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oldbar.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bar_remake instancia 10000" x="0" y="0" width="713" height="175" frameX="-9" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10001" x="713" y="0" width="713" height="175" frameX="-9" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10002" x="0" y="175" width="724" height="178" frameX="-9" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10003" x="724" y="175" width="733" height="178" frameX="0" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10004" x="0" y="353" width="758" height="181" frameX="0" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10005" x="758" y="353" width="754" height="181" frameX="-4" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10006" x="0" y="534" width="764" height="182" frameX="-4" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10007" x="764" y="534" width="758" height="182" frameX="-10" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10008" x="0" y="716" width="714" height="168" frameX="-10" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10009" x="714" y="716" width="715" height="168" frameX="-9" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10010" x="0" y="884" width="714" height="174" frameX="-9" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10011" x="714" y="884" width="714" height="174" frameX="-9" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10012" x="0" y="1058" width="714" height="174" frameX="-9" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10013" x="714" y="1058" width="723" height="170" frameX="0" frameY="0" frameWidth="768" frameHeight="182"/>
+	<SubTexture name="bar_remake instancia 10014" x="0" y="1232" width="723" height="170" frameX="0" frameY="0" frameWidth="768" frameHeight="182"/>
+</TextureAtlas>

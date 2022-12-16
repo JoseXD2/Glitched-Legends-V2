@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animatedredicon.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="red_l instancia 10000" x="0" y="0" width="165" height="161" frameX="-10" frameY="-4" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10001" x="165" y="0" width="175" height="165" frameX="-3" frameY="-4" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10002" x="340" y="0" width="177" height="159" frameX="-9" frameY="-7" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10003" x="517" y="0" width="162" height="161" frameX="0" frameY="0" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10004" x="679" y="0" width="167" height="164" frameX="0" frameY="0" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10005" x="846" y="0" width="157" height="163" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10006" x="846" y="0" width="157" height="163" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10007" x="0" y="165" width="157" height="166" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10008" x="0" y="165" width="157" height="166" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10009" x="157" y="165" width="157" height="163" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10010" x="157" y="165" width="157" height="163" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10011" x="846" y="0" width="157" height="163" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10012" x="846" y="0" width="157" height="163" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10013" x="0" y="165" width="157" height="166" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10014" x="0" y="165" width="157" height="166" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10015" x="157" y="165" width="157" height="163" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10016" x="157" y="165" width="157" height="163" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10017" x="846" y="0" width="157" height="163" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10018" x="846" y="0" width="157" height="163" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_l instancia 10019" x="0" y="165" width="157" height="166" frameX="-8" frameY="-1" frameWidth="186" frameHeight="169"/>
+	<SubTexture name="red_n instancia 10000" x="314" y="165" width="154" height="162" frameX="-2" frameY="-3" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10001" x="468" y="165" width="154" height="158" frameX="-2" frameY="-3" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10002" x="622" y="165" width="156" height="158" frameX="0" frameY="0" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10003" x="778" y="165" width="155" height="158" frameX="-1" frameY="-2" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10004" x="0" y="331" width="148" height="144" frameX="-8" frameY="-8" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10005" x="148" y="331" width="150" height="144" frameX="-8" frameY="-8" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10006" x="298" y="331" width="150" height="157" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10007" x="448" y="331" width="150" height="154" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10008" x="598" y="331" width="146" height="155" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10009" x="744" y="331" width="146" height="155" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10010" x="744" y="331" width="146" height="155" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10011" x="0" y="488" width="146" height="158" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10012" x="0" y="488" width="146" height="158" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10013" x="598" y="331" width="146" height="155" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10014" x="598" y="331" width="146" height="155" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10015" x="744" y="331" width="146" height="155" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10016" x="744" y="331" width="146" height="155" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10017" x="0" y="488" width="146" height="158" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10018" x="0" y="488" width="146" height="158" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10019" x="598" y="331" width="146" height="155" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10020" x="598" y="331" width="146" height="155" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10021" x="744" y="331" width="146" height="155" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10022" x="744" y="331" width="146" height="155" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10023" x="0" y="488" width="146" height="158" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_n instancia 10024" x="0" y="488" width="146" height="158" frameX="-5" frameY="-6" frameWidth="157" frameHeight="164"/>
+	<SubTexture name="red_w instancia 10000" x="146" y="488" width="160" height="159" frameX="-12" frameY="-11" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10001" x="306" y="488" width="151" height="159" frameX="-27" frameY="-11" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10002" x="457" y="488" width="150" height="159" frameX="-33" frameY="-11" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10003" x="607" y="488" width="141" height="166" frameX="-31" frameY="0" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10004" x="748" y="488" width="158" height="161" frameX="-19" frameY="-12" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10005" x="0" y="654" width="160" height="159" frameX="-5" frameY="-11" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10006" x="146" y="488" width="160" height="159" frameX="0" frameY="-11" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10007" x="160" y="654" width="151" height="159" frameX="-16" frameY="-11" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10008" x="457" y="488" width="150" height="159" frameX="-8" frameY="-11" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10009" x="146" y="488" width="160" height="159" frameX="-12" frameY="-11" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10010" x="306" y="488" width="151" height="159" frameX="-27" frameY="-11" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10011" x="311" y="654" width="147" height="151" frameX="-34" frameY="-7" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10012" x="458" y="654" width="157" height="163" frameX="-25" frameY="-14" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10013" x="615" y="654" width="152" height="163" frameX="-17" frameY="-11" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10014" x="0" y="654" width="160" height="159" frameX="-5" frameY="-11" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10015" x="146" y="488" width="160" height="159" frameX="0" frameY="-11" frameWidth="184" frameHeight="176"/>
+	<SubTexture name="red_w instancia 10016" x="160" y="654" width="151" height="159" frameX="-16" frameY="-11" frameWidth="184" frameHeight="176"/>
+</TextureAtlas>

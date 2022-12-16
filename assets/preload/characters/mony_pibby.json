@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mony_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				14
+			],
+			"anim": "singUP",
+			"fps": 32,
+			"name": "mony_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 32,
+			"name": "mony_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 32,
+			"name": "mony_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				260,
+				-4
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mony_left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mony_pibby",
+	"position": [
+		-40,
+		150
+	],
+	"healthicon": "mony_corrupted",
+	"flip_x": false,
+	"healthbar_colors": [
+		177,
+		255,
+		112
+	],
+	"camera_position": [
+		-150,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pvzbar.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aihfhfa instancia 10000" x="0" y="0" width="695" height="116" pivotX="4.7" pivotY="23.45" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10001" x="695" y="0" width="695" height="116" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10002" x="0" y="116" width="695" height="115" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10003" x="695" y="116" width="695" height="136" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10004" x="0" y="252" width="695" height="136" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10005" x="695" y="252" width="695" height="164" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10006" x="695" y="252" width="695" height="164" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10007" x="0" y="416" width="695" height="184"/>
+	<SubTexture name="aihfhfa instancia 10008" x="0" y="416" width="695" height="184"/>
+	<SubTexture name="aihfhfa instancia 10009" x="695" y="416" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10010" x="695" y="416" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10011" x="0" y="600" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10012" x="0" y="600" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10013" x="695" y="600" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10014" x="0" y="714" width="695" height="116" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10015" x="695" y="714" width="695" height="116" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10016" x="0" y="830" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10017" x="695" y="416" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10018" x="695" y="830" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10019" x="0" y="600" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10020" x="0" y="600" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10021" x="0" y="714" width="695" height="116" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10022" x="0" y="714" width="695" height="116" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10023" x="0" y="830" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+	<SubTexture name="aihfhfa instancia 10024" x="0" y="830" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184"/>
+</TextureAtlas>

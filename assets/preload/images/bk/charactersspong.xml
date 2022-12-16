@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="charactersspong.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="housespongecharac instancia 10000" x="0" y="0" width="1621" height="693" frameX="-1" frameY="-110" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10001" x="0" y="0" width="1621" height="693" frameX="-1" frameY="-110" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10002" x="1621" y="0" width="1608" height="742" frameX="0" frameY="-59" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10003" x="0" y="742" width="1605" height="742" frameX="-3" frameY="-59" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10004" x="1605" y="742" width="1585" height="782" frameX="0" frameY="-16" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10005" x="1605" y="742" width="1585" height="782" frameX="0" frameY="-16" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10006" x="0" y="1524" width="1609" height="798" frameX="0" frameY="0" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10007" x="0" y="1524" width="1609" height="798" frameX="0" frameY="0" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10008" x="1609" y="1524" width="1609" height="798" frameX="0" frameY="0" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10009" x="1609" y="1524" width="1609" height="798" frameX="0" frameY="0" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10010" x="0" y="2322" width="1609" height="798" frameX="0" frameY="0" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10011" x="0" y="2322" width="1609" height="798" frameX="0" frameY="0" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10012" x="0" y="1524" width="1609" height="798" frameX="0" frameY="0" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10013" x="0" y="1524" width="1609" height="798" frameX="0" frameY="0" frameWidth="1622" frameHeight="803"/>
+	<SubTexture name="housespongecharac instancia 10014" x="1609" y="1524" width="1609" height="798" frameX="0" frameY="0" frameWidth="1622" frameHeight="803"/>
+</TextureAtlas>

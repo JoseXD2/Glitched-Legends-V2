@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vick.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="charactersgravityf2 instancia 10000" x="0" y="0" width="658" height="760" frameX="-13" frameY="-44" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10001" x="0" y="0" width="658" height="760" frameX="-13" frameY="-44" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10002" x="658" y="0" width="669" height="757" frameX="-11" frameY="-43" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10003" x="658" y="0" width="669" height="757" frameX="-11" frameY="-43" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10004" x="1327" y="0" width="686" height="742" frameX="-25" frameY="-21" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10005" x="1327" y="0" width="686" height="742" frameX="-25" frameY="-21" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10006" x="2013" y="0" width="718" height="735" frameX="-14" frameY="-5" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10007" x="2013" y="0" width="718" height="735" frameX="-14" frameY="-5" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10008" x="2731" y="0" width="765" height="728" frameX="0" frameY="0" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10009" x="2731" y="0" width="765" height="728" frameX="0" frameY="0" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10010" x="0" y="760" width="738" height="728" frameX="-27" frameY="0" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10011" x="0" y="760" width="738" height="728" frameX="-27" frameY="0" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10012" x="738" y="760" width="737" height="728" frameX="-28" frameY="0" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10013" x="738" y="760" width="737" height="728" frameX="-28" frameY="0" frameWidth="765" frameHeight="804"/>
+	<SubTexture name="charactersgravityf2 instancia 10014" x="1475" y="760" width="735" height="728" frameX="-30" frameY="0" frameWidth="765" frameHeight="804"/>
+</TextureAtlas>

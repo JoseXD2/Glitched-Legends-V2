@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				350,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mony_pibby_idle instancia"
+		},
+		{
+			"offsets": [
+				480,
+				-60
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mony_pibby_left instancia "
+		},
+		{
+			"offsets": [
+				300,
+				-20
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mony_pibby_down instancia "
+		},
+		{
+			"offsets": [
+				130,
+				107
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mony_pibby_up instancia "
+		},
+		{
+			"offsets": [
+				160,
+				30
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mony_pibby_right instancia "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dtmony_pibby",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dt_corrupted",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-280,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

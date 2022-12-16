@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="squidwardanimatedicons.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="squid_l instancia 10000" x="0" y="0" width="159" height="137" frameX="0" frameY="0" frameWidth="165" frameHeight="137"/>
+	<SubTexture name="squid_l instancia 10001" x="159" y="0" width="151" height="137" frameX="-6" frameY="0" frameWidth="165" frameHeight="137"/>
+	<SubTexture name="squid_l instancia 10002" x="310" y="0" width="151" height="137" frameX="-6" frameY="0" frameWidth="165" frameHeight="137"/>
+	<SubTexture name="squid_l instancia 10003" x="461" y="0" width="146" height="137" frameX="-9" frameY="0" frameWidth="165" frameHeight="137"/>
+	<SubTexture name="squid_l instancia 10004" x="607" y="0" width="160" height="137" frameX="-5" frameY="0" frameWidth="165" frameHeight="137"/>
+	<SubTexture name="squid_l instancia 10005" x="767" y="0" width="159" height="137" frameX="0" frameY="0" frameWidth="165" frameHeight="137"/>
+	<SubTexture name="squid_l instancia 10006" x="0" y="137" width="159" height="137" frameX="0" frameY="0" frameWidth="165" frameHeight="137"/>
+	<SubTexture name="squid_l instancia 10007" x="159" y="137" width="151" height="137" frameX="-6" frameY="0" frameWidth="165" frameHeight="137"/>
+	<SubTexture name="squid_l instancia 10008" x="310" y="137" width="151" height="137" frameX="-6" frameY="0" frameWidth="165" frameHeight="137"/>
+	<SubTexture name="squid_n instancia 10000" x="461" y="137" width="139" height="156" frameX="-12" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10001" x="600" y="137" width="136" height="151" frameX="-15" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10002" x="736" y="137" width="137" height="151" frameX="-14" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10003" x="873" y="137" width="140" height="151" frameX="-11" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10004" x="0" y="293" width="149" height="153" frameX="-1" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10005" x="149" y="293" width="135" height="156" frameX="0" frameY="-1" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10006" x="284" y="293" width="144" height="152" frameX="-6" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10007" x="428" y="293" width="149" height="148" frameX="-1" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10008" x="577" y="293" width="137" height="151" frameX="-14" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10009" x="714" y="293" width="147" height="156" frameX="-3" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10010" x="861" y="293" width="139" height="156" frameX="-12" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10011" x="0" y="449" width="136" height="151" frameX="-15" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10012" x="136" y="449" width="137" height="151" frameX="-14" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10013" x="273" y="449" width="140" height="151" frameX="-11" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_n instancia 10014" x="413" y="449" width="149" height="153" frameX="-1" frameY="0" frameWidth="150" frameHeight="157"/>
+	<SubTexture name="squid_w instancia 10000" x="562" y="449" width="139" height="161" frameX="-11" frameY="0" frameWidth="152" frameHeight="161"/>
+	<SubTexture name="squid_w instancia 10001" x="701" y="449" width="141" height="161" frameX="-11" frameY="0" frameWidth="152" frameHeight="161"/>
+	<SubTexture name="squid_w instancia 10002" x="842" y="449" width="141" height="161" frameX="-6" frameY="0" frameWidth="152" frameHeight="161"/>
+	<SubTexture name="squid_w instancia 10003" x="0" y="610" width="142" height="161" frameX="-10" frameY="0" frameWidth="152" frameHeight="161"/>
+	<SubTexture name="squid_w instancia 10004" x="142" y="610" width="142" height="161" frameX="-2" frameY="0" frameWidth="152" frameHeight="161"/>
+	<SubTexture name="squid_w instancia 10005" x="284" y="610" width="139" height="161" frameX="-9" frameY="0" frameWidth="152" frameHeight="161"/>
+	<SubTexture name="squid_w instancia 10006" x="423" y="610" width="139" height="161" frameX="-2" frameY="0" frameWidth="152" frameHeight="161"/>
+	<SubTexture name="squid_w instancia 10007" x="562" y="610" width="148" height="161" frameX="0" frameY="0" frameWidth="152" frameHeight="161"/>
+</TextureAtlas>

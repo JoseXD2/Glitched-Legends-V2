@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="survivor_chuk.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chuk-survivor instancia 10000" x="0" y="0" width="437" height="349" pivotX="67.45" pivotY="-3.25" frameX="-2" frameY="0" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10001" x="0" y="0" width="437" height="349" frameX="-2" frameY="0" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10002" x="437" y="0" width="428" height="342" frameX="0" frameY="-7" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10003" x="437" y="0" width="428" height="342" frameX="0" frameY="-7" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10004" x="0" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10005" x="0" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10006" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10007" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10008" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10009" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10010" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10011" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10012" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10013" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10014" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10015" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10016" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10017" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10018" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10019" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10020" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10021" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10022" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10023" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+	<SubTexture name="chuk-survivor instancia 10024" x="396" y="349" width="396" height="329" frameX="-26" frameY="-19" frameWidth="439" frameHeight="349"/>
+</TextureAtlas>

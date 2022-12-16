@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "robin_pibby_idle"
+		},
+		{
+			"offsets": [
+				-40,
+				-50
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "robin_pibby_left"
+		},
+		{
+			"offsets": [
+				-140,
+				-70
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "robin_pibby_down"
+		},
+		{
+			"offsets": [
+				-170,
+				0
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "robin_pibby_right"
+		},
+		{
+			"offsets": [
+				-210,
+				-20
+			],
+			"loop": false,
+			"fps": 33,
+			"anim": "singUP",
+			"indices": [],
+			"name": "robin_pibby_up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 140,
+			"anim": "attack",
+			"loop": false,
+			"name": "robin_pibby_attack_long"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/robin_pibby",
+	"position": [
+		-350,
+		160
+	],
+	"healthicon": "robin_icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		202,
+		36,
+		53
+	],
+	"camera_position": [
+		40,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

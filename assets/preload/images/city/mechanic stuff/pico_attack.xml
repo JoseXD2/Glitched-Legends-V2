@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico_attack.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="picor_pibby_attack instancia 10000" x="0" y="0" width="453" height="468" frameX="0" frameY="-180" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10001" x="0" y="0" width="453" height="468" frameX="0" frameY="-180" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10002" x="453" y="0" width="442" height="470" frameX="-4" frameY="-178" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10003" x="453" y="0" width="442" height="470" frameX="-4" frameY="-178" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10004" x="895" y="0" width="425" height="488" frameX="-9" frameY="-164" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10005" x="895" y="0" width="425" height="488" frameX="-9" frameY="-164" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10006" x="1320" y="0" width="321" height="652" frameX="-15" frameY="0" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10007" x="1320" y="0" width="321" height="652" frameX="-15" frameY="0" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10008" x="1641" y="0" width="317" height="648" frameX="-15" frameY="0" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10009" x="1641" y="0" width="317" height="648" frameX="-15" frameY="0" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10010" x="1641" y="0" width="317" height="648" frameX="-15" frameY="0" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10011" x="1641" y="0" width="317" height="648" frameX="-15" frameY="0" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10012" x="1641" y="0" width="317" height="648" frameX="-15" frameY="0" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10013" x="1641" y="0" width="317" height="648" frameX="-15" frameY="0" frameWidth="453" frameHeight="652"/>
+	<SubTexture name="picor_pibby_attack instancia 10014" x="1641" y="0" width="317" height="648" frameX="-15" frameY="0" frameWidth="453" frameHeight="652"/>
+</TextureAtlas>

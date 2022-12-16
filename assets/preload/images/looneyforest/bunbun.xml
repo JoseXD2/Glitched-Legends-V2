@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bunbun.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BUNBUN instancia 10000" x="0" y="0" width="693" height="512" frameX="-58" frameY="-105" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10001" x="0" y="0" width="693" height="512" frameX="-58" frameY="-105" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10002" x="693" y="0" width="713" height="541" frameX="-37" frameY="-75" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10003" x="693" y="0" width="713" height="541" frameX="-37" frameY="-75" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10004" x="1406" y="0" width="712" height="565" frameX="-36" frameY="-50" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10005" x="1406" y="0" width="712" height="565" frameX="-36" frameY="-50" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10006" x="2118" y="0" width="723" height="599" frameX="-5" frameY="-19" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10007" x="2118" y="0" width="723" height="599" frameX="-5" frameY="-19" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10008" x="2841" y="0" width="748" height="631" frameX="0" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10009" x="2841" y="0" width="748" height="631" frameX="0" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10010" x="0" y="631" width="690" height="617" frameX="-58" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10011" x="0" y="631" width="690" height="617" frameX="-58" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10012" x="690" y="631" width="711" height="616" frameX="-37" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10013" x="690" y="631" width="711" height="616" frameX="-37" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10014" x="1401" y="631" width="712" height="615" frameX="-36" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10015" x="1401" y="631" width="712" height="615" frameX="-36" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10016" x="2113" y="631" width="743" height="618" frameX="-5" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10017" x="2113" y="631" width="743" height="618" frameX="-5" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10018" x="2841" y="0" width="748" height="631" frameX="0" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10019" x="2841" y="0" width="748" height="631" frameX="0" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10020" x="0" y="631" width="690" height="617" frameX="-58" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10021" x="0" y="631" width="690" height="617" frameX="-58" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10022" x="690" y="631" width="711" height="616" frameX="-37" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10023" x="690" y="631" width="711" height="616" frameX="-37" frameY="0" frameWidth="751" frameHeight="631"/>
+	<SubTexture name="BUNBUN instancia 10024" x="1401" y="631" width="712" height="615" frameX="-36" frameY="0" frameWidth="751" frameHeight="631"/>
+</TextureAtlas>

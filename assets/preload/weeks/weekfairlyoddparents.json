@@ -1,0 +1,50 @@
+{
+	"storyName": "vicky is here!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "fairlyoddparents",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"worth-wishing-for",
+			"tymmy",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"last-wish",
+			"tymmy",
+			[
+				255,
+				113,
+				253
+			]
+		],
+
+		[
+			"wish-come-true-v2",
+			"timvickicon",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "channel chasers"
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bestfriendsaniamted.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="plauser_w copia copia instancia 10000" x="0" y="0" width="246" height="216" frameX="0" frameY="-6" frameWidth="253" frameHeight="222"/>
+	<SubTexture name="plauser_w copia copia instancia 10001" x="246" y="0" width="247" height="218" frameX="0" frameY="-2" frameWidth="253" frameHeight="222"/>
+	<SubTexture name="plauser_w copia copia instancia 10002" x="493" y="0" width="236" height="219" frameX="0" frameY="-2" frameWidth="253" frameHeight="222"/>
+	<SubTexture name="plauser_w copia copia instancia 10003" x="729" y="0" width="242" height="219" frameX="0" frameY="-1" frameWidth="253" frameHeight="222"/>
+	<SubTexture name="plauser_w copia copia instancia 10004" x="971" y="0" width="253" height="221" frameX="0" frameY="0" frameWidth="253" frameHeight="222"/>
+	<SubTexture name="plauser_w copia copia instancia 10005" x="1224" y="0" width="246" height="219" frameX="0" frameY="-1" frameWidth="253" frameHeight="222"/>
+	<SubTexture name="plauser_w copia copia instancia 10006" x="1470" y="0" width="239" height="221" frameX="0" frameY="-1" frameWidth="253" frameHeight="222"/>
+	<SubTexture name="plauser_w copia copia instancia 10007" x="1709" y="0" width="241" height="218" frameX="0" frameY="-2" frameWidth="253" frameHeight="222"/>
+	<SubTexture name="plauser_w copia copia instancia 10008" x="0" y="221" width="237" height="219" frameX="0" frameY="-2" frameWidth="253" frameHeight="222"/>
+	<SubTexture name="plauser_w copia copia instancia 10009" x="237" y="221" width="241" height="218" frameX="0" frameY="-2" frameWidth="253" frameHeight="222"/>
+	<SubTexture name="r_n copia 2 copia instancia 10000" x="478" y="221" width="222" height="193" frameX="-13" frameY="-16" frameWidth="240" frameHeight="229"/>
+	<SubTexture name="r_n copia 2 copia instancia 10001" x="700" y="221" width="221" height="193" frameX="-14" frameY="-16" frameWidth="240" frameHeight="229"/>
+	<SubTexture name="r_n copia 2 copia instancia 10002" x="921" y="221" width="235" height="220" frameX="0" frameY="-9" frameWidth="240" frameHeight="229"/>
+	<SubTexture name="r_n copia 2 copia instancia 10003" x="1156" y="221" width="215" height="193" frameX="-20" frameY="-16" frameWidth="240" frameHeight="229"/>
+	<SubTexture name="r_n copia 2 copia instancia 10004" x="1371" y="221" width="224" height="209" frameX="-11" frameY="0" frameWidth="240" frameHeight="229"/>
+	<SubTexture name="r_n copia 2 copia instancia 10005" x="1595" y="221" width="221" height="193" frameX="-5" frameY="-16" frameWidth="240" frameHeight="229"/>
+	<SubTexture name="r_n copia 2 copia instancia 10006" x="1816" y="221" width="225" height="193" frameX="-15" frameY="-16" frameWidth="240" frameHeight="229"/>
+	<SubTexture name="r_n copia 2 copia instancia 10007" x="0" y="441" width="227" height="193" frameX="-8" frameY="-16" frameWidth="240" frameHeight="229"/>
+	<SubTexture name="r_n copia 2 copia instancia 10008" x="227" y="441" width="217" height="193" frameX="-18" frameY="-16" frameWidth="240" frameHeight="229"/>
+	<SubTexture name="r_n copia 2 copia instancia 10009" x="444" y="441" width="213" height="194" frameX="-22" frameY="-15" frameWidth="240" frameHeight="229"/>
+	<SubTexture name="r_normal instancia 10000" x="657" y="441" width="223" height="207" frameX="-3" frameY="0" frameWidth="239" frameHeight="213"/>
+	<SubTexture name="r_normal instancia 10001" x="880" y="441" width="223" height="207" frameX="-3" frameY="0" frameWidth="239" frameHeight="213"/>
+	<SubTexture name="r_normal instancia 10002" x="1103" y="441" width="236" height="207" frameX="-3" frameY="0" frameWidth="239" frameHeight="213"/>
+	<SubTexture name="r_normal instancia 10003" x="1339" y="441" width="220" height="207" frameX="-6" frameY="0" frameWidth="239" frameHeight="213"/>
+	<SubTexture name="r_normal instancia 10004" x="1559" y="441" width="225" height="207" frameX="-1" frameY="0" frameWidth="239" frameHeight="213"/>
+	<SubTexture name="r_normal instancia 10005" x="1784" y="441" width="226" height="209" frameX="0" frameY="0" frameWidth="239" frameHeight="213"/>
+	<SubTexture name="r_normal instancia 10006" x="0" y="650" width="222" height="209" frameX="-4" frameY="0" frameWidth="239" frameHeight="213"/>
+	<SubTexture name="r_normal instancia 10007" x="222" y="650" width="222" height="213" frameX="-4" frameY="0" frameWidth="239" frameHeight="213"/>
+	<SubTexture name="r_normal instancia 10008" x="444" y="650" width="225" height="213" frameX="-1" frameY="0" frameWidth="239" frameHeight="213"/>
+	<SubTexture name="r_normal instancia 10009" x="669" y="650" width="223" height="207" frameX="-3" frameY="0" frameWidth="239" frameHeight="213"/>
+</TextureAtlas>

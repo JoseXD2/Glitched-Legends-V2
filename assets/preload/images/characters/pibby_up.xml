@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pibby_up.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pibby_down instancia 10000" x="742" y="2312" width="363" height="305" pivotX="-913.15" pivotY="-453.9" frameX="0" frameY="0" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10001" x="742" y="2312" width="363" height="305" frameX="0" frameY="0" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10002" x="2199" y="342" width="366" height="303" frameX="-22" frameY="-4" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10003" x="2214" y="2301" width="366" height="303" frameX="-22" frameY="-4" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10004" x="2388" y="1990" width="361" height="311" frameX="-42" frameY="-11" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10005" x="2388" y="1990" width="361" height="311" frameX="-42" frameY="-11" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10006" x="2749" y="1990" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10007" x="2749" y="1990" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10008" x="2749" y="1990" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10009" x="909" y="2002" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10010" x="909" y="2002" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10011" x="909" y="2002" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10012" x="1856" y="2010" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10013" x="1856" y="2010" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10014" x="1856" y="2010" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10015" x="384" y="2048" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10016" x="384" y="2048" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10017" x="3107" y="2061" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10018" x="3465" y="2062" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10019" x="0" y="2109" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10020" x="0" y="2109" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10021" x="1267" y="2270" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10022" x="1267" y="2270" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10023" x="1267" y="2270" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_down instancia 10024" x="2749" y="2300" width="358" height="310" frameX="-42" frameY="-12" frameWidth="403" frameHeight="322"/>
+	<SubTexture name="pibby_idle instancia 10000" x="2388" y="1659" width="452" height="331" pivotX="-817.6" pivotY="-407.95" frameX="-46" frameY="-6" frameWidth="517" frameHeight="337"/>
+	<SubTexture name="pibby_idle instancia 10001" x="2840" y="1659" width="452" height="331" frameX="-46" frameY="-6" frameWidth="517" frameHeight="337"/>
+	<SubTexture name="pibby_idle instancia 10002" x="1490" y="1628" width="474" height="334" frameX="-31" frameY="-3" frameWidth="517" frameHeight="337"/>
+	<SubTexture name="pibby_idle instancia 10003" x="1490" y="1628" width="474" height="334" frameX="-31" frameY="-3" frameWidth="517" frameHeight="337"/>
+	<SubTexture name="pibby_idle instancia 10004" x="0" y="1463" width="509" height="337" frameX="-3" frameY="0" frameWidth="517" frameHeight="337"/>
+	<SubTexture name="pibby_idle instancia 10005" x="0" y="1463" width="509" height="337" frameX="-3" frameY="0" frameWidth="517" frameHeight="337"/>
+	<SubTexture name="pibby_idle instancia 10006" x="1474" y="954" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10007" x="1474" y="954" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10008" x="1991" y="978" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10009" x="2508" y="985" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10010" x="3025" y="985" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10011" x="3025" y="985" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10012" x="3025" y="985" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10013" x="3542" y="1079" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10014" x="3542" y="1079" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10015" x="0" y="1126" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10016" x="1474" y="1291" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10017" x="1991" y="1315" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10018" x="1991" y="1315" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10019" x="2508" y="1322" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10020" x="2508" y="1322" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10021" x="3025" y="1322" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10022" x="517" y="1354" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10023" x="517" y="1354" width="517" height="337"/>
+	<SubTexture name="pibby_idle instancia 10024" x="3542" y="1416" width="517" height="337"/>
+	<SubTexture name="pibby_left instancia 10000" x="3304" y="336" width="558" height="343" pivotX="-1081.45" pivotY="-416.55" frameX="-11" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10001" x="3304" y="336" width="558" height="343" frameX="-11" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10002" x="2163" y="0" width="566" height="342" frameX="-7" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10003" x="2163" y="0" width="566" height="342" frameX="-7" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10004" x="2729" y="0" width="575" height="336" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10005" x="2729" y="0" width="575" height="336" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10006" x="1013" y="0" width="575" height="342" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10007" x="1013" y="0" width="575" height="342" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10008" x="438" y="0" width="575" height="348"/>
+	<SubTexture name="pibby_left instancia 10009" x="438" y="0" width="575" height="348"/>
+	<SubTexture name="pibby_left instancia 10010" x="1588" y="0" width="575" height="341" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10011" x="1588" y="0" width="575" height="341" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10012" x="1588" y="0" width="575" height="341" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10013" x="3304" y="0" width="575" height="336" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10014" x="3304" y="0" width="575" height="336" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10015" x="3304" y="0" width="575" height="336" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10016" x="3304" y="0" width="575" height="336" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10017" x="3304" y="0" width="575" height="336" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10018" x="3304" y="0" width="575" height="336" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10019" x="2729" y="336" width="575" height="336" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10020" x="2729" y="336" width="575" height="336" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10021" x="1013" y="0" width="575" height="342" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10022" x="1013" y="0" width="575" height="342" frameX="0" frameY="0" frameWidth="575" frameHeight="348"/>
+	<SubTexture name="pibby_left instancia 10023" x="438" y="0" width="575" height="348"/>
+	<SubTexture name="pibby_left instancia 10024" x="438" y="0" width="575" height="348"/>
+	<SubTexture name="pibby_right instancia 10000" x="3292" y="1753" width="400" height="308" pivotX="-852.8" pivotY="-432.15" frameX="0" frameY="-7" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10001" x="3292" y="1753" width="400" height="308" frameX="0" frameY="-7" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10002" x="3692" y="1753" width="384" height="309" frameX="-8" frameY="-4" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10003" x="0" y="1800" width="384" height="309" frameX="-8" frameY="-4" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10004" x="1490" y="1962" width="366" height="308" frameX="-11" frameY="0" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10005" x="1490" y="1962" width="366" height="308" frameX="-11" frameY="0" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10006" x="0" y="0" width="438" height="514" frameX="-69" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10007" x="0" y="0" width="438" height="514" frameX="-69" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10008" x="1013" y="342" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10009" x="1606" y="342" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10010" x="0" y="514" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10011" x="0" y="514" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10012" x="593" y="648" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10013" x="593" y="648" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10014" x="1186" y="648" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10015" x="1186" y="648" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10016" x="1186" y="648" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10017" x="1779" y="648" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10018" x="2372" y="672" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10019" x="2372" y="672" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10020" x="2372" y="672" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10021" x="2965" y="679" width="592" height="306" frameX="-91" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10022" x="2965" y="679" width="592" height="306" frameX="-91" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10023" x="0" y="820" width="592" height="306" frameX="-91" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_right instancia 10024" x="1013" y="342" width="593" height="306" frameX="-90" frameY="-2" frameWidth="683" frameHeight="516"/>
+	<SubTexture name="pibby_up instancia 10000" x="1034" y="1628" width="456" height="374" pivotX="-875.25" pivotY="-344.3" frameX="0" frameY="-65" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10001" x="1034" y="1628" width="456" height="374" frameX="0" frameY="-65" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10002" x="1964" y="1652" width="424" height="358" frameX="-18" frameY="-43" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10003" x="1964" y="1652" width="424" height="358" frameX="-18" frameY="-43" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10004" x="509" y="1691" width="400" height="357" frameX="-62" frameY="-43" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10005" x="509" y="1691" width="400" height="357" frameX="-62" frameY="-43" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10006" x="3557" y="679" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10007" x="3557" y="679" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10008" x="592" y="954" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10009" x="592" y="954" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10010" x="1033" y="954" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10011" x="1033" y="954" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10012" x="3557" y="679" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10013" x="3557" y="679" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10014" x="592" y="954" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10015" x="592" y="954" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10016" x="1033" y="954" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10017" x="1033" y="954" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10018" x="3557" y="679" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10019" x="3557" y="679" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10020" x="592" y="954" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10021" x="592" y="954" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10022" x="1033" y="954" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10023" x="1033" y="954" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+	<SubTexture name="pibby_up instancia 10024" x="3557" y="679" width="441" height="400" frameX="-53" frameY="0" frameWidth="494" frameHeight="439"/>
+</TextureAtlas>

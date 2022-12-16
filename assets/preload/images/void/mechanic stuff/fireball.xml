@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fireball.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fire instancia 10000" x="1408" y="494" width="668" height="463" frameX="-190" frameY="-24" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire instancia 10001" x="1408" y="494" width="668" height="463" frameX="-190" frameY="-24" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire instancia 10002" x="0" y="0" width="795" height="482" frameX="-76" frameY="-18" frameWidth="891" frameHeight="515"/>
+	<SubTexture name="fire instancia 10003" x="0" y="0" width="795" height="482" frameX="-76" frameY="-18" frameWidth="891" frameHeight="515"/>
+	<SubTexture name="fire instancia 10004" x="795" y="0" width="750" height="462" frameX="-118" frameY="-29" frameWidth="891" frameHeight="515"/>
+	<SubTexture name="fire instancia 10005" x="795" y="0" width="750" height="462" frameX="-118" frameY="-29" frameWidth="891" frameHeight="515"/>
+	<SubTexture name="fire instancia 10006" x="1545" y="0" width="830" height="468" frameX="-43" frameY="-25" frameWidth="891" frameHeight="515"/>
+	<SubTexture name="fire instancia 10007" x="1545" y="0" width="830" height="468" frameX="-43" frameY="-25" frameWidth="891" frameHeight="515"/>
+	<SubTexture name="fire instancia 10008" x="2375" y="0" width="819" height="494" frameX="-53" frameY="0" frameWidth="891" frameHeight="515"/>
+	<SubTexture name="fire instancia 10009" x="2375" y="0" width="819" height="494" frameX="-53" frameY="0" frameWidth="891" frameHeight="515"/>
+	<SubTexture name="fire instancia 10010" x="3194" y="0" width="882" height="459" frameX="0" frameY="-56" frameWidth="891" frameHeight="515"/>
+	<SubTexture name="fire instancia 10011" x="3194" y="0" width="882" height="459" frameX="0" frameY="-56" frameWidth="891" frameHeight="515"/>
+	<SubTexture name="fire instancia 10012" x="0" y="494" width="739" height="474" frameX="-152" frameY="-34" frameWidth="891" frameHeight="515"/>
+	<SubTexture name="fire instancia 10013" x="0" y="494" width="739" height="474" frameX="-152" frameY="-34" frameWidth="891" frameHeight="515"/>
+	<SubTexture name="fire instancia 10014" x="739" y="494" width="669" height="465" frameX="-210" frameY="-39" frameWidth="891" frameHeight="515"/>
+	<SubTexture name="fire_splash instancia 10000" x="1408" y="494" width="668" height="463" frameX="0" frameY="0" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10001" x="1408" y="494" width="668" height="463" frameX="0" frameY="0" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10002" x="2076" y="494" width="541" height="407" frameX="-131" frameY="-51" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10003" x="2076" y="494" width="541" height="407" frameX="-131" frameY="-51" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10004" x="2617" y="494" width="380" height="457" frameX="-297" frameY="-1" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10005" x="2617" y="494" width="380" height="457" frameX="-297" frameY="-1" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10006" x="2997" y="494" width="395" height="436" frameX="-411" frameY="-51" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10007" x="2997" y="494" width="395" height="436" frameX="-411" frameY="-51" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10008" x="3392" y="494" width="392" height="425" frameX="-385" frameY="-53" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10009" x="3392" y="494" width="392" height="425" frameX="-385" frameY="-53" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10010" x="3784" y="494" width="254" height="356" frameX="-449" frameY="-94" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10011" x="3784" y="494" width="254" height="356" frameX="-449" frameY="-94" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10012" x="0" y="968" width="170" height="188" frameX="-511" frameY="-198" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10013" x="0" y="968" width="170" height="188" frameX="-511" frameY="-198" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10014" x="170" y="968" width="0" height="0" frameX="-131" frameY="479" frameWidth="805" frameHeight="486"/>
+	<SubTexture name="fire_splash instancia 10015" x="170" y="968" width="0" height="0" frameX="-131" frameY="479" frameWidth="805" frameHeight="486"/>
+</TextureAtlas>

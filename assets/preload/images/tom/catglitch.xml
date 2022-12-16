@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="catglitch.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="black instancia 10000" x="0" y="0" width="793" height="596" frameX="-42" frameY="-67" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10001" x="793" y="0" width="793" height="613" frameX="-42" frameY="-50" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10002" x="1586" y="0" width="790" height="617" frameX="-50" frameY="-44" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10003" x="2376" y="0" width="790" height="617" frameX="-50" frameY="-44" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10004" x="3166" y="0" width="818" height="637" frameX="-12" frameY="-27" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10005" x="3166" y="0" width="818" height="637" frameX="-12" frameY="-27" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10006" x="0" y="637" width="801" height="671" frameX="0" frameY="-8" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10007" x="0" y="637" width="801" height="671" frameX="0" frameY="-8" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10008" x="801" y="637" width="758" height="688" frameX="-43" frameY="0" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10009" x="801" y="637" width="758" height="688" frameX="-43" frameY="0" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10010" x="1559" y="637" width="756" height="688" frameX="-45" frameY="0" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10011" x="1559" y="637" width="756" height="688" frameX="-45" frameY="0" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10012" x="2315" y="637" width="727" height="696" frameX="-74" frameY="0" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10013" x="2315" y="637" width="727" height="696" frameX="-74" frameY="0" frameWidth="840" frameHeight="696"/>
+	<SubTexture name="black instancia 10014" x="2315" y="637" width="727" height="696" frameX="-74" frameY="0" frameWidth="840" frameHeight="696"/>
+</TextureAtlas>

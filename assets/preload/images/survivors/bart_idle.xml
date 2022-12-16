@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bart_idle.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bart_idle instancia 10000" x="0" y="0" width="299" height="553" frameX="-12" frameY="-27" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10001" x="0" y="0" width="299" height="553" frameX="-12" frameY="-27" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10002" x="299" y="0" width="309" height="564" frameX="-3" frameY="-15" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10003" x="299" y="0" width="309" height="564" frameX="-3" frameY="-15" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10004" x="608" y="0" width="311" height="579" frameX="0" frameY="0" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10005" x="608" y="0" width="311" height="579" frameX="0" frameY="0" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10006" x="608" y="0" width="311" height="579" frameX="0" frameY="0" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10007" x="608" y="0" width="311" height="579" frameX="0" frameY="0" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10008" x="608" y="0" width="311" height="579" frameX="0" frameY="0" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10009" x="608" y="0" width="311" height="579" frameX="0" frameY="0" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10010" x="608" y="0" width="311" height="579" frameX="0" frameY="0" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10011" x="608" y="0" width="311" height="579" frameX="0" frameY="0" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10012" x="608" y="0" width="311" height="579" frameX="0" frameY="0" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10013" x="608" y="0" width="311" height="579" frameX="0" frameY="0" frameWidth="312" frameHeight="580"/>
+	<SubTexture name="bart_idle instancia 10014" x="608" y="0" width="311" height="579" frameX="0" frameY="0" frameWidth="312" frameHeight="580"/>
+</TextureAtlas>

@@ -1,0 +1,94 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "void",
+		"player1": "bf_10",
+		"player2": "bencorrupted",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"cnimage",
+						"cn_logo",
+						"500000"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				64655.1724137931,
+				[
+					[
+						"startcountdown",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79344.8275862069,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				79448.2758620689,
+				[
+					[
+						"cinematic",
+						"a",
+						""
+					]
+				]
+			],
+			[
+				105827.586206896,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				105931.034482759,
+				[
+					[
+						"cinematic",
+						"b",
+						""
+					]
+				]
+			],
+			[
+				172241.379310345,
+				[
+					[
+						"Black flash",
+						"",
+						"12"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 145,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "upgraded"
+	}
+}

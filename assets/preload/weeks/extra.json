@@ -1,0 +1,59 @@
+{
+	"storyName": "presion de ideas",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "pressure",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ideas-pressure",
+			"dusty-icon",
+			[
+				55,
+				233,
+				253
+			]
+        ],
+        [
+			"dimensional-chaos",
+			"bill_vicky_icon",
+			[
+				2,
+				1,
+				25
+			]
+		],
+		[
+			"suffering-of-a-titan",
+			"robin_icon",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"static-reality",
+			"reality",
+			[
+				14,
+				11,
+				25
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "ded",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "fred",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"lost-to-time",
+			"fred_icon",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"stone-heart",
+			"fred_icon",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dark-prehistory",
+			"fred_icon",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="windowseyes.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="windows01entry instancia 10000" x="1401" y="319" width="87" height="61" frameX="-115" frameY="-2" frameWidth="581" frameHeight="240"/>
+	<SubTexture name="windows01entry instancia 10001" x="1401" y="380" width="78" height="57" frameX="-124" frameY="-2" frameWidth="581" frameHeight="240"/>
+	<SubTexture name="windows01entry instancia 10002" x="0" y="1590" width="373" height="240" frameX="-104" frameY="0" frameWidth="581" frameHeight="240"/>
+	<SubTexture name="windows01entry instancia 10003" x="1401" y="1590" width="581" height="81" frameX="0" frameY="-78" frameWidth="581" frameHeight="240"/>
+	<SubTexture name="windows02idle instancia 10000" x="1521" y="0" width="467" height="318" frameX="-48" frameY="-32" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10001" x="0" y="318" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10002" x="467" y="318" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10003" x="1521" y="318" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10004" x="1521" y="318" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10005" x="934" y="319" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10006" x="934" y="319" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10007" x="0" y="636" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10008" x="467" y="636" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10009" x="1401" y="636" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10010" x="1401" y="636" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10011" x="559" y="0" width="495" height="318" frameX="-20" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10012" x="934" y="637" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10013" x="1054" y="0" width="467" height="319" frameX="-48" frameY="0" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10014" x="0" y="954" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10015" x="467" y="954" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10016" x="467" y="954" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10017" x="1401" y="954" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10018" x="1401" y="954" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10019" x="934" y="955" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10020" x="934" y="955" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10021" x="0" y="1272" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10022" x="0" y="1272" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10023" x="0" y="0" width="559" height="318" frameX="0" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10024" x="467" y="1272" width="467" height="318" frameX="-46" frameY="-7" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10025" x="1401" y="1272" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10026" x="1401" y="1272" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10027" x="934" y="1273" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10028" x="934" y="1273" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows02idle instancia 10029" x="934" y="1273" width="467" height="318" frameX="-48" frameY="-15" frameWidth="559" frameHeight="350"/>
+	<SubTexture name="windows03byebye instancia 10000" x="373" y="1590" width="238" height="157" frameX="-27" frameY="-7" frameWidth="288" frameHeight="177"/>
+	<SubTexture name="windows03byebye instancia 10001" x="611" y="1590" width="238" height="157" frameX="-27" frameY="-7" frameWidth="288" frameHeight="177"/>
+	<SubTexture name="windows03byebye instancia 10002" x="849" y="1591" width="194" height="57" frameX="-53" frameY="-44" frameWidth="288" frameHeight="177"/>
+	<SubTexture name="windows03byebye instancia 10003" x="1043" y="1591" width="194" height="57" frameX="-53" frameY="-44" frameWidth="288" frameHeight="177"/>
+	<SubTexture name="windows03byebye instancia 10004" x="0" y="0" width="0" height="0" frameX="106" frameY="419" frameWidth="288" frameHeight="177"/>
+	<SubTexture name="windows03byebye instancia 10005" x="0" y="0" width="0" height="0" frameX="106" frameY="419" frameWidth="288" frameHeight="177"/>
+</TextureAtlas>

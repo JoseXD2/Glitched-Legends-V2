@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portal.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="portalraven instancia 10000" x="0" y="0" width="763" height="659" frameX="-147" frameY="-71" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10001" x="0" y="0" width="763" height="659" frameX="-147" frameY="-71" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10002" x="763" y="0" width="772" height="686" frameX="-128" frameY="-55" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10003" x="763" y="0" width="772" height="686" frameX="-128" frameY="-55" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10004" x="1535" y="0" width="782" height="663" frameX="-127" frameY="-81" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10005" x="1535" y="0" width="782" height="663" frameX="-127" frameY="-81" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10006" x="2317" y="0" width="636" height="721" frameX="-189" frameY="-76" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10007" x="2317" y="0" width="636" height="721" frameX="-189" frameY="-76" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10008" x="2953" y="0" width="640" height="694" frameX="-175" frameY="-98" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10009" x="0" y="721" width="702" height="858" frameX="-141" frameY="-25" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10010" x="702" y="721" width="829" height="792" frameX="0" frameY="-35" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10011" x="1531" y="721" width="786" height="818" frameX="-46" frameY="-23" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10012" x="2317" y="721" width="829" height="714" frameX="-30" frameY="-76" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10013" x="3146" y="721" width="852" height="686" frameX="-16" frameY="-74" frameWidth="910" frameHeight="883"/>
+	<SubTexture name="portalraven instancia 10014" x="3146" y="721" width="852" height="686" frameX="-16" frameY="-74" frameWidth="910" frameHeight="883"/>
+</TextureAtlas>

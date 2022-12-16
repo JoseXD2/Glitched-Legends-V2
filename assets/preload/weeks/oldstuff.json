@@ -1,0 +1,77 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"double-whammy-old",
+			"pico_pibby",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"lost-the-fight",
+			"fred_icon",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"order-up",
+			"sponge_boy",
+			[
+				0,
+				0,
+				0
+			]
+		],
+        [
+			"glitched-falls",
+			"dipper_pibby_icon",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"wish-come-true",
+			"timvickicon",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"glitchmageddon",
+			"bill_pibby_icon",
+			[
+				20,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oldaniamtedicon.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="oswald_l instancia 10000" x="0" y="0" width="174" height="123" frameX="-4" frameY="-4" frameWidth="178" frameHeight="138"/>
+	<SubTexture name="oswald_l instancia 10001" x="174" y="0" width="175" height="131" frameX="-1" frameY="-7" frameWidth="178" frameHeight="138"/>
+	<SubTexture name="oswald_l instancia 10002" x="349" y="0" width="172" height="123" frameX="-4" frameY="-4" frameWidth="178" frameHeight="138"/>
+	<SubTexture name="oswald_l instancia 10003" x="521" y="0" width="172" height="124" frameX="0" frameY="0" frameWidth="178" frameHeight="138"/>
+	<SubTexture name="oswald_l instancia 10004" x="693" y="0" width="170" height="123" frameX="-4" frameY="-4" frameWidth="178" frameHeight="138"/>
+	<SubTexture name="oswald_l instancia 10005" x="0" y="131" width="170" height="126" frameX="-8" frameY="-6" frameWidth="178" frameHeight="138"/>
+	<SubTexture name="oswald_l instancia 10006" x="0" y="0" width="174" height="123" frameX="-4" frameY="-4" frameWidth="178" frameHeight="138"/>
+	<SubTexture name="oswald_l instancia 10007" x="349" y="0" width="172" height="123" frameX="-4" frameY="-4" frameWidth="178" frameHeight="138"/>
+	<SubTexture name="oswald_l instancia 10008" x="349" y="0" width="172" height="123" frameX="-4" frameY="-4" frameWidth="178" frameHeight="138"/>
+	<SubTexture name="oswald_l instancia 10009" x="693" y="0" width="170" height="123" frameX="-4" frameY="-4" frameWidth="178" frameHeight="138"/>
+	<SubTexture name="oswald_n instancia 10000" x="170" y="131" width="220" height="129" frameX="0" frameY="-22" frameWidth="220" frameHeight="167"/>
+	<SubTexture name="oswald_n instancia 10001" x="390" y="131" width="220" height="125" frameX="0" frameY="-22" frameWidth="220" frameHeight="167"/>
+	<SubTexture name="oswald_n instancia 10002" x="390" y="131" width="220" height="125" frameX="0" frameY="-22" frameWidth="220" frameHeight="167"/>
+	<SubTexture name="oswald_n instancia 10003" x="610" y="131" width="220" height="132" frameX="0" frameY="-22" frameWidth="220" frameHeight="167"/>
+	<SubTexture name="oswald_n instancia 10004" x="0" y="263" width="197" height="167" frameX="-13" frameY="0" frameWidth="220" frameHeight="167"/>
+	<SubTexture name="oswald_n instancia 10005" x="197" y="263" width="220" height="130" frameX="0" frameY="-22" frameWidth="220" frameHeight="167"/>
+	<SubTexture name="oswald_n instancia 10006" x="197" y="263" width="220" height="130" frameX="0" frameY="-22" frameWidth="220" frameHeight="167"/>
+	<SubTexture name="oswald_n instancia 10007" x="417" y="263" width="220" height="126" frameX="0" frameY="-22" frameWidth="220" frameHeight="167"/>
+	<SubTexture name="oswald_n instancia 10008" x="417" y="263" width="220" height="126" frameX="0" frameY="-22" frameWidth="220" frameHeight="167"/>
+	<SubTexture name="oswald_n instancia 10009" x="170" y="131" width="220" height="129" frameX="0" frameY="-22" frameWidth="220" frameHeight="167"/>
+	<SubTexture name="oswald_w instancia 10000" x="637" y="263" width="178" height="140" frameX="-9" frameY="-9" frameWidth="195" frameHeight="149"/>
+	<SubTexture name="oswald_w instancia 10001" x="815" y="263" width="178" height="135" frameX="-14" frameY="-10" frameWidth="195" frameHeight="149"/>
+	<SubTexture name="oswald_w instancia 10002" x="0" y="430" width="183" height="136" frameX="-3" frameY="-8" frameWidth="195" frameHeight="149"/>
+	<SubTexture name="oswald_w instancia 10003" x="183" y="430" width="179" height="139" frameX="-15" frameY="0" frameWidth="195" frameHeight="149"/>
+	<SubTexture name="oswald_w instancia 10004" x="362" y="430" width="178" height="135" frameX="-6" frameY="-6" frameWidth="195" frameHeight="149"/>
+	<SubTexture name="oswald_w instancia 10005" x="540" y="430" width="178" height="137" frameX="-8" frameY="-6" frameWidth="195" frameHeight="149"/>
+	<SubTexture name="oswald_w instancia 10006" x="718" y="430" width="177" height="136" frameX="-2" frameY="-5" frameWidth="195" frameHeight="149"/>
+	<SubTexture name="oswald_w instancia 10007" x="0" y="569" width="178" height="137" frameX="-5" frameY="-5" frameWidth="195" frameHeight="149"/>
+	<SubTexture name="oswald_w instancia 10008" x="178" y="569" width="178" height="137" frameX="0" frameY="-4" frameWidth="195" frameHeight="149"/>
+	<SubTexture name="oswald_w instancia 10009" x="356" y="569" width="178" height="140" frameX="-6" frameY="-6" frameWidth="195" frameHeight="149"/>
+</TextureAtlas>

@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-36
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf_pibby_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf_pibby_right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				110,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 32,
+			"name": "bf_pibby_down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				81,
+				7
+			],
+			"anim": "singUP",
+			"fps": 32,
+			"name": "bf_pibby_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				55,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf_pibby_idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				-41
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bfm_pibby_left_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-59
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bfm_pibby_down_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				-3
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bfm_pibby_up_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-48
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bfm_pibby_right_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				-72
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "bf_pibby_hurt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-36
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "bfp_dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_looking_up",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf_pibby",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		62,
+		145
+	],
+	"camera_position": [
+		-170,
+		210
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

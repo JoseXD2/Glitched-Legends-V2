@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pibbehiconsanimated.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pibbeh_l instancia 10000" x="0" y="0" width="153" height="144" frameX="-15" frameY="0" frameWidth="181" frameHeight="148"/>
+	<SubTexture name="pibbeh_l instancia 10001" x="153" y="0" width="153" height="140" frameX="-8" frameY="0" frameWidth="181" frameHeight="148"/>
+	<SubTexture name="pibbeh_l instancia 10002" x="306" y="0" width="153" height="140" frameX="-4" frameY="0" frameWidth="181" frameHeight="148"/>
+	<SubTexture name="pibbeh_l instancia 10003" x="459" y="0" width="165" height="148" frameX="-8" frameY="0" frameWidth="181" frameHeight="148"/>
+	<SubTexture name="pibbeh_l instancia 10004" x="624" y="0" width="165" height="148" frameX="-16" frameY="0" frameWidth="181" frameHeight="148"/>
+	<SubTexture name="pibbeh_l instancia 10005" x="789" y="0" width="159" height="145" frameX="-9" frameY="0" frameWidth="181" frameHeight="148"/>
+	<SubTexture name="pibbeh_l instancia 10006" x="0" y="148" width="160" height="145" frameX="0" frameY="0" frameWidth="181" frameHeight="148"/>
+	<SubTexture name="pibbeh_l instancia 10007" x="160" y="148" width="152" height="141" frameX="-10" frameY="0" frameWidth="181" frameHeight="148"/>
+	<SubTexture name="pibbeh_l instancia 10008" x="312" y="148" width="152" height="141" frameX="-22" frameY="0" frameWidth="181" frameHeight="148"/>
+	<SubTexture name="pibbeh_l instancia 10009" x="464" y="148" width="153" height="144" frameX="-11" frameY="0" frameWidth="181" frameHeight="148"/>
+	<SubTexture name="pibbeh_n instancia 10000" x="617" y="148" width="128" height="126"/>
+	<SubTexture name="pibbeh_w instancia 10000" x="745" y="148" width="159" height="132"/>
+</TextureAtlas>

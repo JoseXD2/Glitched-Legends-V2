@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ranalaught.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ranaxd instancia 10000" x="0" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10001" x="0" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10002" x="0" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10003" x="221" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10004" x="221" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10005" x="221" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10006" x="442" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10007" x="442" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10008" x="442" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10009" x="663" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10010" x="663" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10011" x="663" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10012" x="663" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10013" x="663" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10014" x="663" y="0" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10015" x="0" y="221" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10016" x="0" y="221" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10017" x="0" y="221" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10018" x="221" y="221" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10019" x="221" y="221" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10020" x="221" y="221" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10021" x="442" y="221" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10022" x="442" y="221" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10023" x="442" y="221" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10024" x="663" y="221" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10025" x="663" y="221" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10026" x="663" y="221" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10027" x="0" y="442" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10028" x="0" y="442" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10029" x="0" y="442" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10030" x="221" y="442" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10031" x="221" y="442" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10032" x="221" y="442" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10033" x="442" y="442" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10034" x="442" y="442" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10035" x="442" y="442" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10036" x="663" y="442" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10037" x="663" y="442" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10038" x="663" y="442" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10039" x="0" y="663" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10040" x="0" y="663" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10041" x="0" y="663" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10042" x="221" y="663" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10043" x="221" y="663" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10044" x="221" y="663" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10045" x="442" y="663" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10046" x="442" y="663" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10047" x="442" y="663" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10048" x="663" y="663" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10049" x="663" y="663" width="221" height="221"/>
+	<SubTexture name="ranaxd instancia 10050" x="663" y="663" width="221" height="221"/>
+</TextureAtlas>

@@ -1,0 +1,4 @@
+This puts a image on the screen so that is really cool.
+
+Value 1: Name of the image
+Value 2: Duration (in seconds)

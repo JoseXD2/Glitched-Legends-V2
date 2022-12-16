@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankman.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tankman instancia 10000" x="0" y="0" width="340" height="434" frameX="-7" frameY="-25" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10001" x="0" y="0" width="340" height="434" frameX="-7" frameY="-25" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10002" x="340" y="0" width="336" height="439" frameX="0" frameY="-19" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10003" x="340" y="0" width="336" height="439" frameX="0" frameY="-19" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10004" x="676" y="0" width="332" height="446" frameX="-2" frameY="-12" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10005" x="676" y="0" width="332" height="446" frameX="-2" frameY="-12" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10006" x="0" y="446" width="333" height="456" frameX="-1" frameY="-2" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10007" x="0" y="446" width="333" height="456" frameX="-1" frameY="-2" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10008" x="333" y="446" width="334" height="458" frameX="0" frameY="0" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10009" x="333" y="446" width="334" height="458" frameX="0" frameY="0" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10010" x="333" y="446" width="334" height="458" frameX="0" frameY="0" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10011" x="333" y="446" width="334" height="458" frameX="0" frameY="0" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10012" x="333" y="446" width="334" height="458" frameX="0" frameY="0" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10013" x="333" y="446" width="334" height="458" frameX="0" frameY="0" frameWidth="347" frameHeight="459"/>
+	<SubTexture name="tankman instancia 10014" x="333" y="446" width="334" height="458" frameX="0" frameY="0" frameWidth="347" frameHeight="459"/>
+</TextureAtlas>

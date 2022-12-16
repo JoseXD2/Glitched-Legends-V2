@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tomanimatedicons.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tom_l instancia 10000" x="0" y="0" width="636" height="150" frameX="-30" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10001" x="636" y="0" width="636" height="150" frameX="-30" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10002" x="636" y="0" width="636" height="150" frameX="-30" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10003" x="1272" y="0" width="636" height="164" frameX="-30" frameY="0" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10004" x="0" y="164" width="666" height="150" frameX="0" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10005" x="666" y="164" width="636" height="150" frameX="-30" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10006" x="666" y="164" width="636" height="150" frameX="-30" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10007" x="1302" y="164" width="636" height="150" frameX="-30" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10008" x="1302" y="164" width="636" height="150" frameX="-30" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10009" x="0" y="314" width="636" height="150" frameX="-30" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10010" x="0" y="314" width="636" height="150" frameX="-30" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10011" x="636" y="314" width="636" height="150" frameX="-30" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10012" x="636" y="314" width="636" height="150" frameX="-30" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10013" x="666" y="164" width="636" height="150" frameX="-30" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_l instancia 10014" x="666" y="164" width="636" height="150" frameX="-30" frameY="-14" frameWidth="666" frameHeight="164"/>
+	<SubTexture name="tom_n instancia 10000" x="1272" y="314" width="156" height="171" frameX="0" frameY="-3" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10001" x="1428" y="314" width="95" height="88" frameX="0" frameY="-81" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10002" x="1523" y="314" width="172" height="168" frameX="0" frameY="0" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10003" x="1695" y="314" width="158" height="163" frameX="0" frameY="-3" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10004" x="1695" y="314" width="158" height="163" frameX="0" frameY="-3" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10005" x="1853" y="314" width="156" height="163" frameX="-2" frameY="-3" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10006" x="1853" y="314" width="156" height="163" frameX="-2" frameY="-3" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10007" x="0" y="485" width="157" height="167" frameX="-1" frameY="-3" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10008" x="0" y="485" width="157" height="167" frameX="-1" frameY="-3" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10009" x="157" y="485" width="158" height="171" frameX="0" frameY="-3" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10010" x="157" y="485" width="158" height="171" frameX="0" frameY="-3" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10011" x="315" y="485" width="158" height="165" frameX="0" frameY="-3" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10012" x="315" y="485" width="158" height="165" frameX="0" frameY="-3" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10013" x="1695" y="314" width="158" height="163" frameX="0" frameY="-3" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_n instancia 10014" x="1695" y="314" width="158" height="163" frameX="0" frameY="-3" frameWidth="172" frameHeight="174"/>
+	<SubTexture name="tom_w instancia 10000" x="473" y="485" width="194" height="162" frameX="-15" frameY="-3" frameWidth="220" frameHeight="168"/>
+	<SubTexture name="tom_w instancia 10001" x="667" y="485" width="193" height="158" frameX="-26" frameY="-2" frameWidth="220" frameHeight="168"/>
+	<SubTexture name="tom_w instancia 10002" x="860" y="485" width="194" height="161" frameX="-2" frameY="-1" frameWidth="220" frameHeight="168"/>
+	<SubTexture name="tom_w instancia 10003" x="1054" y="485" width="194" height="165" frameX="-15" frameY="-2" frameWidth="220" frameHeight="168"/>
+	<SubTexture name="tom_w instancia 10004" x="1248" y="485" width="194" height="166" frameX="-4" frameY="0" frameWidth="220" frameHeight="168"/>
+	<SubTexture name="tom_w instancia 10005" x="1442" y="485" width="194" height="164" frameX="-13" frameY="-1" frameWidth="220" frameHeight="168"/>
+	<SubTexture name="tom_w instancia 10006" x="1636" y="485" width="194" height="166" frameX="0" frameY="-2" frameWidth="220" frameHeight="168"/>
+	<SubTexture name="tom_w instancia 10007" x="1830" y="485" width="194" height="161" frameX="-11" frameY="-4" frameWidth="220" frameHeight="168"/>
+	<SubTexture name="tom_w instancia 10008" x="0" y="656" width="194" height="160" frameX="-2" frameY="-3" frameWidth="220" frameHeight="168"/>
+</TextureAtlas>

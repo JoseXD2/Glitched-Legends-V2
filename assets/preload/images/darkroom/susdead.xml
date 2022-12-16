@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="susdead.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ssafasfg instancia 10000" x="0" y="0" width="636" height="1210" frameX="-16" frameY="0" frameWidth="652" frameHeight="1227"/>
+	<SubTexture name="ssafasfg instancia 10001" x="0" y="0" width="636" height="1210" frameX="-16" frameY="0" frameWidth="652" frameHeight="1227"/>
+	<SubTexture name="ssafasfg instancia 10002" x="636" y="0" width="646" height="1227" frameX="-6" frameY="0" frameWidth="652" frameHeight="1227"/>
+	<SubTexture name="ssafasfg instancia 10003" x="636" y="0" width="646" height="1227" frameX="-6" frameY="0" frameWidth="652" frameHeight="1227"/>
+	<SubTexture name="ssafasfg instancia 10004" x="1282" y="0" width="652" height="1223" frameX="0" frameY="0" frameWidth="652" frameHeight="1227"/>
+	<SubTexture name="ssafasfg instancia 10005" x="1282" y="0" width="652" height="1223" frameX="0" frameY="0" frameWidth="652" frameHeight="1227"/>
+	<SubTexture name="ssafasfg instancia 10006" x="1934" y="0" width="638" height="1210" frameX="-14" frameY="0" frameWidth="652" frameHeight="1227"/>
+	<SubTexture name="ssafasfg instancia 10007" x="1934" y="0" width="638" height="1210" frameX="-14" frameY="0" frameWidth="652" frameHeight="1227"/>
+	<SubTexture name="ssafasfg instancia 10008" x="2572" y="0" width="634" height="1210" frameX="-18" frameY="0" frameWidth="652" frameHeight="1227"/>
+</TextureAtlas>
