@@ -49,7 +49,7 @@ class Cache extends MusicBeatState
 
 		var bg:FlxSprite = new FlxSprite(0, 0).makeGraphic(FlxG.width, FlxG.height, 0xffcaff4d);
 		add(bg);
-		var menuBG:FlxSprite = new FlxSprite(0, 0).loadGraphic(Paths.getPath('images/funkay.png', IMAGE));
+		var menuBG:FlxSprite = new FlxSprite(0, 0).loadGraphic(Paths.getPath('images/Load.png', IMAGE));
 		menuBG.setGraphicSize(0, FlxG.height);
 		menuBG.updateHitbox();
 		menuBG.antialiasing = ClientPrefs.globalAntialiasing;
@@ -58,7 +58,7 @@ class Cache extends MusicBeatState
 		menuBG.screenCenter();
 
 		#if cpp
-		for (i in HSys.readDirectory("assets/shared/images/characters"))
+		for (i in HSys.readDirectory("assets/images/icons"))
 		{
 			if (!i.endsWith(".png"))
 				continue;
