@@ -30,7 +30,7 @@ function onStartCountdown()
 end
 
 function onUpdate()
-	if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.SPACE') and confirmed == 0 then
+	if getPropertyFromClass('flixel.FlxG', 'up') and confirmed == 0 then
 		allowCountdown = true
 		startCountdown();
 		doTweenAlpha('nomorewarningimage', 'warningimage', 0, 1, sineOut);
@@ -40,7 +40,7 @@ function onUpdate()
 		confirmed = 1
 	end
 	
-	if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.ESCAPE') and confirmed == 0 then
+	if getPropertyFromClass('flixel.FlxG', 'down') and confirmed == 0 then
 		allowCountdown = true
 		confirmed = 1
 		playSound('cancelMenu');
