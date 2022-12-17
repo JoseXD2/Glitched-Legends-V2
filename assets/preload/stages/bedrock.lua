@@ -28,7 +28,7 @@ function onCreate()
 	scaleObject('bedrockfront2', 1, 1);
         addLuaSprite('bedrockfront2', false);
 
-        makeAnimatedLuaSprite('charactersbarbera2','bedrock/barney_idle',2470, 400)
+        makeAnimatedLuaSprite('charactersbarbera2','bedrock/Barney_idle',2470, 400)
         addAnimationByPrefix('charactersbarbera2','dance','pablo_idle',24,false)
         addLuaSprite('charactersbarbera2', false);
 	scaleObject('charactersbarbera2', 0.8, 0.8);
