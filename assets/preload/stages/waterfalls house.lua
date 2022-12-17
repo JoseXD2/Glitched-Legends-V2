@@ -1,6 +1,6 @@
 function onCreate()
 	-- background shit
-	makeLuaSprite('waterback1', 'determinatedland/waterfallshouseback', -730,-600 );
+	makeLuaSprite('waterback1', 'Determinatedland/waterfallshouseback', -730,-600 );
 	setScrollFactor('waterback1', 1, 1);
         scaleObject('waterback1', 2.5, 2.3);
         addLuaSprite('waterback1', false);
