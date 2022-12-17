@@ -2996,7 +2996,7 @@
 		"player3": null,
 		"cutsceneType": "senpai",
 		"isSpooky": false,
-		"song": "Senpai.data not found",
+		"song": "senpaidata-not-found",
 		"validScore": true,
 		"speed": 2.6,
 		"sectionLengths": [],
