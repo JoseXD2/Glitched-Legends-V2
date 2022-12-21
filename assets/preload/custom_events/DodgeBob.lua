@@ -94,7 +94,7 @@ doTweenColor('hh', 'bar4', '006051', 0.0001, 'linear')
 end
 
 function onUpdate(elapsed)
-	if can == true and keyJustPressed('left') then
+	if (getMouseX('camHUD') > 1150 and getMouseX('camHUD') < 1280) and (getMouseY('camHUD') > 582.5 and getMouseY('camHUD') < 720 and mousePressed('left')) or keyPressed('space') then
 hit = true
 doTweenColor('gw', 'bar4', '80FF00', 0.00001, 'linear')
 
