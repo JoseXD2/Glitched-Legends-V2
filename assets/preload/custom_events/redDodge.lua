@@ -73,7 +73,7 @@ end
 
 function onUpdate()
     if canDodge == true then
-	if keyPressed("space") then
+	if (getMouseX('camHUD') > 1150 and getMouseX('camHUD') < 1280) and (getMouseY('camHUD') > 582.5 and getMouseY('camHUD') < 720 and mousePressed('left')) or keyPressed('space') then
 Dodged = true;
        setProperty('bfd.alpha', 1);
   objectPlayAnimation('bfd', 'dod', true)
